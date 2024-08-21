@@ -4,6 +4,7 @@ import Header from "../components/Header.astro";
 import Footer from "../components/Footer.astro";
 import { SITE_TITLE, SITE_DESCRIPTION } from "../consts";
 import { getCollection } from "astro:content";
+import FormattedDate from "../components/FormattedDate.astro";
 
 const POSTS_PER_PAGE = 5;
 const url = new URL(import.meta.env.SITE + Astro.url.pathname);
@@ -79,17 +80,12 @@ function getExcerpt(post) {
       <div class="post-list">
         {
           posts.map((post) => {
-            const formattedDate = new Date(
-              post.data.pubDate
-            ).toLocaleDateString("en-US", {
-              year: "numeric",
-              month: "long",
-              day: "numeric",
-            });
             const excerpt = getExcerpt(post);
             return (
               <div class="post">
-                <p class="post-date">🙣 Posted on {formattedDate} 🙠</p>
+                <p class="post-date">
+                  🙣 Posted on {<FormattedDate date={post.data.pubDate} />} 🙠
+                </p>
                 <h2>
                   <a class="post-title" href={`/blog/${post.slug}`}>
                     {post.data.title}
