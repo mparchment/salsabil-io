@@ -12,10 +12,10 @@ const currentPage = parseInt(url.searchParams.get("page")) || 1;
 
 const allPosts = await getCollection("blog");
 
-// Filter posts to only include those published before the current date
-const filteredPosts = allPosts.filter(
-  (post) => new Date(post.data.pubDate) <= new Date()
-);
+// Filter and sort posts to include only those published before the current date and in descending order
+const filteredPosts = allPosts
+  .filter((post) => new Date(post.data.pubDate) <= new Date())
+  .sort((a, b) => new Date(b.data.pubDate) - new Date(a.data.pubDate)); // Sort by date descending
 
 const totalPages = Math.ceil(filteredPosts.length / POSTS_PER_PAGE);
 const start = (currentPage - 1) * POSTS_PER_PAGE;

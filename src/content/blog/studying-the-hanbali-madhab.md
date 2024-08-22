@@ -134,11 +134,11 @@ Although this book is primarily on **ahadith al-ahkam**, it should also be studi
 
 Read **Al-’Ayn wa’l-Athar** by Al-Ba’li with its commentary: **Ittiba’ al-Athar** by Faris al-Khazraji.
 
-The best work on internal Hanbali khilaf regarding aqa’id is **Nihayat al-Mubtadi’in** by Ibn Hamdan. Use the edition of Muhammad ‘Abd al-Wahid, which provides the reference for each position mentioned, and listen to the recorded commentary of ‘Abdurrahman al-Sallti.
+The most important work on internal Hanbali khilaf is **Nihayat al-Mubtadi’in** by Ibn Hamdan. Use the edition of Muhammad ‘Abd al-Wahid, which provides the reference for each position mentioned, and listen to the recorded commentary of ‘Abdurrahman al-Salti.
 
 Supplement this by reading **Mukhtasar Lawami’ al-Anwar** by Hasan al-Shatti, his summary of al-Saffarini’s much longer commentary.
 
-At some point, read **Hallal al-’Uqad** by Najm al-Din al-Tufi, which is structured as a detailed commentary on **Hadith Jibril**. In this work, he presents the views of other groups and assesses their evidence from an impartial perspective.
+At some point, read **Hallal al-’Uqad** by Najm al-Din al-Tufi, a detailed commentary on Hadith Jibril. In this work, he presents the views of other groups and assesses their evidence from an impartial perspective.
 
 <center>
  <u>Suluk:</u> <b>Futuh al-Ghayb</b> by ‘Abd al-Qadir al-Jilani
