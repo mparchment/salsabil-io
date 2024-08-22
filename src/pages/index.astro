@@ -82,6 +82,15 @@ function getExcerpt(post) {
       h2 {
         text-align: center;
       }
+
+      @media (max-width: 768px) {
+        main {
+          padding: 0;
+          margin: 0;
+          width: 100%;
+          max-width: 100%;
+        }
+      }
     </style>
   </head>
   <body>
@@ -95,7 +104,7 @@ function getExcerpt(post) {
             return (
               <div class="post">
                 <p class="post-date">
-                  🙣 Posted on {<FormattedDate date={post.data.pubDate} />} 🙠
+                  🙚 Posted on {<FormattedDate date={post.data.pubDate} />} 🙘
                 </p>
                 <h2>
                   <a class="post-title" href={`/blog/${post.slug}`}>
