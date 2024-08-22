@@ -13,7 +13,7 @@ Muwaffaq al-Din b. Qudamah (620 AH) wrote in the introduction to **al-Mughni**:
 >
 > Our Imam, Abu Abdallah Ahmad b. Hanbal, may Allah be pleased with him, is from the highest of them in virtue, the closest in his connection to Allah, the most emulous of the Messenger of Allah ﷺ and most knowledgeable of his Sunnah, the most minimal in indulging in the Dunya, and the most dedicated to voluntary worship of his Lord. For this reason, we have chosen his school.
 
-The following curriculum is based on the assumption that one has studied the basics through works such as **Bidayat al-῾Abid**, **Kafi al-Mubtadi**, **῾Umdat al-Talib**, **Akhsar al-Mukhtasarat**, or **Al-Aqwal Al-Mardiyyah**; the last of which mentions hadith for each issue and avoids the cryptic language often found in primers. 
+The following curriculum is based on the assumption that one has studied the basics through works such as **Bidayat al-῾Abid**, **Kafi al-Mubtadi**, **῾Umdat al-Talib**, **Akhsar al-Mukhtasarat**, or **Al-Aqwal Al-Mardiyyah**; the last of which mentions hadith for each issue and avoids the cryptic language found in other primers. 
 
 ## <center>Elementary Level (الإقتصار)</center>
 
@@ -32,13 +32,13 @@ For revision, use **al-As῾ilat wa’l-Ajwibat** by ῾Abd al-Wahid al-Faris, w
  <u>Ikhtilaf:</u> <b>Raf’ al-Malam</b> by Taqi al-Din b. Taymiyyah (728 AH)
 </center>
 
-Ibn Taymiyyah’s **Raf' al-Malam** provides a solid foundation for the asbab of khilaf. It must be accompanied with the audio commentary of Yusuf al-Ghafis, which provides invaluable advice on dealing with khilaf and how to approach one’s studies.
+Ibn Taymiyyah’s **Raf' al-Malam** provides a solid foundation for the asbab of khilaf. It must be accompanied with the audio commentary of **Yusuf al-Ghafis**, which provides invaluable advice on dealing with khilaf and how to approach one’s studies.
 
 <center>
  <u>Usul al-Fiqh:</u> <b>Mukhtasar al-Tahrir</b> by Ibn al-Najjar al-Futuhi
 </center>
 
-The book to study at this level is **Mukhtasar al-Tahrir** by Ibn al-Najjar. He authored this text as an abridgement of **Tahrir al-Manqul** by al-Mardawi, with similar coverage to **Jam al-Jawami’** by Taj al-Din al-Subki. At this stage, focus intensely on the ‘aqli foundations of the principles throughout the text. Listen to the recordings of Hasan Bukhari.
+The book to study at this level is **Mukhtasar al-Tahrir** by Ibn al-Najjar. He authored this text as an abridgement of **Tahrir al-Manqul** by al-Mardawi, with similar coverage to **Jam al-Jawami’** by Taj al-Din al-Subki. At this stage, focus intensely on the ‘aqli foundations of the principles throughout the text. Listen to the lessons of **Hasan Bukhari** on the book.
 
 <center>
  <u>Adillah:</u> <b>‘Umdat al-Ahkam</b> by ‘Abd al-Ghani al-Maqdisi
@@ -84,7 +84,7 @@ Due to the status of the original author, the abridger, and the commentator, **a
 
 For major ishkalat, begin referencing the equivalent passage in the commentaries of **al-Muqni῾** including as **al-Mumti῾**, **al-Mubdi῾**, **al-Shafi**, and **al-Insaf**. Doing this will build one’s expertise in fiqh and will provide the foundation for a complete study of **al-Muqni῾** at a later stage. 
 
-At this point, supplement this with **Hidayat al-Raghib** by Ibn Qa’id al-Najdi (1094 AH), his commentary on **‘Umdat al-Talib** by al-Buhuti. Ibn Qa῾id mentions qawa῾id, conditions, exceptions, and reasoning of the masa῾il, which are among the most important things to learn for an intermediate student. This book matches al-Rawd al-Murbi’ to a large extent, on top of being organized and well-presented. Ibn ῾Iwad has an important hashiyah on Hidayat al-Raghib titled **Fath Muli al-Mawahib**.
+Supplement this with **Hidayat al-Raghib** by Ibn Qa’id al-Najdi (1094 AH), his commentary on **‘Umdat al-Talib** by al-Buhuti. Ibn Qa῾id mentions qawa῾id, conditions, exceptions, and reasoning of the masa῾il, which are among the most important things to learn for an intermediate student. This book matches al-Rawd al-Murbi’ to a large extent, on top of being organized and well-presented. Ibn ῾Iwad has an important hashiyah on Hidayat al-Raghib titled **Fath Muli al-Mawahib**.
 
 Read **Muqaddimat al-Insaf** by al-Mardawi (885 AH). This will explain the structure of the madhab and the approach used by the muta’akhirin to determine the madhab’s relied-upon positions.
 
@@ -92,9 +92,9 @@ Read **Muqaddimat al-Insaf** by al-Mardawi (885 AH). This will explain the struc
  <u>Usul al-Fiqh:</u> <b>Sharh Mukhtasar al-Rawdah</b> by Najm al-Din al-Tufi
 </center>
 
-This book is beloved by the Hanbalis who deem it the best work on usul al-fiqh ever written. It is the author’s commentary on his abridgement of **Rawdat al-Nadhir**, which was itself Ibn Qudamah’s recension of **al-Mustasfa** by al-Ghazali. Al-Tufi has a unique, accessible writing style, and his book is filled with gems of humility.
+This book is beloved by the Hanbalis who deem it the best work on usul al-fiqh ever written. It is the author’s commentary on his abridgement of **Rawdat al-Nadhir**, Ibn Qudamah’s recension of **al-Mustasfa** by al-Ghazali. Al-Tufi had a unique, accessible style, and his book is filled with gems of humility.
 
-Before reading each section in **Sharh Mukhtasar al-Rawdah**, read the corresponding passage in **al-Mustasfa**. Listen to the recorded lessons of Hasan Bukhari on **Mukhtasar al-Rawdah** and for revision, use **Taysir Fahm Rawdat al-Nadhir** by Majid al-’Askari, which presents the material in question-answer format.
+Before reading each section in **Sharh Mukhtasar al-Rawdah**, read the corresponding passage in al-Mustasfa. Listen to the recorded lessons of Hasan Bukhari on **Mukhtasar al-Rawdah** and for revision, use **Taysir Fahm Rawdat al-Nadhir** by Majid al-’Askari, which presents the material in question-answer format.
 
 Complement this by reading **Tashnif al-Masami’** by al-Zarkashi, his commentary on Taj al-Din al-Subki’s **Jam al-Jawami’**. This is an excellent follow-up to **Sharh Mukhtasar al-Rawdah**. The author had a gift in knowing how to sift through opinions and engage with the tradition. Listen to the recordings of Hasan Bukhari on **Jam’ al-Jawami’** while studying this book.
 
@@ -269,14 +269,14 @@ The first step of this level is a study of al-Muqni῾ and the family of works b
 
 **Al-Insaf** is the encyclopedia of internal Hanbali differences, with the relied-upon view being highlighted. Imam al-Mardawi marks the final stage of development for the madhab and was given the laqab of al-Murajjih, al-Musahhih, and al-Munaqqih.
 
-Al-Mumti῾ largely focuses on istidlal and niqash, al-Insaf on naql of the madhab, al-Sharh al-Kabir on adillah, while al-Mubdi῾ strikes a balance between istidlal and naql. The last two were heavily influential on later scholars for istidlal of the madhab. Considered together, these commentaries strike a balance between studying khilaf ῾ali, which widens ones perspective, and khilaf nazil, which deepens one’s understanding of each far’ and the subtitles of ta῾lil. It is impossible to delve, with some semblance of objectivity, into works of istidlalat and khilaf ῾ali and come out still holding to all of the madhab’s relied-upon positions. However, doing this will increase one’s respect for the genius of the madhab's imam and overall approach.
+Of these commentaries, al-Mumti῾ largely focuses on istidlal and niqash, al-Insaf on naql of the madhab, al-Sharh al-Kabir on adillah, while al-Mubdi῾ strikes a balance between istidlal and naql. The last two were heavily influential on later scholars for istidlal of the madhab. Considered together, these commentaries strike a balance between studying khilaf ῾ali, which widens ones perspective, and khilaf nazil, which deepens one’s understanding of each far’ and the subtitles of ta῾lil. It is impossible to delve, with some semblance of objectivity, into works of istidlalat and khilaf ῾ali and come out still holding to all of the madhab’s relied-upon positions. However, doing this will increase one’s respect for the genius of the madhab's imam and overall approach.
 
-After this, the objective is to understand the development of the madhab’s opinions. Using Ibn Muflih’s **al-Furu’** as the foundation, reference the nusus of Ahmad gathered by the madhab’s earliest scholars. Begin by reading Masa’il Abu Dawud and Masa’il ‘Abdullah because they are the most organized and reliable collections. Then read Masa’il al-Kawsaj, which includes the opinions of both Ahmad and Ibn Rahawayh. Al-Kawsaj’s collection was an important source for ahl al-hadith, and Al-Kawsaj was Al-Tirmidhi main source for the opinions of Ahmad. At times, the madhab uses the statements of Ibn Rahawayh to perform tarjih between the opinions of Ahmad, such as for the obligation of tasmiyyah in wudu’ and placement of the hands in salah. 
+After this, the objective is to understand the development of the madhab’s opinions. Using Ibn Muflih’s **al-Furu’** as the foundation, reference the nusus of Ahmad gathered by the madhab’s earliest scholars. Begin by reading **Masa’il Abu Dawud** and **Masa’il ‘Abdullah** as they are the most organized and reliable collections. Then read **Masa’il al-Kawsaj**, which includes the opinions of both Ahmad and Ibn Rahawayh. Al-Kawsaj’s collection was an important source for ahl al-hadith, and al-Kawsaj was al-Tirmidhi main source for the opinions of Ahmad. At times, the madhab uses the statements of Ibn Rahawayh to perform tarjih between the opinions of Ahmad, such as for the obligation of tasmiyyah in wudu’ and placement of the hands in salah. 
 
 Repeat this process for the other madhabs and their ummahat. Begin with the Shafi’i madhab due to the natural connection between it and the Hanbali madhab. Imam Ahmad mentions that al-Shafi’i gave Ahl al-Hadith a framework to clearly extract rulings from the nusus and often recommended studying his works. Read **Nihayat al-Matlab** by Abu'l-Ma'ali al-Juwayni and **al-Umm** by al-Shafi’i. Nihayat al-Matlab is one of the greatest works in fiqh ever written, where al-Juwayni clearly explains the ta’lilat and shows how the furu’ of a bab tie back to the ta’lil of its usul. Al-Shafi'i himself will similarly begin each chapter with his evidence and branch out from there. His reasoning is of higher quality and much more transparent than what many later texts and commentaries within the Shafi’i madhab provide. Read Abu Shamah’s **Khutbah al-Kitab al-Mu’ammal**. **Al-Awsat** by Ibn al-Mundhir should also be consulted, as he was an independent jurist with a Shafi’i pedigree. 
 
-Read **Bada’i al-Sana’i** by al-Kasani and **Al-Asl** by Muhammad al-Shaybani. 
+Read **Bada’i al-Sana’i** by 'Ala al-Din al-Kasani and **al-Asl** by Muhammad b. al-Hasan al-Shaybani. 
 
 Before commencing with the Maliki madhab, read **Tasmiya wa’l-Hikayat** by al-Saraqusti. This early book on tabaqat sheds light on how a madhab is built and evolves, politics and issues between scholars, along with how, and why, certain books become relied upon in the madhab. Read **al-Dhakhirah** by al-Qarafi and **al-Mudawwanah** by Shanun. 
 
-For contemporary issues in finance, read **al-Mu’amalat al-Maliyyah** by al-Dubyan.
+For contemporary issues in finance, read **al-Mu’amalat al-Maliyyah** by al-Dubayyan.
