@@ -11,10 +11,16 @@ const url = new URL(import.meta.env.SITE + Astro.url.pathname);
 const currentPage = parseInt(url.searchParams.get("page")) || 1;
 
 const allPosts = await getCollection("blog");
-const totalPages = Math.ceil(allPosts.length / POSTS_PER_PAGE);
+
+// Filter posts to only include those published before the current date
+const filteredPosts = allPosts.filter(
+  (post) => new Date(post.data.pubDate) <= new Date()
+);
+
+const totalPages = Math.ceil(filteredPosts.length / POSTS_PER_PAGE);
 const start = (currentPage - 1) * POSTS_PER_PAGE;
 const end = start + POSTS_PER_PAGE;
-const posts = allPosts.slice(start, end);
+const posts = filteredPosts.slice(start, end);
 
 function getExcerpt(post) {
   return post.data.excerpt || post.body.slice(0, 350) + "...";
@@ -64,12 +70,17 @@ function getExcerpt(post) {
         margin: 0;
         text-decoration: none;
         color: var(--red);
+        text-align: center;
       }
 
       .post-date {
         font-size: 14px;
         color: var(--gray-light);
         font-style: italic;
+      }
+
+      h2 {
+        text-align: center;
       }
     </style>
   </head>
@@ -91,7 +102,7 @@ function getExcerpt(post) {
                     {post.data.title}
                   </a>
                 </h2>
-                <p class="post-excerpt">{excerpt}</p>
+                <p class="post-excerpt">{post.data.description}</p>
               </div>
             );
           })
