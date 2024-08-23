@@ -94,7 +94,7 @@ body {
 	word-wrap: break-word;
 	overflow-wrap: break-word;
 	color: var(--gray-text);
-	font-size: 14px;
+	font-size: .875rem;
 	line-height: 1.7;
 }
 main {
