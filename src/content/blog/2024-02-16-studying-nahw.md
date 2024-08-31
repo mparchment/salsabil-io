@@ -1,9 +1,10 @@
 ---
 title: 'Studying Nahw'
+date: "2024-02-16"
 description: 'One question students of sacred knowledge often ask is: "what is the proper method of acquiring the understanding of a particular legal school of thought?" The following is a detailed guide to the study of the Hanbali madhab in order to gain true mastery.'
-pubDate: 'Aug 21 2027'
-heroImage: '/blog-placeholder-3.jpg'
+image: "hagia-sophia.jpg"
 ---
+
 
 <center><b>Qatr al-Nada</b>
 by Ibn Hisham al-Ansari</center>

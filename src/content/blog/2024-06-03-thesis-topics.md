@@ -1,8 +1,8 @@
 ---
-title: 'Thesis Topics'
+title: "Thesis Topics"
+date: "2024-06-03"
 description: 'A selection of research ideas for examining various aspects of Islamic jurisprudence and historical legal studies. Topics include the application of principles like istihsan and masalih mursalah, the role of Amal Ahl al-Madinah, and comparative analyses of influential scholars and texts. These are topics I plan to write about, and others are welcome to explore and build upon them as well.'
-pubDate: 'Aug 22 2024'
-heroImage: '/blog-placeholder-3.jpg'
+image: "hagia-sophia.jpg"
 ---
 
 <u>Adillah Mukhtalaf Fiha:</u> Study the principles like istihsan, masalih mursalah, and sadd al-dhara'i, emphasizing their universality. Analyze the variance in application of these principles among the various madhabs. 

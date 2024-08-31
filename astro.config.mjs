@@ -1,10 +1,15 @@
 import { defineConfig } from 'astro/config';
-import mdx from '@astrojs/mdx';
+import tailwind from '@astrojs/tailwind';
+import react from '@astrojs/react';
 
-import sitemap from '@astrojs/sitemap';
-
-// https://astro.build/config
 export default defineConfig({
-	site: 'https://salsabil.io',
-  integrations: [mdx()],
-})
+  site: 'https://salsabil.io',
+  integrations: [tailwind(), react()],
+  content: {
+    collections: {
+      blog: {
+        path: 'src/content/blog',
+      },
+    },
+  },
+});
