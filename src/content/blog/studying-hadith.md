@@ -1,8 +1,8 @@
 ---
 title: 'Studying Hadith'
-date: "2024-04-29"
-description: 'One question students of sacred knowledge often ask is: "what is the proper method of acquiring the understanding of a particular legal school of thought?" The following is a detailed guide to the study of the Hanbali madhab in order to gain true mastery.'
-image: "quran-lesson.jpg"
+description: "This guide provides an overview of key books and their supplemental materials, offering a structured path for deepening one's understanding of hadith sciences."
+pubDate: 'Jul 08 2022'
+heroImage: '/hagia-sophia.jpg'
 ---
 
 <center><b>Al-Wadih</b>

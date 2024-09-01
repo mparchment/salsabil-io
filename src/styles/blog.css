@@ -1,0 +1,77 @@
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: 'Cinzel', serif;
+    font-weight: 600;
+}
+h1 {
+    font-size: 2em; 
+}
+h2 {
+    font-size: 1.5em; 
+}
+h3 {
+    font-size: 1.17em; 
+}
+h4 {
+    font-size: 1em;
+}
+h5 {
+    font-size: 0.83em; 
+}
+strong,
+b {
+	font-weight: 700;
+}
+a {
+	color: #781e0e;
+}
+a:hover {
+	color: #781e0e;
+}
+p {
+	margin-bottom: 1em;
+}
+
+.prose p {
+	margin-bottom: 2em;
+}
+textarea {
+	width: 100%;
+	font-size: 16px;
+}
+input {
+	font-size: 16px;
+}
+table {
+	width: 100%;
+}
+img {
+	max-width: 100%;
+	height: auto;
+	border-radius: 8px;
+}
+code {
+	padding: 2px 5px;
+	background-color: rgb(var(--gray-light));
+	border-radius: 2px;
+}
+pre {
+	padding: 1.5em;
+	border-radius: 8px;
+}
+pre > code {
+	all: unset;
+}
+blockquote {
+	border-left: 4px solid #781e0e;
+	padding: 0 0 0 20px;
+	margin: 0px;
+}
+hr {
+	border: none;
+	border-top: 1px solid rgb(var(--gray-light));
+}

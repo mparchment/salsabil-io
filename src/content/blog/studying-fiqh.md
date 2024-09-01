@@ -1,8 +1,8 @@
 ---
-title: "Studying the Hanbali Madhhab"
-date: "2024-08-29"
+title: 'Studying Hanbali Fiqh'
 description: 'One question students of sacred knowledge often ask is: "what is the proper method of acquiring the understanding of a particular legal school of thought?" The following is a detailed guide to the study of the Hanbali madhab in order to gain true mastery.'
-image: "azhar.jpeg"
+pubDate: 'Sep 13 2024'
+heroImage: '/dhikr.jpg'
 ---
 
 Muwaffaq al-Din b. Qudamah (620 AH) wrote in the introduction to **al-Mughni**:
@@ -16,11 +16,13 @@ Muwaffaq al-Din b. Qudamah (620 AH) wrote in the introduction to **al-Mughni**:
 The following curriculum is based on the assumption that one has studied the basics through works such as **Bidayat al-῾Abid**, **Kafi al-Mubtadi**, **῾Umdat al-Talib**, **Akhsar al-Mukhtasarat**, or **Al-Aqwal Al-Mardiyyah**; the last of which mentions hadith for each issue and avoids the cryptic language found in other primers. 
 
 ## <center>Elementary Level (الإقتصار)</center>
+<br>
 
 <br>
 <center>
 <b>Dalil al-Talib li-Nayl al-Marib</b> by Mar῾i b. Yusuf al-Karmi (1033 AH)
 </center>
+<br>
 
 This book is widely taught throughout the Arabian Peninsula and was often memorized in Sham. It is very clear and contains more detail than other books of a similar size. Listen to the recordings of **Muhammad ῾Abd al-Wahid**, which are indispensable for clarifying the positions of the madhab.
 
@@ -31,18 +33,24 @@ For revision, use **al-As῾ilat wa’l-Ajwibat** by ῾Abd al-Wahid al-Faris, w
 <center>
  <u>Ikhtilaf:</u> <b>Raf’ al-Malam</b> by Taqi al-Din b. Taymiyyah (728 AH)
 </center>
+<br>
+<br>
 
 Ibn Taymiyyah’s **Raf' al-Malam** provides a solid foundation for the asbab of khilaf. It must be accompanied with the audio commentary of **Yusuf al-Ghafis**, which provides invaluable advice on dealing with khilaf and how to approach one’s studies.
 
 <center>
  <u>Usul al-Fiqh:</u> <b>Mukhtasar al-Tahrir</b> by Ibn al-Najjar al-Futuhi
 </center>
+<br>
+<br>
 
 The book to study at this level is **Mukhtasar al-Tahrir** by Ibn al-Najjar. He authored this text as an abridgement of **Tahrir al-Manqul** by al-Mardawi, with similar coverage to **Jam al-Jawami’** by Taj al-Din al-Subki. At this stage, focus intensely on the ‘aqli foundations of the principles throughout the text. Listen to the lessons of **Hasan Bukhari** on the book.
 
 <center>
  <u>Adillah:</u> <b>‘Umdat al-Ahkam</b> by ‘Abd al-Ghani al-Maqdisi
 </center>
+<br>
+<br>
 
 After studying a text on fiqh and usul, one should incorporate regular readings of hadith of legal rulings collections into their schedule. At this stage, one will become more familiar with previously unfamiliar vocabulary in hadith while also beginning to identify the evidence for the rulings studied earlier by practically applying usul al-fiqh.
 
@@ -51,6 +59,7 @@ After studying a text on fiqh and usul, one should incorporate regular readings 
 <center>
  <u>‘Aqidah:</u> <b>Qala’id al-Iqyan</b> by Ibn Balban al-Ba’li
 </center>
+<br>
 
 Al-Saffarini mentions that this book was read and relied upon for centuries among Hanbalis. It is an abridgement of Ibn Hamdan’s **Nihayat al-Mubtadi’in**, and as such it serves as a short primer on the subject. Ibn Hamdan was familiar with the terminology of the mutakallimin, and was able to categorize the positions of the madhab into their framework. It must be read with ‘Abdullah al-’Abdullah’s commentary titled **Minhat al-Rahman**, which gathers important details scattered through longer books. It has been versified as a poem by Ahmad al-Jabali.
 
@@ -61,22 +70,26 @@ Memorize **Al-Durrah Al-Mudiyyah** by al-Saffarini, a poem outlining various aqa
 <center>
  <u>Suluk:</u> <b>Mukhtasar Minhaj al-Qasidin</b> by Najm al-Din b. Qudamah
 </center>
+<br>
 
 <br>
 
 <center>
  <u>Tabaqat:</u> <b>Mukhtasar Tabaqat al-Hanabilah</b> by  by Jamil b. ‘Umar al-Shatti
 </center>
+<br>
 
 <br>
 
 
 ## <center>Intermediate Level (الإقتصاد)</center>
+<br>
 
 <br>
 <center>
 <b>Al-Rawd Al-Murbi'</b> by Mansur b. Yunus al-Buhuti (1052 AH)
 </center>
+<br>
 
 This book is a brilliant commentary on **Zad al-Mustaqni῾** by Musa al-Hajjawi (968 AH). Zad al-Mustaqni was itself abridged from **al-Muqni'** by Ibn Qudamah (620 AH), which was written to introduce differences of opinion within the madhab. Al-Hajjawi restricted it to what he considered the relied-upon opinions of the madhhab. In contrast to Dalil al-Talib, which was widely studied in Sham, Zad al-Mustaqni' became the main text studied among Hanbalis in the Gulf. 
 
@@ -91,6 +104,7 @@ Read **Muqaddimat al-Insaf** by al-Mardawi (885 AH). This will explain the struc
 <center>
  <u>Usul al-Fiqh:</u> <b>Sharh Mukhtasar al-Rawdah</b> by Najm al-Din al-Tufi
 </center>
+<br>
 
 This book is beloved by the Hanbalis who deem it the best work on usul al-fiqh ever written. It is the author’s commentary on his abridgement of **Rawdat al-Nadhir**, Ibn Qudamah’s recension of **al-Mustasfa** by al-Ghazali. Al-Tufi had a unique, accessible style, and his book is filled with gems of humility.
 
@@ -101,36 +115,33 @@ Complement this by reading **Tashnif al-Masami’** by al-Zarkashi, his commenta
 <center>
  <u>Adillah:</u> <b>Al-Muharrar</b> by Shams al-Din b. ‘Abd al-Hadi
 </center>
+<br>
 
 Although this book is primarily on **ahadith al-ahkam**, it should also be studied for **‘ilal**, **tashih**, and **tadh’if**. Ibn ‘Abd al-Hadi took **al-Ilmam** by Ibn Daqiq al-‘Id and summarized it with a focus on judging the hadith and mentioning **‘ilal**. Listen to the recorded lessons of ‘Abdulaziz al-Tarifi.
 
 <center>
  <u>Al-Qawa’id Al-Fiqhiyyah:</u> <b>Al-Taqrib</b> by Khalid al-Mushayqih
 </center>
-
 <br>
-
 <center>
  <u>Al-Qawa’id Al-Usuliyyah:</u> <b>Tajrid al-Qawa’id</b> by ‘Abd al-’Aziz al-Aydan
 </center>
-
 <br>
 
 <center>
  <u>Al-Furuq Al-Fiqhiyyah:</u> <b>Kitab al-Furuq</b> by Ibn Sunaynah al-Samarri
 </center>
-
 <br>
 
 <center>
  <u>Ifta’:</u> <b>Sifat al-Mufti wa’l-Mustasfi</b> by Najm al-Din b. Hamdan
 </center>
-
 <br>
 
 <center>
  <u>‘Aqidah:</u> <b>Mukhtasar al-Mu’tamad</b> by Abu Ya’la b. al-Farra’
 </center>
+<br>
 
 Read **Al-’Ayn wa’l-Athar** by Al-Ba’li with its commentary: **Ittiba’ al-Athar** by Faris al-Khazraji.
 
@@ -143,21 +154,23 @@ At some point, read **Hallal al-’Uqad** by Najm al-Din al-Tufi, a detailed com
 <center>
  <u>Suluk:</u> <b>Futuh al-Ghayb</b> by ‘Abd al-Qadir al-Jilani
 </center>
-
 <br>
 
 <center>
  <u>Adab:</u> <b>Sharh Mandhumah al-Adab</b> by Musa b. Ahmad al-Hajjawi
 </center>
+<br>
 
 Read **Sharh Mandhumah al-Adab** by Musa al-Hajjawi, his commentary on Ibn ‘Abd al-Qawi’s poem. Al-Hajjawi ends the book with comprehensive advice about having taqwa, devoting oneself to performing acts of obedience, having sincerity in all situations, and cleansing the heart.
 
 ## <center>Advanced Level (الاستقصاء)</center>
+<br>
 
 <br>
 <center>
 <b>Daqa῾iq Uli al-Nuha</b> by Mansur b. Yunus al-Buhuti (1052 AH)
 </center>
+<br>
 
 This book is also well-known as **Sharh Muntaha al-Iradat**. It is Mansur al-Buhuti’s commentary on **Muntaha al-Iradat** by Ibn al-Najjar, where he combined **al-Muqni῾** with **al-Tanqih** by al-Mardawi to produce a summary of the madhab’s relied-upon positions. 
 
@@ -174,6 +187,7 @@ For an overview of the madhab’s mufradat and an introduction to fiqh al-khilaf
 <center>
  <u>Usul al-Fiqh:</u> <b>Al-Tahbir</b> by ‘Ala al-Din al-Mardawi
 </center>
+<br>
 
 Supplement this with **Al-Bahr Al-Muhit** by Badr al-Din al-Zarkashi. Similar to Al-Tahbir, this book is an encyclopedia and the last truly great work written on usul al-fiqh. Nothing after comes close to its scope and depth. Also read al-Zarkashi’s **Salasil al-Dhahab**, which presents many issues and contentions not found in the books of usul al-fiqh.
 
@@ -186,42 +200,43 @@ Finally, read **‘Iqd al-Mandhum** by al-Qarafi, which deals with all the asbab
 <center>
  <u>Adillah:</u> <b>Fath al-Bari</b> by Zayn al-Din b. Rajab
 </center>
+<br>
 
 In this book, Ibn Rajab masterfully links hadith, athar of the salaf, madhahib of fuqaha, and the riwayat of Ahmad. However, he was not able to complete it. Ibn Hajar later wrote his well-known commentary on Sahih Bukhari out of inspiration from Ibn Rajab’s original.
 
 <center>
  <u>Al-Qawa’id Al-Fiqhiyyah:</u> <b>Taqrir al-Qawa’id</b> by Zayn al-Din b. Rajab
 </center>
+<br>
 
 Listen to the recorded commentary on Qawa’id Ibn Rajab by Khalid al-Mushayqih.
 
 <center>
  <u>Al-Qawa’id Al-Usuliyyah:</u> <b>Al-Qawa’id</b> by ‘Ala al-Din b. al-Lahham
 </center>
+<br>
 
 Supplement this with **Takhrij al-Furu’ ‘ala al-Usul** by Uthman Shushan. Shushan relies on many different sources and brings examples from Ibn Qudamah’s al-Mughni, making it one of the most comprehensive works on the subject. A contemporary masterpiece in this area is Mustafa al-Khinn’s exemplary doctoral thesis, **Athar al-Ikhtilaf fi al-Qawa’id al-Usuliyyah**, where he demonstrates how usuli principles result in different furu’ among jurists.
 
 <center>
  <u>Al-Furuq Al-Fiqhiyyah:</u> <b>Idah al-Dala’il</b> by ‘Abdurrahim b. Abdullah al-Zarirani
 </center>
-
 <br>
 
 <center>
  <u>Al-Furuq Al-Usuliyyah:</u> <b>Al-Furuq</b> by ‘Abd al-Latif al-Hamad
 </center>
-
 <br>
 
 <center>
  <u>Ikhtilaf:</u> <b>Ikhtilaf al-Muftin</b> by Hatim b. Arif al-’Awni
 </center>
-
 <br>
 
 <center>
  <u>‘Aqidah:</u> <b>Lawami’ al-Anwar</b> by Muhammad b. Ahmad al-Saffarini
 </center>
+<br>
 
 Study **Lawa’ih al-Anwar** by al-Saffarini, his commentary on Ibn Abi Dawud’s Ha’iyyah.
 
@@ -230,18 +245,21 @@ Read **Al-Idah** by Ibn al-Zaghuni, which is one of the most detailed books on H
 <center>
  <u>Suluk:</u> <b>Madarij al-Salikin</b> by Shams al-Din b. al-Qayyim
 </center>
+<br>
 
 In his commentary of **Manazil al-Sa’irin**, Ibn al-Qayyim tempers al-Harawi’s tasawwuf.
 
 <center>
  <u>Adab:</u> <b>Al-Adab Al-Shar’iyyah</b> by Shams al-Din b. al-Qayyim
 </center>
+<br>
 
 This is Ibn Muflih’s masterpiece on adab, which incorporates wonderful discussions outlining the deficiencies a Muslim may have, along with their respective solutions. This work is irreplaceable because it frequently quotes from lost texts, such as Ibn Aqil’s **Al-Funun**.
 
 <center>
  <u>Tabaqat:</u> <b>Tabaqat al-Hanabilah</b> by Ibn Abi Ya’la b. al-Farra
 </center>
+<br>
 
 Follow this up with the additions of Ibn Rajab and Ibn ‘Abd al-Hadi.
 
@@ -251,11 +269,13 @@ Read **Al-Kawkab Al-Duriyyah** by Al-Karmi.
 
 
 ## <center>Mastery (الإتقان)</center>
+<br>
 
 <br>
 <center>
 <b>Al-Muqni῾</b> by Ibn Qudamah al-Maqdisi (620 AH)
 </center>
+<br>
 
 The first step of this level is a study of al-Muqni῾ and the family of works based on it. One should aim for mastery, which entails being able to independently arrive at the same conclusions the imams of the madhab have reached. Read the following commentaries simultaneously: 
 
