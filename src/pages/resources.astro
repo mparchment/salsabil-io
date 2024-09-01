@@ -1,0 +1,52 @@
+---
+import BaseHead from "../components/BaseHead.astro";
+import Header from "../components/Header.astro";
+import { SITE_TITLE, SITE_DESCRIPTION } from "../consts";
+import { getCollection } from "astro:content";
+import FormattedDate from "../components/FormattedDate.astro";
+
+const resources = (await getCollection("resources")).sort(
+  (a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf()
+);
+---
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <BaseHead
+      title={`Resources - ${SITE_TITLE}`}
+      description={SITE_DESCRIPTION}
+    />
+  </head>
+  <body class="bg-primary text-tertiary font-libre">
+    <Header />
+    <main class="container mx-auto p-4 md:p-8">
+      <section class="w-full">
+        <ul class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+          {
+            resources.map((resource) => (
+              <li class="p-4 rounded-lg">
+                <a href={resource.data.link} target="_blank" class="block">
+                  <div class="w-full h-[32rem] mb-4 rounded-lg overflow-hidden">
+                    <img
+                      src={resource.data.link}
+                      alt={resource.data.title}
+                      class="w-full h-full object-cover rounded-lg"
+                    />
+                  </div>
+                  <h4 class="text-lg font-semibold mb-2 hover:underline">
+                    {resource.data.title}
+                  </h4>
+                </a>
+                <p class="text-sm mb-4">{resource.data.description}</p>
+                <p class="text-xs text-opacity-80 mt-2">
+                  Last updated: <FormattedDate date={resource.data.pubDate} />
+                </p>
+              </li>
+            ))
+          }
+        </ul>
+      </section>
+    </main>
+  </body>
+</html>

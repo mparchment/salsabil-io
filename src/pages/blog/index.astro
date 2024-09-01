@@ -23,7 +23,7 @@ const posts = (await getCollection("blog")).sort(
         <ul class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
           {
             posts.map((post) => (
-              <li class="bg-secondary-light p-4 rounded-lg">
+              <li class="p-4 rounded-lg">
                 <a href={`/blog/${post.slug}/`} class="block">
                   <div class="w-full h-48 mb-4 rounded-lg overflow-hidden">
                     <img

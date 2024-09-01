@@ -7,7 +7,9 @@ import { SITE_TITLE } from "../consts";
   <h1
     class="text-center pt-6 pb-4 text-3xl font-bold text-secondary font-cinzel border-b"
   >
-    {SITE_TITLE}
+    <a href="/" class="hover:text-secondary-light transition-colors">
+      {SITE_TITLE}
+    </a>
   </h1>
   <nav class="font-medium border-b font-libre text-secondary">
     <ul class="flex justify-center text-sm">
@@ -17,7 +19,10 @@ import { SITE_TITLE } from "../consts";
         </a>
       </li>
       <li>
-        <a href="#" class="inline-block px-4 py-3 hover:bg-primary-dark">
+        <a
+          href="/resources"
+          class="inline-block px-4 py-3 hover:bg-primary-dark"
+        >
           Resources
         </a>
       </li>
