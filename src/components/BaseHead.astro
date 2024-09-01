@@ -7,7 +7,7 @@ interface Props {
   image?: string;
 }
 
-const canonicalURL = new URL(Astro.url.pathname, Astro.site);
+const canonicalURL = new URL(Astro.url.pathname, Astro.site).toString();
 
 const { title, description, image = "/logo.png" } = Astro.props;
 ---
@@ -44,14 +44,20 @@ const { title, description, image = "/logo.png" } = Astro.props;
 
 <!-- Open Graph / Facebook -->
 <meta property="og:type" content="website" />
-<meta property="og:url" content={Astro.site + Astro.url.pathname} />
+<meta
+  property="og:url"
+  content={new URL(Astro.url.pathname, Astro.site).toString()}
+/>
 <meta property="og:title" content={title} />
 <meta property="og:description" content={description} />
 <meta property="og:image" content={new URL(image, Astro.site).toString()} />
 
 <!-- Twitter -->
 <meta property="twitter:card" content="summary_large_image" />
-<meta property="twitter:url" content={Astro.site + Astro.url.pathname} />
+<meta
+  property="twitter:url"
+  content={new URL(Astro.url.pathname, Astro.site).toString()}
+/>
 <meta property="twitter:title" content={title} />
 <meta property="twitter:description" content={description} />
 <meta
