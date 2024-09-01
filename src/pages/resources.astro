@@ -26,13 +26,18 @@ const resources = (await getCollection("resources")).sort(
           {
             resources.map((resource) => (
               <li class="p-4 rounded-lg">
-                <a href={resource.data.link} target="_blank" class="block">
-                  <div class="w-full h-[32rem] mb-4 rounded-lg overflow-hidden">
+                <a
+                  href={resource.data.link}
+                  target="_blank"
+                  class="block group"
+                >
+                  <div class="w-full h-[32rem] mb-4 rounded-lg overflow-hidden relative">
                     <img
                       src={resource.data.link}
                       alt={resource.data.title}
-                      class="w-full h-full object-cover rounded-lg"
+                      class="w-full h-full object-cover rounded-lg transition-transform duration-300 group-hover:scale-105"
                     />
+                    <div class="absolute inset-0 bg-black opacity-0 group-hover:opacity-5 transition-opacity duration-300" />
                   </div>
                   <h4 class="text-lg font-semibold mb-2 hover:underline">
                     {resource.data.title}

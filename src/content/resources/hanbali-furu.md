@@ -1,6 +1,6 @@
 ---
 title: "Books of the Hanbali Madhhab"
-description: "A visual representation of the lineage and relationships between key scholars in the Hanbali madhhab."
-link: "/furu-chart.svg" 
+description: "An illustrated chart detailing the key texts and scholars of the Hanbali madhhab, highlighting the connections and development of legal thought within the school."
+link: "/furu-chart.svg"
 pubDate: 2024-09-01
 ---
