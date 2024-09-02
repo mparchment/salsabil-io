@@ -1,7 +1,7 @@
 ---
 title: 'Studying Hanbali Fiqh'
 description: 'One question students of sacred knowledge often ask is: "what is the proper method of acquiring the understanding of a particular legal school of thought?" The following is a detailed guide to the study of the Hanbali madhab in order to gain true mastery.'
-pubDate: 'Sep 13 2024'
+pubDate: 'Sep 13 2023'
 heroImage: '/dhikr.jpg'
 ---
 
