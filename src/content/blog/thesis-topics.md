@@ -7,9 +7,9 @@ heroImage: '/azhar.jpeg'
 
 <u>Adillah Mukhtalaf Fiha:</u> Study the principles like istihsan, masalih mursalah, and sadd al-dhara'i, emphasizing their universality. Analyze the variance in application of these principles among the various madhabs. 
 
-<u>Salman:</u> Would be interesting to look at most of the "mufradat" of the 4 madhabs. I reckon most of them probably come down to some difference in interpretation or qiyas rather than an actual usuli qaida.
+<u>Sh. Salman:</u> Would be interesting to look at most of the "mufradat" of the 4 madhabs. I reckon most of them probably come down to some difference in interpretation or qiyas rather than an actual usuli qaida.
 
-<u>Elias:</u> I would suggest some students gather all of al-Tabari’s tarjihaat in one book.
+<u>Sh. Elias:</u> I would suggest some students gather all of al-Tabari’s tarjihaat in one book.
 
 <u>Amal Ahl al-Madinah:</u> Delve into the concept of Amal Ahl al-Madinah as understood and applied by Malik, al-Shafi'i, and other scholars of the Maliki madhab. Explore the role of amal in the Islamic legal tradition across madhabs.
 
@@ -29,6 +29,6 @@ heroImage: '/azhar.jpeg'
 
 <u>Fiqh and Tafsir of Imam al-Ja’far:</u> I question the reliability of aqwal in fiqh and tafsir to Ja'far al-Sadiq. As far as I know, most of this is lost and the majority of what we have attributed to him is unreliable. It is a misnomer to call Shi’i Twelver law Ja’fari fiqh. Juday’ says here that much of his fiqh is spread throughout the books of Ahl al-Sunnah, but I imagine even then the riwayat vary in terms of reliability and that some are more stringent than others in verifying a qawl attributed to him.
 
-<u>Political Economy of Early Modern England:</u> Study on the emergence of corporations and the Bubble Act which temporarily outlawed them. Focus on the distinction in responsibility between corporations and natural persons.
+<u>Political Economy of Early Modern England:</u> This topic was suggested by Wael Hallaq when I first met him a few years ago. This should be a study on the emergence of corporations in early modern England, and the Bubble Act which temporarily outlawed them. Focus on the distinction in responsibility between corporations and natural persons.
 
 <u>Lived Law:</u> Documenting the way Islamic law was practiced throughout history, along with the disruptions imposed by the nation-state and modernity. Based on Leslie Pierce's Morality Tales. 
