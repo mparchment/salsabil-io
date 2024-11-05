@@ -78,7 +78,7 @@ hr {
 
 .prose ul,
 .prose ol {
-    margin: 0 0 1em 1.5em;
+    margin: 1em 0 1.5em 1.5em;
     padding: 0;
     list-style-position: outside;
 }
@@ -96,7 +96,7 @@ hr {
 .prose ul ol,
 .prose ol ul {
     margin: 0 0 1em 1.5em;
-    list-style-type: circle; /* Or 'square' for nested lists */
+    list-style-type: square; /* Or 'square' for nested lists */
 }
 
 .prose .prose ul,
