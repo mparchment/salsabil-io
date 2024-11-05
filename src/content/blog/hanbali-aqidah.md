@@ -27,8 +27,8 @@ heroImage: '/dhikr.jpg'
 - *Lawami’ al-Anwar* by Ahmad b. Muhammad al-Saffarini: This book is al-Saffarini magisterial commentary on Durrat al-Madiyyah.
 
 # Mastery
-- *Sharh al-Aqa’id* al-Nasafiyyah by Sa’d al-Din al-Taftazani:
-- *Al-'Aqidat Al-Sanusiyyah Al-Kubra* by Muhammad b. Idris al-Sanusi:
+- *Sharh al-Aqa’id* al-Nasafiyyah by Sa’d al-Din al-Taftazani
+- *Al-'Aqidat Al-Sanusiyyah Al-Kubra* by Muhammad b. Idris al-Sanusi
 
 # Relied-Upon Texts
 

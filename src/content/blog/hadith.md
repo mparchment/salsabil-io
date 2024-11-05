@@ -135,6 +135,7 @@ When studying the sunan works, analyze each chain of transmission independently 
 - *Tanqih al-Tahqiq* by Shams al-Din b. ‘Abd al-Hadi
 
 Every work of Ibn ‘Abd al-Hadi has fawa’id, not only ittila’ but also excellent ibarat that illustrate important points of naqd. At some point also read Al-Sarim Al-Munki, his refutation of al-Subki on visiting graves. Putting the fiqh of the issue aside, this is a masterclass in terms of hadith criticism. 
+
 In addition to these structured studies, Abdullah al-Sa'd has numerous lectures on hadith narrators and jarh wal-ta'dil, although no single series. It is highly recommended to listen to everything you can find from him. As you listen to his discussions, especially in his Sharh al-Nasa'i and Sharh al-Tirmidhi, research the narrators he discusses using Tahdhib al-Tahdhib and other sources on rijal. This method will help you apply your knowledge and develop a strong grasp of these topics.
 
 
