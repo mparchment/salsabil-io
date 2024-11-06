@@ -23,19 +23,19 @@ The objective at this stage is to familiarize oneself with multiple aspects of t
 
 At this stage, one begins to move from having a general understanding of each ayah to applying usul al-tafsir, which includes causes of different opinions, categories of interpretation, principles of interpretation, rules of giving tarjih, knowing the nomenclature of the mufassirin, various qira’at, causes of revelation, and abrogation.
 
-- *Al-Tahsil by Abu’l-Abbas al-Mahdawi
+- *Al-Tahsil* by Abu’l-Abbas al-Mahdawi
 
 This work places tafsir, abrogation, i’rab, ahkam, and qira’at into well-organized sections. 
 
-- *Zad al-Masir by Ibn al-Jawzi
+- *Zad al-Masir* by Ibn al-Jawzi
 
 This is also an ideal intermediate tafsir which concisely presents various opinions without giving tarjih. It was written to give basic tools to the student before going in depth. The text is both comprehensive and concise. While studying this book, begin to memorize the various positions of the early mufassirin.
 
-- *Tarikh al-Qur’an by ‘Abd al-Sabur Sahin
+- *Tarikh al-Qur’an* by ‘Abd al-Sabur Sahin
 
-- *Al-Isharat Al-Ilahiyyah by Najm al-Din al-Tufi: In this work, the author comments on ayat relevant to aqa’id and usul. This work is frequently quoted in later books of Hanbali usul, and is important for understanding how to recognize ‘umum and khusus in the Qur’an. 
+- *Al-Isharat Al-Ilahiyyah* by Najm al-Din al-Tufi: In this work, the author comments on ayat relevant to aqa’id and usul. This work is frequently quoted in later books of Hanbali usul, and is important for understanding how to recognize ‘umum and khusus in the Qur’an. 
 
-- *Ahkam al-Qur’an by Abu Bakr b. al-’Arabi: Out of all of those who authored a book on the topic of rulings in the Qur’an, Ibn ‘Arabi had the most mastery of the various ulum.
+- *Ahkam al-Qur’an* by Abu Bakr b. al-’Arabi: Out of all of those who authored a book on the topic of rulings in the Qur’an, Ibn ‘Arabi had the most mastery of the various ulum.
 
 - *Majaz al-Qur’an* by Izz al-Din b. ‘Abd al-Salam
 
