@@ -6,8 +6,10 @@ heroImage: '/aqsa.jpg'
 ---
 
 # Elementary Level
-- *Lum’at al-I’tiqad* by Ibn Qudamah al-Maqdisi: Read the transcribed commentary of *‘Abdullah al-’Abdullah*.
-- *Mukhtasar al-Aqa’id* by Mubarak b. Rashid al-Hathlan:
+- *Lum’at al-I’tiqad* by Ibn Qudamah al-Maqdisi
+
+Read the transcribed commentary of ‘Abdullah al-’Abdullah.
+- *Mukhtasar al-Aqa’id* by Mubarak b. Rashid al-Hathlan
 
 # Intermediate Level
 - *Qala’id al-Iqyan* by Ibn Balban al-Ba’li
