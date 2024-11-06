@@ -1,6 +1,6 @@
 ---
 title: 'Studying Hadith'
-description: "The following is a guide to studying hadith and its sciences. I compiled this through readings reccomended by Sh. Salman Nasir, Sh. Elias Hsain, and others. It is based on the original curriculum suggested by al-Asiri."
+description: "The following is a guide to studying hadith and its sciences. I compiled this through readings reccomended by Sh. Salman Nasir, Sh. Elias Hsain, and others. It is based on the original curriculum written by al-Asiri."
 pubDate: 'Nov 5 2024'
 heroImage: '/azhar.jpeg'
 ---
