@@ -2,7 +2,7 @@
 title: 'Studying Tafsir'
 description: "The following is a guide to studying tafsir and its various sciences. It is is drawn from the suggestions of Sh. Salman Nasir, Sh. Waqar Abbas, and Sh. Walid Patel, among others."
 pubDate: 'Nov 5 2024'
-heroImage: '/blue-quran.jpeg'
+heroImage: '/quran-lesson.jpg'
 ---
 
 # Elementary Level

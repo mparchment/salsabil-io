@@ -2,7 +2,7 @@
 title: 'Studying Hanbali Fiqh'
 description: "This is a comprehensive guide to studying the Hanbali madhhab and fiqh in a broader sense. It follows the traditional progression of study texts, with supplementary readings to deepen one's understanding of the madhhab and how it developed. I compiled this from the readings reccomended by Sh. Muhammad Abu Yunus, Sh. Salman Nasir, and Sh. Amr Abu Ayyub, among others. "
 pubDate: 'Nov 5 2024'
-heroImage: '/quran-lesson.jpg'
+heroImage: '/dhikr.jpg'
 ---
 
 Muwaffaq al-Din Ibn Qudamah al-Maqdisi (620 AH) wrote in the introduction to *al-Mughni*:
