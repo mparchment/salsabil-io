@@ -1,6 +1,6 @@
 ---
 title: 'Studying Hanbali Aqaʼid'
-description: "The following is a guide to studying the credal doctrine of the Hanbali school, along with important tangential readings. I compiled it from the texts reccomended by Sh. Muhammad Abu Yunus and Sh. Salman Nasir."
+description: "The following is a guide to studying the credal doctrine of the Hanbali school, along with important tangential readings. I compiled this from the texts reccomended by Sh. Muhammad Abu Yunus and Sh. Salman Nasir."
 pubDate: 'Nov 5 2024'
 heroImage: '/aqsa.jpg'
 ---
