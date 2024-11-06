@@ -31,10 +31,11 @@ This work is structured as a detailed commentary on Hadith Jibril. In this book,
 - *Nihayat al-Mubtadi’in* by Ibn Hamdan al-Harrani
 
 This book was authored by Ibn Hamdan to write down the aqa’id of Imam Ahmad, and it was heavily relied upon by both Ibn Muflih and al-Mardawi. Ibn Hamdan was also praised by Ibn Rajab as a master of the madhhab’s usul in fiqh and din. Use the edition of Muhammad ‘Abd al-Wahid, which provides the reference for each position mentioned, and listen to the recorded commentary of ‘Abdurrahman al-Salti. To understand the rationale of each qawl, it is important to read the passage it was taken from; typically from the following works:
-    - *Mukhtasar al-Mu’tamad* by Abu Ya’la b. al-Farra’
-    - *I’tiqad al-Imam al-Munabbal* by Abu’l-Fadl al-Tamimi
-    - *Al-Irshad fi’l-I’tiqad* by Abu’l-Wafa b. ‘Aqil
-    - *Al-Idah* by ‘Ali b. ‘Ubaydullah al-Zaghuni
+
+- *Mukhtasar al-Mu’tamad* by Abu Ya’la b. al-Farra’
+- *I’tiqad al-Imam al-Munabbal* by Abu’l-Fadl al-Tamimi
+- *Al-Irshad fi’l-I’tiqad* by Abu’l-Wafa b. ‘Aqil
+- *Al-Idah* by ‘Ali b. ‘Ubaydullah al-Zaghuni
 
 - *Lawami’ al-Anwar* by Ahmad b. Muhammad al-Saffarini
 

@@ -12,9 +12,9 @@ heroImage: '/quran-lesson.jpg'
 
 - *Al-Muqaddimat Al-Asassiyah by ‘Abdullah al-Juday’
 
-At this point, also listen to Ali Hani’s series titled *Al-Tariqat Al-Muthla*, which is a brief introduction on how to approach studying tafsir. 
+At this point, also listen to Ali Hani’s series *Al-Tariqat Al-Muthla*, which is a brief introduction on how to approach studying tafsir. 
 
-- *Safwat al-Tafsir by Muhammad Ali al-Sabuni
+- *Safwat al-Tafsir* by Muhammad Ali al-Sabuni
 
 This work focuses on introducing each surah, explaining vocabulary, highlighting subtleties, benefits, placing verses in context in relation to others, presenting the causes of revelation, and rhetorical devices. It is by far the best introductory tafsir ever written. 
 
