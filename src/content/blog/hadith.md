@@ -1,6 +1,6 @@
 ---
 title: 'Studying Hadith'
-description: "The following is a guide to studying hadith and its sciences. I compiled this through readings reccomended by Sh. Salman Nasir, Sh. Elias Hsain, and others. It is based on the original curriculum suggested by al-Asiri."
+description: "The following is a guide to studying hadith and its sciences. I compiled this through readings reccomended by Sh. Salman Nasir, Sh. Elias Hsain, and others. It is based on the original curriculum written by al-Asiri."
 pubDate: 'Nov 5 2024'
 heroImage: '/azhar.jpeg'
 ---
@@ -85,7 +85,7 @@ This work is only beneficial after a thorough understanding of mustalah. It orga
 
 This study will help you develop a nuanced understanding of hadith terminology and methodology, synthesizing much of what you've learned so far.
 
-- Ida’at Bahthiyyah fi ‘Ulum al-Hadith al-Nabawiyyah by Hatim al-’Awni
+- *Ida’at Bahthiyyah fi-‘Ulum al-Hadith al-Nabawiyyah* by Hatim al-’Awni
 
 This book compiles some of Hatim al-‘Awni’s most important lectures on hadith sciences, serving as an advanced resource to consolidate and expand on what you’ve learned.
 

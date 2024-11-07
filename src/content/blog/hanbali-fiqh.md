@@ -2,7 +2,7 @@
 title: 'Studying Hanbali Fiqh'
 description: "This is a comprehensive guide to studying the Hanbali madhhab and fiqh in a broader sense. It follows the traditional progression of study texts, with supplementary readings to deepen one's understanding of the madhhab and how it developed. I compiled this from the readings reccomended by Sh. Muhammad Abu Yunus, Sh. Salman Nasir, and Sh. Amr Abu Ayyub, among others. "
 pubDate: 'Nov 5 2024'
-heroImage: '/quran-lesson.jpg'
+heroImage: '/dhikr.jpg'
 ---
 
 Muwaffaq al-Din Ibn Qudamah al-Maqdisi (620 AH) wrote in the introduction to *al-Mughni*:
@@ -42,7 +42,7 @@ This book provides a solid foundation for the asbab of khilaf. It should be acco
 
 This book is a brilliant commentary on Zad al-Mustaqni’ by Musa al-Hajjawi. Zad al-Mustaqni’ was itself abridged from al-Muqni’ by Ibn Qudamah, which was written to introduce differences of opinion within the madhab. Al-Hajjawi restricted it to the madhhab’s official positions, removing rarely occurring issues and adding some of the more common ones. In contrast to Dalil al-Talib, which was widely studied in Sham, Zad al-Mustaqni’ became the main text studied among Hanbalis in the Arabian Peninsula. Zad al-Mustaqni’ is terse on its own and occasionally goes against the madhhab's relied-upon opinions, which is remedied by reading it with al-Buhuti's commentary.
 
-There is a large amount of masa’il in this book, and it requires a long amount of time to explain correctly. Due to the status of the original author, the abridger, and the commentator, Al-Rawd Al-Murbi’ has become an extremely important work for the madhhab and relied upon for both teaching and delivering legal rulings. Listen to the recorded lessons of Muhammad ‘Abd al-Wahid and read his published edition of the book titled Jam al-Rahiq al-Musbi’.
+There is a large amount of masa’il in this book, and it requires a long amount of time to explain correctly. Due to the status of the original author, the abridger, and the commentator, Al-Rawd Al-Murbi’ has become an extremely important work for the madhhab and relied upon for both teaching and delivering legal rulings. Listen to the recorded lessons of Muhammad ‘Abd al-Wahid and read his published edition of the book titled *Jam al-Rahiq al-Musbi’*. For major ishkal, begin referencing the commentaries of *al-Muqni'*: *al-Mumti'*, *al-Mubdi'*, *al-Sharh al-Kabir*, and *al-Insaf*. Doing this will build one's aptitude in fiqh and facilitate understanding the expressions in these books. 
 
 - *Al-Bulbul* by Najm al-Din al-Tufi
 

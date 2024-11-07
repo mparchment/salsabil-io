@@ -1,30 +1,47 @@
 ---
 title: 'Studying Hanbali Aqaʼid'
-description: "The following is a guide to studying the credal doctrine of the Hanbali school, along with important tangential readings. I compiled it from the texts reccomended by Sh. Muhammad Abu Yunus and Sh. Salman Nasir."
+description: "The following is a guide to studying the credal doctrine of the Hanbali school, along with important tangential readings. I compiled this from the texts reccomended by Sh. Muhammad Abu Yunus and Sh. Salman Nasir."
 pubDate: 'Nov 5 2024'
-heroImage: '/dhikr.jpg'
+heroImage: '/aqsa.jpg'
 ---
 
 # Elementary Level
-- *Lum’at al-I’tiqad* by Ibn Qudamah al-Maqdisi: Read the transcribed commentary of *‘Abdullah al-’Abdullah*.
-- *Mukhtasar al-Aqa’id* by Mubarak b. Rashid al-Hathlan:
+- *Lum’at al-I’tiqad* by Ibn Qudamah al-Maqdisi
+
+Read the transcribed commentary of ‘Abdullah al-’Abdullah.
+- *Mukhtasar al-Aqa’id* by Mubarak b. Rashid al-Hathlan
 
 # Intermediate Level
-- *Qala’id al-Iqyan* by Ibn Balban al-Ba’li: It must be accompanied with its commentary Minhat al-Rahman by ‘Abdullah al-’Abdullah, which contains crucial details gathered from longer books across various ‘ulum. 
-- *Durrat al-Madiyyah* by Muhamamd b. Ahmad al-Saffarini: This is al-Saffarini’s famed poem on aqa’id. It must be accompanied with *Mukhtasar Lawami’ al-Anwar* by Hasan al-Shatti, his summary of al-Saffarini’s much longer commentary. Supplement this with the commentary of ‘Abdullah al-’Abdullah in *al-Taqrirat al-Hanbaliyyah*. 
-- *Takfir Ahl al-Shahadatayn* by Hatim b. ‘Arif al-’Awni:
-- *Mafhum Shirk al-’Ibadah* by Hatim b. ‘Arif al-’Awni:
-- *Aqawil al-Thiqat* by Mar’i b. Yusuf al-Karmi:
-- *Hallal al-’Uqad* by Najm al-Din al-Tufi: This work is structured as a detailed commentary on Hadith Jibril. In this book, al-Tufi presents the views of other groups and assesses their evidence from an impartial perspective.  
+- *Qala’id al-Iqyan* by Ibn Balban al-Ba’li
+
+It must be accompanied with its outstanding commentary *Minhat al-Rahman* by ‘Abdullah al-’Abdullah. *Qala'id al-Iqyan* and its longer source text, *Nihayat al-Mubtadi'in*, was written using the methodology of the mutakallimin, which requires additional context. In his explanation, Sh. 'Abdullah explains the terminology used by bringing details gathered from longer books across various ‘ulum.
+
+- *Durrat al-Madiyyah* by Muhamamd b. Ahmad al-Saffarini
+
+This is al-Saffarini’s famed poem on aqa’id. It must be accompanied with *Mukhtasar Lawami’ al-Anwar* by Hasan al-Shatti, his summary of al-Saffarini’s much longer commentary. Supplement this with the commentary of ‘Abdullah al-’Abdullah in *al-Taqrirat al-Hanbaliyyah*. 
+
+- *Takfir Ahl al-Shahadatayn* by Hatim b. ‘Arif al-’Awni
+- *Mafhum Shirk al-’Ibadah* by Hatim b. ‘Arif al-’Awni
+- *Aqawil al-Thiqat* by Mar’i b. Yusuf al-Karmi
+- *Hallal al-’Uqad* by Najm al-Din al-Tufi
+
+This work is structured as a detailed commentary on Hadith Jibril. In this book, al-Tufi presents the views of other groups and assesses their evidence from an impartial perspective.  
 
 # Advanced Level
-- *Nihayat al-Mubtadi’in* by Ibn Hamdan al-Harrani: This book was authored by Ibn Hamdan to write down the aqa’id of Imam Ahmad, and it was heavily relied upon by both Ibn Muflih and al-Mardawi. Ibn Hamdan was also praised by Ibn Rajab as a master of the madhhab’s usul in fiqh and din. Use the edition of Muhammad ‘Abd al-Wahid, which provides the reference for each position mentioned, and listen to the recorded commentary of ‘Abdurrahman al-Salti. To understand the rationale of each qawl, it is important to read the passage it was taken from; typically from the following works:
-    - *Mukhtasar al-Mu’tamad* by Abu Ya’la b. al-Farra’
-    - *I’tiqad al-Imam al-Munabbal* by Abu’l-Fadl al-Tamimi
-    - *Al-Irshad fi’l-I’tiqad* by Abu’l-Wafa b. ‘Aqil
-    - *Al-Idah* by ‘Ali b. ‘Ubaydullah al-Zaghuni
+- *Nihayat al-Mubtadi’in* by Ibn Hamdan al-Harrani
 
-- *Lawami’ al-Anwar* by Ahmad b. Muhammad al-Saffarini: This book is al-Saffarini magisterial commentary on Durrat al-Madiyyah.
+This book was authored by Ibn Hamdan to write down the aqa’id of Imam Ahmad, and it was heavily relied upon by both Ibn Muflih and al-Mardawi. Ibn Hamdan was also praised by Ibn Rajab as a master of the madhhab’s usul in fiqh and din. To understand the rationale of each qawl, it is important to read the passage it was taken from; typically from the following works:
+
+- *Mukhtasar al-Mu’tamad* by Abu Ya’la b. al-Farra’
+- *I’tiqad al-Imam al-Munabbal* by Abu’l-Fadl al-Tamimi
+- *Al-Irshad fi’l-I’tiqad* by Abu’l-Wafa b. ‘Aqil
+- *Al-Idah* by ‘Ali b. ‘Ubaydullah al-Zaghuni
+
+Use the edition of Muhammad ‘Abd al-Wahid, which provides the reference for each position mentioned, and listen to the recorded commentary of ‘Abdurrahman al-Salti.
+
+- *Lawami’ al-Anwar* by Ahmad b. Muhammad al-Saffarini
+
+This book is al-Saffarini magisterial commentary on Durrat al-Madiyyah.
 
 # Mastery
 - *Sharh al-Aqa’id* al-Nasafiyyah by Sa’d al-Din al-Taftazani
