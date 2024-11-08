@@ -1,6 +1,6 @@
 ---
 title: 'Studying Suluk'
-description: "The following is a list of works on suluk from scholars within the Hanbali madhhab. However, abstract knowledge can only take one to a certain extent in this 'ilm."
+description: "The following is a list of works on suluk from scholars within the Hanbali madhhab. However, abstract knowledge can only take one to a certain extent in this 'ilm. Most of these works do not require additional reading beforehand." 
 pubDate: 'Nov 8 2024'
 heroImage: '/beggar.jpg'
 ---
