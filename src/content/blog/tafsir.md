@@ -14,7 +14,7 @@ heroImage: '/quran-lesson.jpg'
 
 At this point, also listen to Ali Hani’s series *Al-Tariqat Al-Muthla*, which is a brief introduction on how to approach studying tafsir. 
 
-- *Safwat al-Tafsir* by Muhammad Ali al-Sabuni
+- *Safwat al-Tafsir* by Muhammad b. Ali al-Sabuni
 
 This work focuses on introducing each surah, explaining vocabulary, highlighting subtleties, benefits, placing verses in context in relation to others, presenting the causes of revelation, and rhetorical devices. It is by far the best introductory tafsir ever written. 
 
@@ -31,9 +31,11 @@ This work places tafsir, abrogation, i’rab, ahkam, and qira’at into well-org
 
 This is also an ideal intermediate tafsir which concisely presents various opinions without giving tarjih. It was written to give basic tools to the student before going in depth. The text is both comprehensive and concise. While studying this book, begin to memorize the various positions of the early mufassirin.
 
-- *Tarikh al-Qur’an* by ‘Abd al-Sabur Sahin
+- *Tarikh al-Qur’an* by ‘Abd al-Sabur Shahin
 
-- *Al-Isharat Al-Ilahiyyah* by Najm al-Din al-Tufi: In this work, the author comments on ayat relevant to aqa’id and usul. This work is frequently quoted in later books of Hanbali usul, and is important for understanding how to recognize ‘umum and khusus in the Qur’an. 
+- *Al-Isharat Al-Ilahiyyah* by Najm al-Din al-Tufi
+
+In this work, the author comments on ayat relevant to aqa’id and usul. This work is frequently quoted in later books of Hanbali usul, and is important for understanding how to recognize ‘umum and khusus in the Qur’an. 
 
 - *Ahkam al-Qur’an* by Abu Bakr b. al-’Arabi: Out of all of those who authored a book on the topic of rulings in the Qur’an, Ibn ‘Arabi had the most mastery of the various ulum.
 
