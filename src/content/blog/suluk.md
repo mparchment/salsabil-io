@@ -1,6 +1,6 @@
 ---
 title: 'Studying Suluk'
-description: "The following is a guide to studying logic, an 'ilm which is critical for attaining mastery in other 'ulum. It is is drawn from the suggestions of Sh. Amr Abu Ayyub."
+description: "The following is a list of works on the topic of suluk from scholars within the Hanbali madhhab. However, abstract knowledge can only take one to a certain extent in this 'ilm."
 pubDate: 'Nov 8 2024'
 heroImage: '/beggar.jpg'
 ---
