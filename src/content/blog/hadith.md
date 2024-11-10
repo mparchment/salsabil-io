@@ -29,14 +29,14 @@ Now one can move onto studying and memorizing famous narrations in this book, al
 
 - *Al-Muwatta* by Malik b. Anas al-Madani
 
-Study of the major hadith books should begin with those written during the age of codification and compilation, chief of which is Malik’s Muwatta. It is the briefest in length, shortest in chains, and has an excellent selection of hadith. Become familiar with its chains, such as: 
+Study of the major hadith books should begin with those written during the age of codification and compilation, chief of which is Malik’s Muwatta. It is the briefest in length, shortest in chains, and has an excellent selection of hadith. Memorize its common chains, such as: 
 
 - Malik – Nafi – Ibn Umar
 - Hisham b. Urwa – His father – Aisha
 - Zuhri – Abi Salamah b. Abd al-Rahman – Abu Hurayrah
 - Abu Zinad – al-A’raj – Abu Hurayrah
 
-Imam Malik used to revise his Muwatta’ year after year, carefully selecting which hadith were included. Due to this, there is variation between the different riwayat. Study the riwayah of al-Qa’nabi as it is preferred by most of the muhaddithin, including Imam Ahmad. 
+Imam Malik used to revise his Muwatta’ year after year, carefully selecting which hadith were included. Due to this, there is variation between the different riwayat. Study the riwayah of al-Qa’nabi, which was preferred by most of the muhaddithin, including Imam Ahmad. 
 
 Hatim al-’Awni recommends reading al-Qabas by Ibn al-’Arabi: a brief, thematic commentary on al-Muwatta in contrast to al-Masalik by the same author. Supplement this with Ahmad Nur Sayf’s Amal Ahl al-Madinah, which explains the terminology used by Imam Malik throughout al-Muwatta. Al-Shafi’i’s Ikhtilaf Malik is also an essential read regarding claims of Medinan consensus. 
 
