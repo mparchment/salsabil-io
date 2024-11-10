@@ -15,17 +15,17 @@ This book offers insight into the rational foundations of the methodology employ
 
 - *Al-Arba’in* by Yahya b. Sharaf al-Nawawi
 
-This must be read with Ibn Rajab’s commentary, Jami al-’Ulum wa’l-Hikam. He has a clear style and often brings different variations of a narration or the statements of earlier scholars to establish the meaning of a hadith. This can be supplemented with al-Ta’yin by al-Tufi, who extracts important principles from the text. Sh. Hatim al-’Awni says that if someone reads these two books, he will emerge with fawa’id not found elsewhere.
+This must be read with Ibn Rajab’s commentary, *Jami al-’Ulum wa’l-Hikam*. He has a clear style and often brings different variations of a narration or the statements of earlier scholars to establish the meaning of a hadith. This can be supplemented with *al-Ta’yin* by al-Tufi, who extracts important principles from the text. Hatim al-’Awni says that if someone reads these two books, he will emerge with fawa’id not found elsewhere.
 
 - *Al-Muqidhah* by Shams al-Din al-Dhahabi
 
-Study this book with its commentaries by Abdullah al-Sa'd and Hatim al-'Awni. This book is unique because it introduces the applied aspect of mustalah early on. Research the narrators mentioned by al-Dhahabi in *Tahdhib al-Kamal* by al-Mizzi and *Mizan al-I'tidal* by al-Dhahabi, taking note of the language used to describe them. Supplement this with *al-Muntakhab min ‘Ilal al-Khallal* by Ibn Qudamah, which introduces what many of the topics discussed in *al-Muqidhah* look like in practice.
+Al-Dhahabi's work is unique because it introduces the applied aspect of mustalah early on. Research the narrators mentioned by al-Dhahabi in *Tahdhib al-Kamal* by al-Mizzi and *Mizan al-I'tidal* by al-Dhahabi, taking note of the language used to describe them. Study *al-Muqidhah* with its commentaries by Abdullah al-Sa'd and Hatim al-'Awni. Supplement this with *al-Muntakhab min ‘Ilal al-Khallal* by Ibn Qudamah, which introduces what many of the topics discussed in *al-Muqidhah* look like in practice.
 
 At this point, listen to *Tarikh Nushu' Musannafat al-Sunnah* by Sheikh Hatim al-’Awni, which consists of six lectures which offer an unparalleled understanding of the development of hadith as a field. Follow this up with *Min al-Nabi ila al-Bukhari* by Snobar, which covers the transmission and compilation of hadith from the Prophet, peace be upon him, to Imam al-Bukhari, providing important historical context.
 
 - *‘Umdat al-Ahkam* by ‘Abd al-Ghani al-Maqdisi
 
-Now one can move onto studying and memorizing famous narrations in this book, alongside reading its outstanding commentary Ihkam al-Ahkam by Ibn Daqiq al-‘Id, which is the greatest book ever written on applying usul al-fiqh. Listen to the recorded commentary of Hasan Bukhari. This will introduce fiqh al-hadith, as Ibn Daqiq al-‘Id deduces the rulings from each hadith in a masterful way. 
+Now one can move onto studying and memorizing famous narrations in this book, alongside reading its outstanding commentary *Ihkam al-Ahkam* by Ibn Daqiq al-‘Id, which is the greatest book ever written on applying usul al-fiqh. Listen to the recorded commentary of Hasan Bukhari. This will introduce fiqh al-hadith, as Ibn Daqiq al-‘Id deduces the rulings from each hadith in a masterful way. 
 
 - *Al-Muwatta* by Malik b. Anas al-Madani
 
@@ -38,7 +38,7 @@ Study of the major hadith books should begin with those written during the age o
 
 Imam Malik used to revise his Muwatta’ year after year, carefully selecting which hadith were included. Due to this, there is variation between the different riwayat. Study the riwayah of al-Qa’nabi, which was preferred by most of the muhaddithin, including Imam Ahmad. 
 
-Hatim al-’Awni recommends reading al-Qabas by Ibn al-’Arabi: a brief, thematic commentary on al-Muwatta in contrast to al-Masalik by the same author. Supplement this with Ahmad Nur Sayf’s Amal Ahl al-Madinah, which explains the terminology used by Imam Malik throughout al-Muwatta. Al-Shafi’i’s Ikhtilaf Malik is also an essential read regarding claims of Medinan consensus. 
+Hatim al-’Awni recommends reading *al-Qabas* by Ibn al-’Arabi: a brief, thematic commentary on al-Muwatta in contrast to *al-Masalik* by the same author. Supplement this with Ahmad Nur Sayf’s *Amal Ahl al-Madinah*, which explains the terminology used by Imam Malik throughout al-Muwatta. Al-Shafi’i’s *Ikhtilaf Malik* is also an essential read regarding claims of Medinan consensus. 
 
 # Intermediate Level 
 The objective of this stage is to begin preparing for the thorough and exhaustive study of the major hadith literature.
@@ -47,11 +47,18 @@ The objective of this stage is to begin preparing for the thorough and exhaustiv
 - *Sharh al-Sunnah* by Abu’l-Qasim al-Baghawi
 - *Tahrir 'Ulum al-Hadith* by Abdullah b. Yusuf al-Judai'
 
-This comprehensive work expands on hadith sciences. Use it to compare and synthesize knowledge from previous studies. Supplement this by reading all of Ibn ‘Abd al-Hadi’s rasa’il on hadith. Every work of his has fawa’id; not only ittila’ but also excellent ibarat that illustrate important points of naqd. 
+This comprehensive work expands on hadith sciences. Use it to compare and synthesize knowledge from previous studies. Supplement this by reading Ibn ‘Abd al-Hadi’s rasa’il on hadith. Every work of his has fawa’id; not only ittila’, but also excellent ibarat that illustrate important points of naqd. Also begin reading through various su'alat works to gain more familiarity with the language used by the muhaddithin to describe narrators:
+
+- *Al-'Ilal wa-Ma'rifat al-Rijal li-Ahmad* by 'Abdullah b. Ahmad
+- *Al-'Ilal wa-Ma'rifat al-Rijal 'an al-Imam Ahmad* by al-Marrudhi
+- *Su'alat Abi Dawud li-Ahmad b. Hanbal* by Abu Dawud
+- *Su'alat Abi Bakr al-Athram li-Ahmad b. Hanbal* by Abu Bakr al-Athram
+- *Su'alat Abi 'Ubayd al-Ajurri li-Abi Dawud* by Abu Bakr al-Ajurri
 
 - *Khulasat al-Ta'sil* by Hatim al-’Awni
 
 This book must be accompanied by the author’s recorded commentary. It is a concise treatise on the principles of criticizing and praising narrators is essential for understanding hadith evaluation. 
+
 - *Madkhal ila 'Ilm al-'Ilal* by Hatim al-’Awni:
 - *Kitab al-Tamyiz* by Imam Muslim
 
