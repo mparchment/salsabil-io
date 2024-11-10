@@ -19,9 +19,9 @@ This must be read with Ibn Rajab’s commentary, Jami al-’Ulum wa’l-Hikam. H
 
 - *Al-Muqidhah* by Shams al-Din al-Dhahabi
 
-Study this book with its commentaries by Hatim al-’Awni and Abdullah al-Sa'd. This book is unique because it introduces the applied aspect of mustalah early on. Supplement this with *al-Muntakhab min ‘Ilal al-Khallal* by Ibn Qudamah, which shows what many of the topics discussed in al-Muqidhah look like in practice.
+Study this book with its commentaries by Abdullah al-Sa'd and Hatim al-'Awni. This book is unique because it introduces the applied aspect of mustalah early on. Research the narrators mentioned by al-Dhahabi in *Tahdhib al-Kamal* by al-Mizzi and *Mizan al-I'tidal* by al-Dhahabi, taking note of the language used to describe them. Supplement this with *al-Muntakhab min ‘Ilal al-Khallal* by Ibn Qudamah, which introduces what many of the topics discussed in *al-Muqidhah* look like in practice.
 
-At this point, listen to Tarikh Nushu' Musannafat al-Sunnah by Sheikh Hatim al-’Awni, which consists of six lectures which offer an unparalleled understanding of the development of hadith as a field. Follow this up with Min al-Nabi ila al-Bukhari by Dr. Snobar, which covers the transmission and compilation of hadith from the Prophet, peace be upon him, to Imam al-Bukhari, providing essential historical context.
+At this point, listen to *Tarikh Nushu' Musannafat al-Sunnah* by Sheikh Hatim al-’Awni, which consists of six lectures which offer an unparalleled understanding of the development of hadith as a field. Follow this up with *Min al-Nabi ila al-Bukhari* by Snobar, which covers the transmission and compilation of hadith from the Prophet, peace be upon him, to Imam al-Bukhari, providing important historical context.
 
 - *‘Umdat al-Ahkam* by ‘Abd al-Ghani al-Maqdisi
 

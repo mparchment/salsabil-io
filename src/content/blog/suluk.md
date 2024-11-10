@@ -11,6 +11,9 @@ heroImage: '/beggar.jpg'
 
 - Ibn Abi Dunya
 
+- Abu Isma'il al-Harawi
+    - *Manazil al-Sa'irin*: This book is one of the most important works on tasawwuf written by a Hanbali scholar. It should be read with *Madarij al-Salikin* by Ibn al-Qayyim. In this commentary of Manazil al-Sa’irin, he tempers al-Harawi’s tasawwuf, although his corrections can be overbearing at times. Fadil b. al-Hamid al-Zawzani (760 AH) has a concise abridgement of Manazil al-Sa'irin titled *Manazil al-Salikin*.
+
 - ‘Abd al-Qadir al-Jilani
     - *Jila’ al-Khatir*: This book consists of advice taken from the majalis of ‘Abd al-Qadir and compiled by his students. It is similar to Ayyuha ‘l-Walad by al-Ghazali. 
     - *Adab al-Suluk*
@@ -42,7 +45,6 @@ heroImage: '/beggar.jpg'
     - *Hadi al-Awrah*
     - *Kitab al-Ruh*
     - *Miftah Dar al-Sa’adah*
-    - *Madarij al-Salikin*: In this commentary of Manazil al-Sa’irin, Ibn al-Qayyim tempers al-Harawi’s tasawwuf, although his corrections can be overbearing at times. 
 
 - Shams al-Din b. Muflih
 
