@@ -29,6 +29,10 @@ This text is widely taught throughout the Arabian Peninsula and was often memori
 
 The most important commentaries are that of ‘Abdullah al-Maqdisi and Ibn ‘Iwad, which is titled *Fath Wahhab al-Ma'arib*. hese two books encompass all other works written on Dalil al-Talib. Although they overlap to a certain extent, Ibn ‘Iwad tends to focus on explaining the text itself, while al-Maqdisi often mentions khilaf and tangential, yet beneficial points. For revision of the material, use *al-Ifsah* by Ibn al-Jarrah and *al-As'ilat wa'l-Ajwibah* by 'Abd al-Wahhab al-Faris.
 
+- *Al-Waraqat* by Abu'l-Ma'ali al-Juwayni
+
+This is the typically the first text studied in usul al-fiqh. It is a concise work introducing the terminology of the field. The most comprehensive commentary is *Qurrat al-‘Ayn* by al-Hattab. Accompany it with the recorded lessons of Hasan Bukhari, and then follow this up with the lessons of Salman Nasir.
+
 - *Mukhtasar al-Tahrir* by Ibn al-Najjar al-Futuhi
 
 Listen to the recordings of Hasan Bukhari, who is widely read in usul al-fiqh, has a deep grasp of the underlying reason for differences, and has a unique talent in explaining texts. For more detail at this level, reference *al-Dhukhr al-Harir* by Ahmad b. ‘Abdullah al-Ba’li
@@ -52,9 +56,9 @@ This book must be read with its commentary Sharh Mukhtasar al-Rawdah, which is w
 
 After reading this book, begin reading through *Fatawa Ibn Aqil* to see what ifta’ looks like in practice. 
 
-- *Muqaddimat al-Insaf* by ‘Ala al-Din al-Mardawi
+- *Muqaddimat al-Insaf* and *Khatimat al-Insaf* by ‘Ala al-Din al-Mardawi
 
-This introduction will explain the overall framework used muta’akhirin to determine the madhab’s positions. 
+The introduction and epilogue of *al-Insaf* by al-Mardawi provide essential knowledge surrounding the madhhab. His introduction explains overall framework used muta’akhirin to determine the madhab’s positions, while the epilogue explains terminology used within the madhab.
 
 - *Zad al-Musafir* by Ghulam al-Khallal
 
