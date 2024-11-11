@@ -54,8 +54,6 @@ This book must be read with its commentary *Sharh Mukhtasar al-Rawdah*, which is
 
 - *Sifat al-Mufti* by Ibn Hamdan al-Harrani
 
-After reading this book, begin reading through *Fatawa Ibn Aqil* to see what ifta’ looks like in practice. 
-
 - *Muqaddimat al-Insaf* and *Khatimat al-Insaf* by ‘Ala al-Din al-Mardawi
 
 The introduction and epilogue of *al-Insaf* by al-Mardawi provide essential knowledge surrounding the madhhab. His introduction explains overall framework used muta’akhirin to determine the madhab’s positions, while the epilogue explains terminology used within the madhab.
