@@ -27,7 +27,7 @@ It should be accompanied with its commentary Hidayat al-Raghib by Ibn Qa’id al
 
 This text is widely taught throughout the Arabian Peninsula and was often memorized in the past. It is very clear and contains more detail than books of a similar size. Listen to the recordings of Muhammad ‘Abd al-Wahid, which are indispensable for clarifying the positions of the madhab. 
 
-Its most comprehensive and beneficial commentary is *Fath Wahhab al-Marib* by Ibn 'Iwad al-Mardawi. He elaborates on the text, mentions far'i masa'il, defines important terms, and brings details from longer works. One should also consult the commentary of 'Abdullah al-Maqdisi, which Ibn 'Iwad relied upon for his own work. Al-Maqdisi tends to mention khilaf and tangential, yet beneficial points. For revision of the material, use *al-Ifsah* by Ibn al-Jarrah and *al-As'ilat wa'l-Ajwibah* by 'Abd al-Wahhab al-Faris.
+Its most comprehensive and beneficial commentary is *Fath Wahhab al-Marib* by Ibn 'Iwad al-Mardawi. Ibn 'Iwad elaborates on the text, mentions far'i masa'il, defines important terms, and brings details from longer works. One should also consult the commentary of 'Abdullah al-Maqdisi, which Ibn 'Iwad relied upon for his own work. Al-Maqdisi tends to mention khilaf and tangential, yet beneficial points. For revision of the material, use *al-Ifsah* by Ibn al-Jarrah and *al-As'ilat wa'l-Ajwibah* by 'Abd al-Wahhab al-Faris.
 
 - *Al-Waraqat* by Abu'l-Ma'ali al-Juwayni
 
