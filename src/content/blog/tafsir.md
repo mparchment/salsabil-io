@@ -18,7 +18,7 @@ At this point, also listen to Ali Hani’s series *Al-Tariqat Al-Muthla*, which 
 
 - *Madarik al-Tanzil* by Abu'l-Barakat al-Nasafi
 
-Shaykh Ali Hani recommends this work for beginners. It surpasses other introductory tafasir in both clarity and ease of expressions, without sacrificing technical accuracy. Al-Nasafi offers a digestible summary of al-Zamakhshari and al-Baydawi, who can be cryptic and hard to understand. This tafsir is a classical work, yet accessible to contemporary readers. Begin reading it as soon as one has gained a basic understanding of grammar and morphology. Supplement it with readings from Ibn Juzayy's *Tashil al-'Ulum* and Muhammad al-Sabuni's *Safwat al-Tafasir*.
+Shaykh Ali Hani recommends this work for beginners. It surpasses other introductory tafasir in both clarity and ease of expressions without sacrificing technical accuracy. Al-Nasafi offers a digestible summary of al-Zamakhshari and al-Baydawi, who can be cryptic and hard to understand. This tafsir is a classical work, yet accessible to contemporary readers. Begin reading it as soon as one has gained a basic understanding of grammar and morphology. Supplement it with readings from Ibn Juzayy's *Tashil al-'Ulum* and Muhammad al-Sabuni's *Safwat al-Tafasir*.
 
 # Intermediate Level
 The objective at this stage is to familiarize oneself with multiple aspects of tafsir, especially concerning the explanation of words and the various narrations regarding each ayah, without striving to find which is the strongest nor being too concerned when different statements are attributed the same authorities, such as Ibn ‘Abbas. 
