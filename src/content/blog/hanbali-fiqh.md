@@ -46,7 +46,7 @@ This book provides a solid foundation for the asbab of khilaf. It must be accomp
 
 This book is a brilliant commentary on *Zad al-Mustaqni’* by Musa al-Hajjawi. *Zad al-Mustaqni’* was itself abridged from *al-Muqni’* by Ibn Qudamah, which was written to introduce differences of opinion within the madhab. Al-Hajjawi restricted it to the madhhab’s official positions, removing rarely occurring issues and adding some of the more common ones. In contrast to *Dalil al-Talib*, which was widely studied in Sham, *Zad al-Mustaqni’* became the main text studied among Hanbalis in the Arabian Peninsula. *Zad al-Mustaqni’* is terse on its own and occasionally goes against the madhhab's relied-upon opinions, which is remedied by reading it with al-Buhuti's commentary.
 
-There is a large amount of masa’il in this book, and it requires a long time to explain correctly. Due to the status of the original author, the abridger, and the commentator, *Al-Rawd Al-Murbi’* has become an extremely important work for the madhhab and relied upon for both teaching and delivering legal rulings. Listen to the recorded lessons of Muhammad ‘Abd al-Wahid and read his published edition of the book titled *Jam al-Rahiq al-Musbi’*. For major ishkal, begin referencing the commentaries of *al-Muqni'*: *al-Mumti'*, *al-Mubdi'*, *al-Sharh al-Kabir*, and *al-Insaf*. Doing this will build one's aptitude in fiqh and facilitate understanding the expressions in these longer books. 
+There is a large amount of masa’il in this book, and it requires a long time to explain correctly. Due to the status of the original author, the abridger, and the commentator, *Al-Rawd Al-Murbi’* has become an extremely important work for the madhhab and relied upon for both teaching and delivering legal rulings. Listen to the recorded lessons of Muhammad ‘Abd al-Wahid and read his published edition of the book titled *Jam al-Rahiq al-Mushbi’*. For major ishkal, begin referencing the commentaries of *al-Muqni'*: *al-Mumti'*, *al-Mubdi'*, *al-Sharh al-Kabir*, and *al-Insaf*. Doing this will build one's aptitude in fiqh and facilitate understanding the expressions in these longer books. 
 
 - *Al-Bulbul* by Najm al-Din al-Tufi
 
@@ -70,13 +70,13 @@ This indispensable work must be read in order to understand how the ashab interp
 
 - *Al-’Umdah by Ibn Qudamah al-Maqdisi* 
 
-Ibn Qudamah originally authored this book as a primer in his curriculum, consisting of his ikhtiyarat from opinions within the madhhab. At this stage, it should be read with *Sharh al-’Umdah* by Ibn Taymiyyah. This commentary only covers the sections of ‘ibadah, yet it remains one of the most comprehensive works on adillah in the madhab. Ibn Taymiyyah makes it a point to mention all of the recorded positions within the madhab, along with explaining whether a position is from the riwayat, wujuh, or aqwal from the students of Ahmad. Complete this with the recorded lessons of Yusuf al-Ghafis on al-’Umdah, where he focuses on fiqh al-khilaf and its asbab. For contemporary issues, listen to the recordings of Hatem al-Haj and read his published commentary. 
+Ibn Qudamah originally authored this book as a primer in his curriculum, consisting of his ikhtiyarat from opinions within the madhhab. At this stage, it should be read with *Sharh al-’Umdah* by Ibn Taymiyyah. This commentary only covers the sections of ‘ibadah, yet it remains one of the most comprehensive works on adillah in the madhab. Ibn Taymiyyah makes it a point to mention all of the recorded positions within the madhab, along with explaining whether a position is from the riwayat, wujuh, or aqwal from the students of Ahmad. Complete this with the recorded lessons of Yusuf al-Ghafis on *al-’Umdah*, where he focuses on fiqh al-khilaf and its asbab. For contemporary issues, listen to the recordings of Hatem al-Haj and read his published commentary. 
 
 # Advanced Level
 
 - *Muntaha al-Iradat* by Ibn al-Najjar al-Futuhi
 
-In this book, the author combined al-Muqni’ with al-Tanqih al-Mushbi’ to produce a summary of the madhab’s relied-upon opinions. It must be accompanied by its commentary Daqa’iq Uli al-Nuha by al-Buhuti, which is one of the most authoritative books in the madhhab. One should also consult Hashiyat Ibn Qa’id. 
+In this book, the author combined al-Muqni’ with *al-Tanqih al-Mushbi’* to produce a summary of the madhab’s relied-upon opinions. It must be accompanied by its commentary *Daqa’iq Uli al-Nuha* by al-Buhuti, which is one of the most authoritative books in the madhhab. One should also consult *Hashiyat Ibn Qa’id*. 
 
 - *Al-Iqna’* by Musa b. Ahmad al-Hajjawi
 
