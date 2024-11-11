@@ -1,6 +1,6 @@
 ---
 title: 'Studying Hadith'
-description: "The following is a guide to studying hadith and its sciences. I compiled this through readings reccomended by Sh. Salman Nasir, Sh. Elias Hsain, and others. It is based on the original curriculum written by al-Asiri."
+description: "The following is a guide to studying hadith and its sciences. I compiled this through readings recommended by Sh. Salman Nasir, Sh. Elias Hsain, Sh. Walid Patel, and Mufti Muntasir Zaman. It is based on the original curriculum written by al-Asiri."
 pubDate: 'Nov 10 2024'
 heroImage: '/azhar.jpeg'
 ---
@@ -44,7 +44,7 @@ Hatim al-’Awni recommends reading *al-Qabas* by Ibn al-’Arabi: a brief, them
 The objective of this stage is to begin preparing for the thorough and exhaustive study of the major hadith literature.
 
 - *Ma’alim al-Sunnat al-Nabawiyyah* by Salih b. Ahmad al-Shami
-- *Sharh al-Sunnah* by Abu’l-Qasim al-Baghawi
+
 - *Tahrir 'Ulum al-Hadith* by Abdullah b. Yusuf al-Judai'
 
 This comprehensive work expands on hadith sciences. Use it to compare and synthesize knowledge from previous studies. Supplement this by reading Ibn ‘Abd al-Hadi’s rasa’il on hadith. Every work of his has fawa’id; not only ittila’, but also excellent ibarat that illustrate important points of naqd. Also begin reading through various su'alat works:
@@ -56,6 +56,12 @@ This comprehensive work expands on hadith sciences. Use it to compare and synthe
 - *Su'alat Abi 'Ubayd al-Ajurri li-Abi Dawud* by Abu Bakr al-Ajurri
 
 Doing this will allow one gain more familiarity with the language used by the muhaddithin to describe narrators.
+
+- *Al-Madkhal ila-'Ilm al-Sunan* by Abu Bakr al-Bayhaqi
+
+This book is al-Bayhaqi's introduction to his magisterial *al-Sunan al-Kubra*, recommended by Ahmad Ma'bad 'Abd al-Karim and Hatim al-'Awni. It consists of three parts: the first consits of central and peripheral discussions in hadith including the veracity of isolated transmission, paraphrased transmission, tadlis, the traits of a reliable narrator, and the use of mursal reports. The second part comprises discussions on legal theory including consensus, ijtihad, mafhum al-mukhalafah, and hadith which apperently contradict each other. The third part mentions the virtues of acquiring knwoledge, the rank of scholars, and the etiquettes of students. 
+
+- *Sharh al-Sunnah* by Abu’l-Qasim al-Baghawi
 
 - *Khulasat al-Ta'sil* by Hatim al-’Awni
 
