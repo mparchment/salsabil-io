@@ -47,13 +47,15 @@ The objective of this stage is to begin preparing for the thorough and exhaustiv
 - *Sharh al-Sunnah* by Abu’l-Qasim al-Baghawi
 - *Tahrir 'Ulum al-Hadith* by Abdullah b. Yusuf al-Judai'
 
-This comprehensive work expands on hadith sciences. Use it to compare and synthesize knowledge from previous studies. Supplement this by reading Ibn ‘Abd al-Hadi’s rasa’il on hadith. Every work of his has fawa’id; not only ittila’, but also excellent ibarat that illustrate important points of naqd. Also begin reading through various su'alat works to gain more familiarity with the language used by the muhaddithin to describe narrators:
+This comprehensive work expands on hadith sciences. Use it to compare and synthesize knowledge from previous studies. Supplement this by reading Ibn ‘Abd al-Hadi’s rasa’il on hadith. Every work of his has fawa’id; not only ittila’, but also excellent ibarat that illustrate important points of naqd. Also begin reading through various su'alat works:
 
 - *Al-'Ilal wa-Ma'rifat al-Rijal li-Ahmad* by 'Abdullah b. Ahmad
 - *Al-'Ilal wa-Ma'rifat al-Rijal 'an al-Imam Ahmad* by al-Marrudhi
 - *Su'alat Abi Dawud li-Ahmad b. Hanbal* by Abu Dawud
 - *Su'alat Abi Bakr al-Athram li-Ahmad b. Hanbal* by Abu Bakr al-Athram
 - *Su'alat Abi 'Ubayd al-Ajurri li-Abi Dawud* by Abu Bakr al-Ajurri
+
+Doing this will allow one gain more familiarity with the language used by the muhaddithin to describe narrators
 
 - *Khulasat al-Ta'sil* by Hatim al-’Awni
 
