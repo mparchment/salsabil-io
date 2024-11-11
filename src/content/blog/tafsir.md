@@ -1,11 +1,13 @@
 ---
 title: 'Studying Tafsir'
-description: "The following is a guide to studying tafsir and its various sciences. It is is drawn from the suggestions of Sh. Salman Nasir, Sh. Waqar Abbas, and Sh. Walid Patel, among others."
+description: "The following is a guide to studying tafsir and its various sciences. It is is drawn from the suggestions of Sh. Salman Nasir, Sh. Waqar Abbas, and Sh. Walid Patel, among others. It is also based on the original curriculum by al-Asiri."
 pubDate: 'Nov 5 2024'
 heroImage: '/quran-lesson.jpg'
 ---
 
 # Elementary Level
+At this stage, one should set a dedicated time to study each week, sticking to a routine and remaining consistent. A manageable amount is to read half a juz' a week, or the tafsir of a page from the mushaf each day. This way, one will have completed a full tafsir of the Qur'an in a year.
+
 - *Al-Tahrir* by Musa'id al-Tayyar
 
 - *Al-Muharrar* by Musa'id al-Tayyar
