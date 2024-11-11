@@ -1,6 +1,6 @@
 ---
 title: 'Studying Hadith'
-description: "The following is a guide to studying hadith and its sciences. I compiled this through readings recommended by Sh. Salman Nasir, Sh. Elias Hsain, Sh. Walid Patel, and Mufti Muntasir Zaman. It is based on the original curriculum written by al-Asiri."
+description: "The following is a guide to studying hadith and its sciences. I compiled this through readings recommended by Sh. Salman Nasir, Sh. Elias Hsain, and Sh. Walid Patel, among others. It is based on the original curriculum written by al-Asiri."
 pubDate: 'Nov 10 2024'
 heroImage: '/azhar.jpeg'
 ---
@@ -119,7 +119,7 @@ Study this seminal work on hadith sciences, along with the 112 tapes of Hatim al
 
 - *Sharh 'Ilal al-Tirmidhi* by Ibn Rajab
 
-After completing Muqaddimah Ibn al-Salah, study this book and listen to al-Ta'liq 'ala Sharh 'Ilal al-Tirmidhi by Hatim al-’Awni, a 30-tape series where Sh. Hatim critiques some of Ibn Rajab's choices and covers issues not addressed in earlier works. This wonderful book helps to understand al-Tirmidhi’s use of tahsin later on.
+After completing Muqaddimah Ibn al-Salah, study this book and listen to *al-Ta'liq 'ala Sharh 'Ilal al-Tirmidhi* by Hatim al-’Awni, a 30-tape series where Sh. Hatim critiques some of Ibn Rajab's choices and covers issues not addressed in earlier works. This wonderful book helps to understand al-Tirmidhi’s use of tahsin later on.
 
 - *Al-Risalah* by Muhammad b. Idris al-Shafi’i
 
@@ -143,7 +143,7 @@ Supplement this with Anwar Shah al-Kashmiri’s Fayd al-Bari. Al-Kashmiri contin
 
 - *Al-Musnad Al-Sahih* by Muslim b. al-Hajjaj
 
-Before commencing with Sahih Muslim, read Hatim al-‘Awni’s Ijma’ al-Muhaddithin, which addresses common misconceptions regarding the conditions of al-Bukhari and Muslim, as well as the mu’an’an controversy discussed in Muslim’s muqaddimah. Sahih Muslim must be accompanied by Imam al-Nawawi’s well-known commentary, Minhaj al-Muhaddithin.
+Before commencing with Sahih Muslim, read Hatim al-‘Awni’s *Ijma’ al-Muhaddithin*, which addresses common misconceptions regarding the conditions of al-Bukhari and Muslim, as well as the mu’an’an controversy discussed in Muslim’s Muqaddimah. Sahih Muslim must be accompanied by Imam al-Nawawi’s well-known commentary, Minhaj al-Muhaddithin.
 
 Bear in mind Imam Muslim’s methodology. He arranges the hadith in each chapter according to decreasing levels of strength. Thus, the first one or two hadiths are the asl of the chapter topic or argument, of which there are 3,145, and the following hadiths are mutaba’at, from a total of 7,748. Most commentaries miss this point, focusing instead on ahkam al-hadith rather than hadith methodology. Critics have often failed to understand this subtle point and have criticized the mutabi’ hadiths when their main purpose is to support the asl hadiths. A good teacher should be able to point these out and differentiate between them. 
 
@@ -159,11 +159,11 @@ The Sunan of Abu Dawud should be prepared for by reading Abd al-Fattah Abu Ghudd
 
 - *Al-Jami’ Al-Kabir* by Abu ‘Isa al-Tirmidhi
 
-The Jami’ of al-Tirmidhi should be introduced through Nur al-Din ‘Itr’s *al-Imam al-Tirmidhi*, which was his doctoral thesis at al-Azhar. Abdullah al-Sa’d has an excellent audio commentary of the opening chapters focusing on ‘ulum al-hadith. Read *‘Aridat al-Ahwadhi* by Ibn al-‘Arabi and *Taklimat Sharh al-Tirmidhi* by Zayn al-Din al-’Iraqi. Reference al-Daraqutni’s *al-‘Ilal* wherever possible.
+The *Jami’* of al-Tirmidhi should be introduced through Nur al-Din ‘Itr’s *al-Imam al-Tirmidhi*, which was his doctoral thesis at al-Azhar. Abdullah al-Sa’d has an excellent audio commentary of the opening chapters focusing on ‘ulum al-hadith. Read *‘Aridat al-Ahwadhi* by Ibn al-‘Arabi and *Taklimat Sharh al-Tirmidhi* by Zayn al-Din al-’Iraqi. Reference al-Daraqutni’s *al-‘Ilal* wherever possible.
 
-When studying the sunan works, analyze each chain of transmission independently and strive to understand the methodology of the early hadith masters. It is crucial to remember that each chain needs to be analyzed individually and in context. Refer to the gradings and justifications of Shu’ayb al-Arna’ut and Abdullah al-Sa’d. When these two agree, it should suffice. When they differ, research it extensively. Reference ‘Ilal al-Daraqutni, ‘Ilal Ibn Abi Hatim, and ‘Ilal Ibn al-Madini. Ibn Abi Hatim only gathers the turuq, in contrast to al-Daraqutni, so his book is much more difficult to read. For this reason, Ibn Abi Hatim’s ‘ilal must be read its excellent ta’liqat by Ibn ‘Abd al-Hadi.
+When studying the sunan works, analyze each chain of transmission independently and strive to understand the methodology of the early hadith masters. It is crucial to remember that each chain needs to be analyzed individually and in context. Refer to the gradings and justifications of Shu’ayb al-Arna’ut and Abdullah al-Sa’d. When these two agree, it should suffice. When they differ, research it extensively. Reference *‘Ilal al-Daraqutni*, *‘Ilal Ibn Abi Hatim*, and *‘Ilal Ibn al-Madini*. Ibn Abi Hatim only gathers the turuq, in contrast to al-Daraqutni, so his book is much more difficult to read. For this reason, Ibn Abi Hatim’s ‘ilal must be read its excellent ta’liqat by Ibn ‘Abd al-Hadi.
 
-In addition to these structured studies, Abdullah al-Sa'd has numerous lectures on hadith narrators and jarh wal-ta'dil, although no single series. It is highly recommended to listen to everything you can find from him. As you listen to his discussions, especially in his Sharh al-Nasa'i and Sharh al-Tirmidhi, research the narrators he discusses using Tahdhib al-Tahdhib and other sources on rijal. This method will help you apply your knowledge and develop a strong grasp of these topics.
+In addition to these structured studies, Abdullah al-Sa'd has numerous lectures on hadith narrators and jarh wal-ta'dil, although no single series. It is highly recommended to listen to everything you can find from him. As you listen to his discussions, especially in his commentary on al-Nasa'i and al-Tirmidhi, research the narrators he discusses using *Tahdhib al-Kamal* and other sources on rijal. This method will help you apply your knowledge and develop a strong grasp of these topics.
 
 - *Al-Sunan Al-Kubra* by Ahmad b. Shu'ayb al-Nasa'i
 
