@@ -149,6 +149,10 @@ Bear in mind Imam Muslim’s methodology. He arranges the hadith in each chapter
 
 Another key point to note is that Imam Muslim never wrote chapter headings or titles. He simply gathered the hadiths of a particular issue together in order of strength. Later commentators wrote chapter headings, which they deduced from the contents of the hadith. Most editions of Sahih Muslim use Imam al-Nawawi’s chapter headings, due to his great standing in both fiqh and hadith. However, one should check earlier and later commentaries to see how different scholars have understood the chapters. 
 
+- *Al-Musnad Al-Sahih* by Ibn Hibban
+
+Shaykh Ahmad Ma'bad recommends studying how Ibn Hibban categorizes ahadith according to the various categories of ahkam based on the wording of the narration. Note that Ibn Hibban's original organization of the book should be used, and not the later rearrangement by Ibn Balalan according to the abwab of fiqh. Ibn Hibban's Sahih is a masterpiece of riwayah and dirayah, demonstrating that he was truly an Imam. By understanding his method here, and knowing usul al-fiqh, one will be able to independently determine whether a hadith indicates obligation, permissibility, dislike, or prohibition.
+
 -  *Al-Sunan* by Abu Dawud al-Sijistani
 
 The Sunan of Abu Dawud should be prepared for by reading Abd al-Fattah Abu Ghuddah’s edition of his *Risalat ila Ahl Makkah*, which is one of the first treatises on nomenclature and methodology alongside Muslim’s *Muqaddimah* and al-Shafi’is *Risalah*. Abdullah al-Sa’d has an excellent audio commentary, focusing on ‘ulum al-hadith, of the opening chapters. Accompany *Sunan Abi Dawud* with *Mu’alim al-Sunan* by al-Khattabi, which is also one of the earliest commentaries on a hadith collection. 
