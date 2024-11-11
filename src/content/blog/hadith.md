@@ -43,7 +43,7 @@ Imam Malik used to revise his Muwatta’ year after year, carefully selecting wh
 Hatim al-’Awni recommends reading *al-Qabas* by Ibn al-’Arabi: a brief, thematic commentary on al-Muwatta in contrast to *al-Masalik* by the same author. Supplement this with Ahmad Nur Sayf’s *Amal Ahl al-Madinah*, which explains the terminology used by Imam Malik throughout al-Muwatta. Al-Shafi’i’s *Ikhtilaf Malik* is also an essential read regarding claims of Medinan consensus. 
 
 # Intermediate Level 
-The objective of this stage is to begin preparing for the thorough and exhaustive study of the major hadith literature.
+The objective of this stage is to begin preparing for the thorough and exhaustive study of the major hadith literature. Throughout this stage, one should begin reading through the various sunan works to gain familiarity of their contents, while also checking and researching the veracity of their narrations. The most important sunan works are those of al-Nasa'i, which contains important benefits regarding hidden defects, and al-Tirmidhi, who had unique terminology that is often quoted by later scholars.
 
 - *Ma’alim al-Sunnat al-Nabawiyyah* by Salih b. Ahmad al-Shami
 
@@ -67,7 +67,7 @@ This book must be accompanied by the author’s recorded commentary. It is a con
 - *Su'alat Abi Bakr al-Athram li-Ahmad b. Hanbal* by Abu Bakr al-Athram
 - *Su'alat Abi 'Ubayd al-Ajurri li-Abi Dawud* by Abu Bakr al-Ajurri
 
-Doing this will allow one gain more familiarity with the language used by the muhaddithin to describe narrators.
+Doing this will allow one gain more familiarity with the language used by the muhaddithin to describe narrators. At this stage, one should begin analyzing chains of transmission independently. Each chain needs to be analyzed individually and in context, understanding the approach of the early hadith masters. Continue referring to al-Mizzi's *Tahdhib al-Kamal* and al-Dhahabi's *Mizan al-I'tidal* for this purpose. One should be very careful in grading hadith and should strive to understand rather than innovate.  The final word on a narrator is with the master critics: Yahya b. Ma'in, Ahmad b. Hanbal, and Al-Bukhari.
 
 - *Madkhal ila 'Ilm al-'Ilal* by Hatim al-’Awni
 
@@ -109,7 +109,7 @@ This book compiles some of Hatim al-‘Awni’s most important lectures on hadit
 
 # Advanced Level 
 
-The objective of this stage is to begin reading the major works with commentary and takhrij.
+The objective of this stage is to begin studying the major books of hadith with comprehensive commentary and takhrij.
 
 - *Tarh al-Tathrib* by Wali al-Din al-’Iraqi
 
