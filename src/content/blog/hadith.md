@@ -73,7 +73,7 @@ Doing this will allow one gain more familiarity with the language used by the mu
 
 - *Kitab al-Tamyiz* by Imam Muslim
 
-In this work, Muslim clearly details his methodology of critiquing hadith. Listen to the commentary of Abdullah al-Sa'd. This will significantly deepen one’s understanding of hadith criticism and its application.
+In this work, Muslim clearly details his methodology of critiquing hadith. Listen to the commentary of Abdullah al-Sa'd. This will significantly deepen one’s understanding of hadith criticism and its application. Accompany this by reading Muslim's *Muqaddimah* to his *Sahih*, where he implicitly lays out the five conditions of authenticity.
 
 - *Al-'Illat wa-Ajnasuha* by Mustafa Bahu
 
@@ -151,11 +151,11 @@ Another key point to note is that Imam Muslim never wrote chapter headings or ti
 
 -  *Al-Sunan* by Abu Dawud al-Sijistani
 
-The Sunan of Abu Dawud should be prepared for by reading Abd al-Fattah Abu Ghuddah’s edition of his Risalat ila Ahl Makkah, which is one of the first treatises on nomenclature and methodology alongside Muslim’s Muqaddimah and al-Shafi’is Risalah. Abdullah al-Sa’d has an excellent audio commentary, focusing on ‘ulum al-hadith, of the opening chapters. Accompany Sunan Abi Dawud with *Mu’alim al-Sunan* by al-Khattabi, which is also one of the earliest commentaries on a hadith collection. 
+The Sunan of Abu Dawud should be prepared for by reading Abd al-Fattah Abu Ghuddah’s edition of his *Risalat ila Ahl Makkah*, which is one of the first treatises on nomenclature and methodology alongside Muslim’s *Muqaddimah* and al-Shafi’is *Risalah*. Abdullah al-Sa’d has an excellent audio commentary, focusing on ‘ulum al-hadith, of the opening chapters. Accompany *Sunan Abi Dawud* with *Mu’alim al-Sunan* by al-Khattabi, which is also one of the earliest commentaries on a hadith collection. 
 
 - *Al-Jami’ Al-Kabir* by Abu ‘Isa al-Tirmidhi
 
-The Jami’ of al-Tirmidhi should be introduced through Nur al-Din ‘Itr’s al-Imam al-Tirmidhi, which was his doctoral thesis at al-Azhar. Abdullah al-Sa’d has an excellent audio commentary of the opening chapters focusing on ‘ulum al-hadith. Read ‘Aridat al-Ahwadhi by Ibn al-‘Arabi and Taklimat Sharh al-Tirmidhi by Zayn al-Din al-’Iraqi. Reference al-Daraqutni’s al-‘Ilal wherever possible.
+The Jami’ of al-Tirmidhi should be introduced through Nur al-Din ‘Itr’s *al-Imam al-Tirmidhi*, which was his doctoral thesis at al-Azhar. Abdullah al-Sa’d has an excellent audio commentary of the opening chapters focusing on ‘ulum al-hadith. Read *‘Aridat al-Ahwadhi* by Ibn al-‘Arabi and *Taklimat Sharh al-Tirmidhi* by Zayn al-Din al-’Iraqi. Reference al-Daraqutni’s *al-‘Ilal* wherever possible.
 
 When studying the sunan works, analyze each chain of transmission independently and strive to understand the methodology of the early hadith masters. It is crucial to remember that each chain needs to be analyzed individually and in context. Refer to the gradings and justifications of Shu’ayb al-Arna’ut and Abdullah al-Sa’d. When these two agree, it should suffice. When they differ, research it extensively. Reference ‘Ilal al-Daraqutni, ‘Ilal Ibn Abi Hatim, and ‘Ilal Ibn al-Madini. Ibn Abi Hatim only gathers the turuq, in contrast to al-Daraqutni, so his book is much more difficult to read. For this reason, Ibn Abi Hatim’s ‘ilal must be read its excellent ta’liqat by Ibn ‘Abd al-Hadi.
 
