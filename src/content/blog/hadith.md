@@ -47,7 +47,17 @@ The objective of this stage is to begin preparing for the thorough and exhaustiv
 
 - *Tahrir 'Ulum al-Hadith* by Abdullah b. Yusuf al-Judai'
 
-This comprehensive work expands on hadith sciences. Use it to compare and synthesize knowledge from previous studies. Supplement this by reading Ibn ‘Abd al-Hadi’s rasa’il on hadith. Every work of his has fawa’id; not only ittila’, but also excellent ibarat that illustrate important points of naqd. Also begin reading through various su'alat works:
+This comprehensive work expands on what has been learned so far. Use it to compare and synthesize knowledge from previous studies. Supplement this by reading Ibn ‘Abd al-Hadi’s rasa’il on hadith. Every work of his has fawa’id: not only ittila’, but also excellent ibarat that illustrate important points of naqd. Also read Tahir al-Jaza'iri's *Tawjih al-Nazar*, which is highly recommended by contemporary experts. The author was exceptionally skilled with manuscripts, and the relevant sections in his book are indispensable to learning how to deal with them.
+
+- *Al-Madkhal ila-'Ilm al-Sunan* by Abu Bakr al-Bayhaqi
+
+This book is al-Bayhaqi's introduction to his magisterial *al-Sunan al-Kubra*, recommended by Ahmad Ma'bad 'Abd al-Karim and Hatim al-'Awni. It consists of three parts: the first consits of central and peripheral discussions in hadith including the veracity of isolated transmission, paraphrased transmission, tadlis, the traits of a reliable narrator, and the use of mursal reports. The second part comprises discussions on legal theory including consensus, ijtihad, mafhum al-mukhalafah, and hadith which apparently contradict each other. The third part mentions the virtues of acquiring knowledge, the rank of scholars, and the etiquettes of students. 
+
+- *Sharh al-Sunnah* by Abu’l-Qasim al-Baghawi
+
+- *Khulasat al-Ta'sil* by Hatim al-’Awni
+
+This book must be accompanied by the author’s recorded commentary. It is a concise treatise on the principles of criticizing and praising narrators is essential for understanding hadith evaluation. At this point, begin reading through various su'alat works:
 
 - *Al-'Ilal wa-Ma'rifat al-Rijal li-Ahmad* by 'Abdullah b. Ahmad
 - *Al-'Ilal wa-Ma'rifat al-Rijal 'an al-Imam Ahmad* by al-Marrudhi
@@ -57,17 +67,8 @@ This comprehensive work expands on hadith sciences. Use it to compare and synthe
 
 Doing this will allow one gain more familiarity with the language used by the muhaddithin to describe narrators.
 
-- *Al-Madkhal ila-'Ilm al-Sunan* by Abu Bakr al-Bayhaqi
+- *Madkhal ila 'Ilm al-'Ilal* by Hatim al-’Awni
 
-This book is al-Bayhaqi's introduction to his magisterial *al-Sunan al-Kubra*, recommended by Ahmad Ma'bad 'Abd al-Karim and Hatim al-'Awni. It consists of three parts: the first consits of central and peripheral discussions in hadith including the veracity of isolated transmission, paraphrased transmission, tadlis, the traits of a reliable narrator, and the use of mursal reports. The second part comprises discussions on legal theory including consensus, ijtihad, mafhum al-mukhalafah, and hadith which apperently contradict each other. The third part mentions the virtues of acquiring knwoledge, the rank of scholars, and the etiquettes of students. 
-
-- *Sharh al-Sunnah* by Abu’l-Qasim al-Baghawi
-
-- *Khulasat al-Ta'sil* by Hatim al-’Awni
-
-This book must be accompanied by the author’s recorded commentary. It is a concise treatise on the principles of criticizing and praising narrators is essential for understanding hadith evaluation. 
-
-- *Madkhal ila 'Ilm al-'Ilal* by Hatim al-’Awni:
 - *Kitab al-Tamyiz* by Imam Muslim
 
 In this work, Muslim clearly details his methodology of critiquing hadith. Listen to the commentary of Abdullah al-Sa'd. This will significantly deepen one’s understanding of hadith criticism and its application.
@@ -126,7 +127,7 @@ Before studying the text, listen to the recordings of ‘Abdullah al-Daghistani 
 
 - *Tanqih al-Tahqiq* by Shams al-Din b. ‘Abd al-Hadi
 
-To see how takhrij is practically applied, read through this book by Ibn 'Abd al-Hadi. At some point, also read Al-Sarim Al-Munki, his refutation of al-Subki on visiting graves. Putting the fiqh of the issue aside, this is a masterclass in terms of hadith criticism. 
+Read through this book by Ibn 'Abd al-Hadi to see how takhrij is practically applied. At some point, also read *Al-Sarim Al-Munki*, his refutation of al-Subki on visiting graves. Putting the fiqh of the issue aside, this is a masterclass in terms of hadith criticism. 
 
 - *Al-Jami’ Al-Musnad Al-Sahih* by Muhammad b. Isma’il al-Bukhari
 
