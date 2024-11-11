@@ -1,7 +1,7 @@
 ---
 title: 'Studying Hadith'
 description: "The following is a guide to studying hadith and its sciences. I compiled this through readings reccomended by Sh. Salman Nasir, Sh. Elias Hsain, and others. It is based on the original curriculum written by al-Asiri."
-pubDate: 'Nov 5 2024'
+pubDate: 'Nov 10 2024'
 heroImage: '/azhar.jpeg'
 ---
 
@@ -55,7 +55,7 @@ This comprehensive work expands on hadith sciences. Use it to compare and synthe
 - *Su'alat Abi Bakr al-Athram li-Ahmad b. Hanbal* by Abu Bakr al-Athram
 - *Su'alat Abi 'Ubayd al-Ajurri li-Abi Dawud* by Abu Bakr al-Ajurri
 
-Doing this will allow one gain more familiarity with the language used by the muhaddithin to describe narrators
+Doing this will allow one gain more familiarity with the language used by the muhaddithin to describe narrators.
 
 - *Khulasat al-Ta'sil* by Hatim al-’Awni
 
