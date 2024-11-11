@@ -10,12 +10,12 @@ heroImage: '/hagia-sophia.jpg'
 
 This text was authored as a short primer that avoids introducing superfluous topics to the beginner. Al-Asimi also does a good job of explaining concepts in easy terminology. He has a recorded commentary on the book which should be listened to, where he caters towards explaining concepts in easy-to-understand language for the audience.
 
-Follow this up with the lessons of ‘Abd al-Hamid al-Turkmani titled Durus al-Mantiq. He remains one of the foremost experts in logic, philosophy, and kalam in our time.
+Follow this up with the lessons of ‘Abd al-Hamid al-Turkmani titled *Durus al-Mantiq*. He remains one of the foremost experts in logic, philosophy, and kalam in our time.
 
 # Intermediate Level 
 - *Al-Isaghuji* by Athir al-Din al-Abhari
 
-This text will be the student’s first introduction to a classical text on mantiq. It should be accompanied by its commentary, Mughni al-Tullab by al-Maghnisi. Listen to the recorded lessons of Adham al-Asimi, who has a talent for explaining advanced topics in simple terms. 
+This text will be the student’s first introduction to a classical text on mantiq. It should be accompanied by its commentary, *Mughni al-Tullab* by al-Maghnisi. Listen to the recorded lessons of Adham al-Asimi, who has a talent for explaining advanced topics in simple terms. 
 
 # Advanced Level 
 - *Al-Mirqat* by Fadl al-Haqq al-Khayrabadi
