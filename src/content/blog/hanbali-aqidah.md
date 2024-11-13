@@ -20,6 +20,10 @@ It must be accompanied with its outstanding commentary *Minhat al-Rahman* by ‘
 
 This is al-Saffarini’s famed poem on aqa’id. It must be accompanied with *Mukhtasar Lawami’ al-Anwar* by Hasan al-Shatti, his summary of al-Saffarini’s much longer commentary. Supplement this with the commentary of ‘Abdullah al-’Abdullah in *al-Taqrirat al-Hanbaliyyah*. 
 
+- Al-Tabsirah by Abu Ya'la b. al-Farra'
+
+This text was written by Abu Ya'la after all of his other credal books, and as such, it represents his final views. 
+
 - *Takfir Ahl al-Shahadatayn* by Hatim b. ‘Arif al-’Awni
 - *Mafhum Shirk al-’Ibadah* by Hatim b. ‘Arif al-’Awni
 - *Aqawil al-Thiqat* by Mar’i b. Yusuf al-Karmi
