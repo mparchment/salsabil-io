@@ -139,4 +139,4 @@ Imam Ahmad lauded al-Shafi’i for canonizing the framework ahl al-hadith employ
 
 Imam Ahmad often redirected questioners towards the circles of the Medinans. Before commencing with the Maliki madhab, read *Tasmiyat wa’l-Hikayat* by al-Saraqusti. This early book on tabaqat sheds light on how a madhab is built and evolves, politics and issues between scholars, along with how and why certain books become relied upon in the madhab. Then read *al-Mudawwanah* by Shanun and al-Dhakhirah by al-Qarafi. 
 
-Imam Ahmad’s first teacher was Qadi Abu Yusuf, under whom he began seeking fiqh and hadith. Read *al-Asl* and *Kitab al-Hujjah* by Muhammad b. Hasan al-Shaybani. Also read *Bada’i al-Sana’i* by al-Kasani.
+Imam Ahmad’s first teacher was Qadi Abu Yusuf, under whom he began seeking fiqh and hadith. Read *Kitab al-Asl* and *Kitab al-Hujjah* by Muhammad b. Hasan al-Shaybani. *Kitab al-Asl* is arguably the most important work in the history of fiqh for its impact on those who came after, including the other schools. Also read *Bada’i al-Sana’i* by al-Kasani.
