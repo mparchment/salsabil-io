@@ -80,7 +80,7 @@ In this book, the author combined al-Muqni’ with *al-Tanqih al-Mushbi’* to p
 
 - *Al-Iqna’* by Musa b. Ahmad al-Hajjawi
 
-It must be read with its commentary Kashaf al-Qina’ by al-Buhuti. This book, along with Daqa’iq Uli al-Nuha, are the reference points for finding the madhab’s relied-upon opinion. When they disagree, the latter is usually given precedence since it was written later, and if one of these two texts is unclear on an issue, the other is used to explain it. One should also reference Hashiyat al-Khalwati. 
+It must be read with its commentary Kashaf al-Qina’ by al-Buhuti. This book, along with Daqa’iq Uli al-Nuha, are the reference points for finding the madhab’s relied-upon opinion. When they disagree, the latter is usually given precedence since it was written later, and if one of these two texts is unclear on an issue, the other is used to explain it. One should also reference *Hashiyat al-Khalwati*. 
 
 - *Al-Kafi* by Ibn Qudamah al-Maqdisi
 
@@ -135,16 +135,26 @@ One should aim for mastery, which entails being able to independently arrive at 
 
 *Al-Mumti’* largely focuses on istidlal and niqash, *al-Insaf* on naql of the madhab, *al-Shafi* on adillah, while *al-Mubdi’* strikes a balance between istidlal and naql. Both *al-Insaf* and *al-Sharh al-Kabir* were influential on later scholars for istidlal of the madhab. Together, these books provide a balance between studying khilaf ‘ali, which widens ones perspective, and khilaf nazil, which deepens one’s understanding of each far’ and the subtitles of ta’lil. It is impossible, with some semblance of objectivity, to delve into works of istidlalat and khilaf 'ali and come out still holding to all of the madhab’s relied-upon positions. However, doing this will increase one’s respect for the genius of the madhab’s imams and their overall approach.
 
+- *Al-Furu* by Shams al-Din b. Muflih
+
+It should be read with *Tashih al-Furu* by 'Ala al-Din al-Mardawi and *Hashiyat Ibn Qundus*
+
 ## Shafi'i Madhhab
 
 Imam Ahmad lauded al-Shafi’i for canonizing the framework ahl al-hadith employed to extract rulings from the nusus and often recommended studying his works. Read *al-Umm* by Imam al-Shafi’i and *Nihayat al-Matlab* by al-Juwayni. *Nihayat al-Matlab* is one of the greatest works in fiqh ever written, where the author clearly explains the ta’lilat and shows how the furu’ of a bab tie back to the ta’lil of its usul. Al-Shafi'i similarly begins each chapter with evidence and branches out from there. His reasoning is of higher quality and more transparent than what later texts within the Shafi’i madhab provide.
 
-*Al-Wasit* by al-Ghazali should be studied. It is one of the greatest mutun authored in any madhhab due to the way it was written, and al-Nawawi is said to have read it hundreds of times. Although it is largely an abridgement of *Nihayat al-Matlab*, al-Ghazali presents his own opinions throughout the book as well. For more detail, reference *Sharh al-'Aziz* by al-Rafi'i, which is his commentary on al-Ghazali's shorter text *al-Wajiz*. He had a habit of picking up useful ideas from *Nihayat al-Matlab* that al-Ghazali left out of *al-Wasit*. It is said that when ibn Daqiq al-'Id ot a hold of al-Rafi'i's commentary, he only performed the fara'id until he finished reading it. Also reference *al-Awsat* by Ibn al-Mundhir, who was an independent jurist in his own right and relied upon by Ibn Qudamah for the composition of *al-Mughni*. 
+*Al-Wasit* by al-Ghazali should be studied. It is one of the greatest mutun authored in any madhhab due to the way it was written, and al-Nawawi is said to have read it hundreds of times. Although it is largely an abridgement of *Nihayat al-Matlab*, al-Ghazali presents his own opinions throughout the book as well. 
+
+For more detail, reference *Sharh al-'Aziz* by al-Rafi'i, his commentary on al-Ghazali's shorter abridgement *al-Wajiz*. Similiar to *al-Majmu'* by al-Nawawi, this book provides dalil, ta'lil, tafri', and disccusion of both internal and external disagreements. Al-Rafi'i had a habit of picking up useful ideas from *Nihayat al-Matlab* that al-Ghazali left out of *al-Wasit*. It is said that when ibn Daqiq al-'Id ot a hold of al-Rafi'i's commentary, he only performed the fara'id until he finished reading it. 
+
+Also reference *al-Awsat* by Ibn al-Mundhir, who was an independent jurist in his own right and relied upon by Ibn Qudamah for the composition of *al-Mughni*. 
 
 ## Maliki Madhhab
 
-Imam Ahmad often redirected questioners towards the circles of the Medinans. Before commencing with the Maliki madhab, read *Tasmiyat wa’l-Hikayat* by al-Saraqusti. This early book on tabaqat sheds light on how a madhab is built and evolves, politics and issues between scholars, along with how and why certain books become relied upon in the madhab. Then read *al-Mudawwanah* by Shanun and *al-Dhakhirah* by al-Qarafi. The encyclopaedic commentaries of Maliki scholars on the Qur'an and hadith are also important, most notably *al-Jami' li-Ahkam al-Qur'an* by al-Qurtubi and *al-Istidhkar* by Ibn 'Abd al-Barr.
+Imam Ahmad often redirected questioners towards the circles of the Medinans. Before commencing with the Maliki madhab, read *Tasmiyat wa’l-Hikayat* by al-Saraqusti. This early book on tabaqat sheds light on how a madhab is built and evolves, politics and issues between scholars, along with how and why certain books become relied upon in the madhab. Then read *al-Mudawwanah* by Shanun and *al-Dhakhirah* by al-Qarafi. Following this, study *Sharh al-Talqin* by al-Mazari and *Al-Ishraf* by al-Qadi 'Abd al-Wahhab. These last two books expose the legal reasoning of 'Iraqi Malikis, who often had to justify the madhhab's positions in the light of hadith. 
+
+The encyclopaedic commentaries of Maliki scholars on the Qur'an and hadith are also important, most notably *al-Jami' li-Ahkam al-Qur'an* by al-Qurtubi and *al-Istidhkar* by Ibn 'Abd al-Barr. *Sharh al-Zarqani* can be used as a quick reference for the relied-upon opinions of each madhhab. To gain perspective on the reasonings behind the furu'i furuq in ahkam, read *al-Furuq* by al-Qarafi.
 
 ## Hanafi Madhhab
 
-Imam Ahmad’s first teacher was Qadi Abu Yusuf, under whom he began seeking fiqh and hadith. Read *Kitab al-Asl* and *Kitab al-Hujjah* by Muhammad b. Hasan al-Shaybani. *Kitab al-Asl* is arguably the most important work in the history of fiqh for its impact on those who came after, including the other schools. Also read *Bada’i al-Sana’i* by al-Kasani and al-Tahawi's *Sharh Ma'ani al-Athar*.
+Imam Ahmad’s first teacher was Qadi Abu Yusuf, under whom he began seeking fiqh and hadith. Read *Kitab al-Asl* and *Kitab al-Hujjah* by Muhammad b. Hasan al-Shaybani. *Kitab al-Asl* is arguably the most important work in the history of fiqh for its impact on those who came after, including the other schools. Then read *Sharh Mukhtasar al-Karkhi* by al-Quduri, which contains beneficial furu'i fawa'id, and *Fath al-Qadir* by Ibn al-Hummam. Also reference *Bada’i al-Sana’i* by al-Kasani for fiqh al-khilaf and al-Tahawi's *Sharh Ma'ani al-Athar* for commentary on hadith.
