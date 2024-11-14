@@ -147,4 +147,4 @@ Imam Ahmad often redirected questioners towards the circles of the Medinans. Bef
 
 ## Hanafi Madhhab
 
-Imam Ahmad’s first teacher was Qadi Abu Yusuf, under whom he began seeking fiqh and hadith. Read *al-Asl* and *Kitab al-Hujjah* by Muhammad b. Hasan al-Shaybani. Also read *Bada’i al-Sana’i* by al-Kasani.
+Imam Ahmad’s first teacher was Qadi Abu Yusuf, under whom he began seeking fiqh and hadith. Read *Kitab al-Asl* and *Kitab al-Hujjah* by Muhammad b. Hasan al-Shaybani. *Kitab al-Asl* is arguably the most important work in the history of fiqh for its impact on those who came after, including the other schools. Also read *Bada’i al-Sana’i* by al-Kasani.
