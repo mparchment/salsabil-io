@@ -1,6 +1,6 @@
 ---
 title: 'Studying Hanbali Fiqh'
-description: "This is a comprehensive guide to studying the Hanbali madhhab and fiqh in a broader sense. It follows the traditional progression of study texts, with supplementary readings to deepen one's understanding of the madhhab and how it developed. I compiled this from the readings reccommended by Sh. Muhammad Abu Yunus, Sh. Salman Nasir, and Sh. Amr Abu Ayyub, among others. "
+description: "This is a comprehensive guide to studying the Hanbali madhhab and fiqh in a broader sense. It follows the traditional progression of study texts, with supplementary readings to deepen one's understanding of the madhhab and how it developed. I compiled this from the traditional curriculum of Hanbali texts in tandem with readings recommended by Sh. Salman Nasir and Sh. Amr Abu Ayyub, among others."
 pubDate: 'Nov 5 2024'
 heroImage: '/dhikr.jpg'
 ---
@@ -29,6 +29,8 @@ This text is widely taught throughout the Arabian Peninsula and was often memori
 
 It must be read with *Fath Wahhab al-Marib* by Ibn 'Iwad al-Mardawi, which is the most comprehensive and organized commentary. Ibn 'Iwad elaborates on the text, mentions far'i masa'il, defines important terms, and brings details from longer works. One should also reference the commentary of 'Abdullah al-Maqdisi. Although there is overlap between these two commentaries, al-Maqdisi more often mentions khilaf and tangential, yet beneficial points. For revision of the material, use *al-Ifsah* by Ibn al-Jarrah and *al-As'ilat wa'l-Ajwibah* by 'Abd al-Wahhab al-Faris.
 
+Supplement this by reading the introductions to *al-Insaf*, *al-Furu'*, and *Tashih al-Furu'*. These provide essential knowledge surrounding the madhhab and presents the overall framework used muta’akhirin to determine the madhab’s relied-upon positions. Listen to the recorded lessons of Muhammad 'Abd al-Wahid on these introductions, which are some of the best commentary on the madhhab available. 
+
 - *Al-Mukhtasarat Al-Usuliyyah* by Muhammad b. 'Abd al-Wahid al-Azhari
 
 This is a series of texts written by the author to prepare a student for the study of usul al-fiqh. After studying this, one will be prepared to study *Mukhtasar al-Tahrir* by Ibn al-Najjar. 
@@ -50,13 +52,11 @@ There is a large amount of masa’il in this book, and it requires a long time t
 
 - *Al-Bulbul* by Najm al-Din al-Tufi
 
-This book must be read with its commentary *Sharh Mukhtasar al-Rawdah*, which is widely regarded as one of the best works in usul al-fiqh ever written. It is the author’s commentary on his abridgement of Ibn Qudamah’s *Rawdat al-Nadhir*, itself based on al-Mustasfa by al-Ghazali. Ibn Qudamah’s *Rawdat al-Nadhir* should not be studied independently, as it was likely his personal draft of notes from *al-Mustasfa*. Al-Tufi had a unique, accessible style, and consistently shows humility in his writing. While reading, reference *al-Mustasfa*, listen to the recorded lessons of Hasan Bukhari and for revision, use *Taysir Fahm Rawdat al-Nadhir* by Majid al-’Askari, which presents the content in question-answer format. Supplement this with *Sharh Tanqih al-Fusul* by al-Qarafi. 
+This book must be read with its commentary *Sharh Mukhtasar al-Rawdah*, which is widely regarded as one of the best works in usul al-fiqh ever written. It is the author’s commentary on his abridgement of Ibn Qudamah’s *Rawdat al-Nadhir*, itself based on al-Mustasfa by al-Ghazali. Ibn Qudamah’s *Rawdat al-Nadhir* should not be studied independently, as it was likely his personal draft of notes from *al-Mustasfa*. Al-Tufi had a unique, accessible style, and consistently shows humility in his writing. While reading, reference *al-Mustasfa*, listen to the recorded lessons of Hasan Bukhari and for revision, use *Taysir Fahm Rawdat al-Nadhir* by Majid al-’Askari, which presents the content in question-answer format. 
+
+Supplement this with *Sharh Tanqih al-Fusul* by al-Qarafi and *Huli al-Taraqi* by Muhammad Fal al-Shintiqi; the latter is the best commentary on *Maraqi al-Su'ud*, preferred by Mukhtar al-Usuli and many of the Shanatiqa.  
 
 - *Sifat al-Mufti* by Ibn Hamdan al-Harrani
-
-- *Muqaddimat al-Insaf* and *Khatimat al-Insaf* by ‘Ala al-Din al-Mardawi
-
-The introduction and epilogue of *al-Insaf* by al-Mardawi provide essential knowledge surrounding the madhhab. His introduction explains overall framework used muta’akhirin to determine the madhab’s positions, while the epilogue explains terminology used within the madhab.
 
 - *Zad al-Musafir* by Ghulam al-Khallal
 
@@ -100,7 +100,7 @@ This book will explain which qara’in to take into consideration for sarf of am
 
 - *Dar al-Qawl al-Qabih* by Najm al-Din al-Tufi
 
-This work is important for understanding the relationship between ‘aqidah and issues in usul al-fiqh. It should be supplemented with *al-Masa’il al-Mushtarikah* by Muhammad al-’Arusi.
+This work is important for understanding the relationship between ‘aqidah and issues in usul al-fiqh. Supplement it with *al-Masa’il al-Mushtarikah* by Muhammad al-’Arusi.
 
 - *‘Iqd al-Mandhum* by Shihab al-Din al-Qarafi
 
@@ -135,9 +135,13 @@ One should aim for mastery, which entails being able to independently arrive at 
 
 *Al-Mumti’* largely focuses on istidlal and niqash, *al-Insaf* on naql of the madhab, *al-Shafi* on adillah, while *al-Mubdi’* strikes a balance between istidlal and naql. Both *al-Insaf* and *al-Sharh al-Kabir* were influential on later scholars for istidlal of the madhab. Together, these books provide a balance between studying khilaf ‘ali, which widens ones perspective, and khilaf nazil, which deepens one’s understanding of each far’ and the subtitles of ta’lil. It is impossible, with some semblance of objectivity, to delve into works of istidlalat and khilaf 'ali and come out still holding to all of the madhab’s relied-upon positions. However, doing this will increase one’s respect for the genius of the madhab’s imams and their overall approach.
 
+- Al-Muharrar by Majd al-Din b. Taymiyyah
+
+Read it with *Al-Nukat wa'l-Fawa'id* by Ibn Muflih, *Hashiyat Ibn Qundus*, *Hashiyat Ibn Nasrullah*, and *Sharh al-Muharrar* by Ibn 'Abd al-Haqq.
+
 - *Al-Furu* by Shams al-Din b. Muflih
 
-It should be read with *Tashih al-Furu* by 'Ala al-Din al-Mardawi and *Hashiyat Ibn Qundus*
+It should be read with *Tashih al-Furu* by 'Ala al-Din al-Mardawi, *Hashiyat Ibn Qundus*, and *Hashiyat Ibn Nasrullah*.
 
 ## Shafi'i Madhhab
 
@@ -151,8 +155,8 @@ For more detail, reference *Sharh al-'Aziz* by al-Rafi'i, his commentary on al-G
 
 Imam Ahmad often redirected questioners towards the circles of the Medinans. Before commencing with the Maliki madhab, read *Tasmiyat wa’l-Hikayat* by al-Saraqusti. This early book on tabaqat sheds light on how a madhab is built and evolves, politics and issues between scholars, along with how and why certain books become relied upon in the madhab. Then read *al-Mudawwanah* by Shanun and *al-Dhakhirah* by al-Qarafi. Following this, study *Sharh al-Talqin* by al-Mazari and *Al-Ishraf* by al-Qadi 'Abd al-Wahhab. These last two books expose the legal reasoning of 'Iraqi Malikis, who often had to justify the madhhab's positions in the light of hadith. 
 
-The encyclopaedic commentaries of Maliki scholars on the Qur'an and hadith are also important, most notably *al-Jami' li-Ahkam al-Qur'an* by al-Qurtubi and *al-Istidhkar* by Ibn 'Abd al-Barr. *Sharh al-Zarqani* can be used as a quick reference for the relied-upon opinions of each madhhab. To gain perspective on the reasonings behind the furu'i furuq in ahkam, read *al-Furuq* by al-Qarafi.
+The encyclopedic commentaries of Maliki scholars on the Qur'an and hadith are also important, most notably *al-Jami' li-Ahkam al-Qur'an* by al-Qurtubi and *al-Istidhkar* by Ibn 'Abd al-Barr. *Sharh al-Zarqani* should be used as a quick reference for the relied-upon opinions of each madhhab. To gain perspective on the reasonings behind the furu'i furuq in ahkam, read *al-Furuq* by al-Qarafi.
 
 ## Hanafi Madhhab
 
-Imam Ahmad’s first teacher was Qadi Abu Yusuf, under whom he began seeking fiqh and hadith. Read *Kitab al-Asl* and *Kitab al-Hujjah* by Muhammad b. Hasan al-Shaybani. *Kitab al-Asl* is arguably the most important work in the history of fiqh for its impact on those who came after, including the other schools. Then read *Sharh Mukhtasar al-Karkhi* by al-Quduri, which contains beneficial furu'i fawa'id, and *Fath al-Qadir* by Ibn al-Hummam. Also reference *Bada’i al-Sana’i* by al-Kasani for fiqh al-khilaf and al-Tahawi's *Sharh Ma'ani al-Athar* for commentary on hadith.
+Imam Ahmad’s first teacher was Qadi Abu Yusuf, under whom he began seeking fiqh and hadith. Read *Kitab al-Asl* and *Kitab al-Hujjah* by Muhammad b. Hasan al-Shaybani. *Kitab al-Asl* is arguably the most important work in the history of fiqh for its impact on those who came after, including the other schools. Then read *Sharh Mukhtasar al-Tahawi* by al-Jassas, *Sharh Mukhtasar al-Karkhi* by al-Quduri, which contains beneficial furu'i fawa'id, and *Fath al-Qadir* by Ibn al-Hummam. Also reference *Bada’i al-Sana’i* by al-Kasani for fiqh al-khilaf and al-Tahawi's *Sharh Ma'ani al-Athar* for commentary on hadith.
