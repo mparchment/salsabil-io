@@ -145,9 +145,7 @@ Imam Ahmad lauded al-Shafi’i for canonizing the framework ahl al-hadith employ
 
 *Al-Wasit* by al-Ghazali should be studied. It is one of the greatest mutun authored in any madhhab due to the way it was written, and al-Nawawi is said to have read it hundreds of times. Although it is largely an abridgement of *Nihayat al-Matlab*, al-Ghazali presents his own opinions throughout the book as well. 
 
-For more detail, reference *Sharh al-'Aziz* by al-Rafi'i, his commentary on al-Ghazali's shorter abridgement *al-Wajiz*. Similiar to *al-Majmu'* by al-Nawawi, this book provides dalil, ta'lil, tafri', and disccusion of both internal and external disagreements. Al-Rafi'i had a habit of picking up useful ideas from *Nihayat al-Matlab* that al-Ghazali left out of *al-Wasit*. It is said that when ibn Daqiq al-'Id ot a hold of al-Rafi'i's commentary, he only performed the fara'id until he finished reading it. 
-
-Also reference *al-Awsat* by Ibn al-Mundhir, who was an independent jurist in his own right and relied upon by Ibn Qudamah for the composition of *al-Mughni*. 
+For more detail, reference *Sharh al-'Aziz* by al-Rafi'i, his commentary on al-Ghazali's shorter abridgement *al-Wajiz*. Similiar to *al-Majmu'* by al-Nawawi, this book provides dalil, ta'lil, tafri', and disccusion of both internal and external disagreements. Al-Rafi'i had a habit of picking up useful ideas from *Nihayat al-Matlab* that al-Ghazali left out of *al-Wasit*. It is said that when ibn Daqiq al-'Id ot a hold of al-Rafi'i's commentary, he only performed the fara'id until he finished reading it. Also reference *al-Awsat* by Ibn al-Mundhir, who was an independent jurist in his own right and relied upon by Ibn Qudamah for the composition of *al-Mughni*. 
 
 ## Maliki Madhhab
 
