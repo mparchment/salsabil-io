@@ -14,7 +14,7 @@ At this stage, one should set a dedicated time to study each week, sticking to a
 
 - *Al-Muqaddimat Al-Asassiyah* by ‘Abdullah al-Juday’
 
-At this point, also listen to Ali Hani’s series *Al-Tariqat Al-Muthla*, which is a brief introduction on how tafsir is performed.
+At this point, also listen to Ali Hani’s series *Al-Tariqat Al-Muthla*, which is a brief introduction on how tafsir is performed. Also read *Akhlaq Hamalat al-Qur'an* by Abu Bakr al-Ajurri, a short book and one of the earliest sources to gather to required manners and characters bearers of the Qur'an.
 
 - *Madarik al-Tanzil* by Abu'l-Barakat al-Nasafi
 
