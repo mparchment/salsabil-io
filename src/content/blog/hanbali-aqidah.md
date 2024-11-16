@@ -9,27 +9,37 @@ heroImage: '/aqsa.jpg'
 - *Lum’at al-I’tiqad* by Ibn Qudamah al-Maqdisi
 
 Read the transcribed commentary of ‘Abdullah al-’Abdullah.
+
 - *Mukhtasar al-Aqa’id* by Mubarak b. Rashid al-Hathlan
+
+- *Al-Nur Al-Mubin* by Ibn Juzayy al-Kalbi
 
 # Intermediate Level
 - *Qala’id al-Iqyan* by Ibn Balban al-Ba’li
 
-It must be accompanied with its outstanding commentary *Minhat al-Rahman* by ‘Abdullah al-’Abdullah. *Qala'id al-Iqyan* and its longer source text, *Nihayat al-Mubtadi'in*, was written using the methodology of the mutakallimin, which requires additional context. In his explanation, Sh. 'Abdullah explains the terminology used by bringing details gathered from longer books across various ‘ulum.
+It must be accompanied with its outstanding commentary *Minhat al-Rahman* by ‘Abdullah al-’Abdullah. *Qala'id al-Iqyan* and its longer source text, *Nihayat al-Mubtadi'in*, was written using the methodology of the mutakallimin. In his commentary, Shaykh 'Abdullah brings details gathered from longer works across various ‘ulum, and explains terminology that requires additional context. 
 
 - *Durrat al-Madiyyah* by Muhamamd b. Ahmad al-Saffarini
 
-This is al-Saffarini’s famed poem on aqa’id. It must be accompanied with *Mukhtasar Lawami’ al-Anwar* by Hasan al-Shatti, his summary of al-Saffarini’s much longer commentary. Supplement this with the commentary of ‘Abdullah al-’Abdullah in *al-Taqrirat al-Hanbaliyyah*. 
+This is al-Saffarini’s famed poem on aqa’id. It must be accompanied with *Mukhtasar Lawami’ al-Anwar* by Hasan al-Shatti, his summary of al-Saffarini’s much longer commentary. Supplement this with ‘Abdullah al-’Abdullah's invaluable footnotes, titled *al-Taqrirat al-Hanbaliyyah*. 
 
 - *Al-Tabsirah* by Abu Ya'la b. al-Farra'
 
-This text is sometimes mistakenly attributed to Abu Ya'la's student, al-Shirazi. It was written by Abu Ya'la after all of his other credal books, and as such, it represents his final views. 
+This book is sometimes mistakenly attributed to Abu Ya'la's student, al-Shirazi. It was written by Abu Ya'la after all of his other credal books, and as such, it represents his final views. 
 
 - *Takfir Ahl al-Shahadatayn* by Hatim b. ‘Arif al-’Awni
+
 - *Mafhum Shirk al-’Ibadah* by Hatim b. ‘Arif al-’Awni
+
 - *Aqawil al-Thiqat* by Mar’i b. Yusuf al-Karmi
+
+- *Al-Ha'iyyah* by Ibn Abi Dawud
+
+At this stage, this poem should be read with its brief commentary *al-Usul al-Mujarradah* by Ibn al-Banna'.
+
 - *Hallal al-’Uqad* by Najm al-Din al-Tufi
 
-This work is structured as a detailed commentary on Hadith Jibril. In this book, al-Tufi presents the views of other groups and assesses their evidence from an impartial perspective.  
+This work is structured as a detailed commentary on Hadith Jibril. In this book, al-Tufi presents the views of other groups and assesses their evidence from an impartial perspective. 
 
 # Advanced Level
 - *Nihayat al-Mubtadi’in* by Ibn Hamdan al-Harrani
@@ -45,15 +55,20 @@ Use the edition of Muhammad ‘Abd al-Wahid, which provides the reference for ea
 
 - *Lawami’ al-Anwar* by Ahmad b. Muhammad al-Saffarini
 
-This book is al-Saffarini magisterial commentary on Durrat al-Madiyyah.
+This book is al-Saffarini magisterial commentary on *Durrat al-Madiyyah*. 
+
+- *Lawa'ih al-Anwar* by Ahmad b. Muhammad al-Saffarini
+
+This book is al-Saffarini's commentary on Ibn Abi Dawud's *Ha'iyyah*.
 
 # Mastery
-- *Sharh al-Aqa’id* al-Nasafiyyah by Sa’d al-Din al-Taftazani
-- *Al-'Aqidat Al-Sanusiyyah Al-Kubra* by Muhammad b. Idris al-Sanusi
+
+- *Al-Sunnah* by Abu Bakr al-Khallal
 
 # Relied-Upon Texts
 
 In his introduction to his edition of *Nihayat al-Mubtadi'in*, Shaykh Muhammad 'Abd al-Wahid said that, "the books relied upon by the Hanabilah in studying 'aqidah, which represent the predominant approach among them, are:
+W
 - *Mukhtasar al-Mu'tamad* by Al-Qadi Abu Ya'la
 - *Lum'at al-I'tiqad* by Muwaffaq [al-Din Ibn Qudamah]
 - *Nihayat al-Mubtadi'in* by Ibn Hamdan

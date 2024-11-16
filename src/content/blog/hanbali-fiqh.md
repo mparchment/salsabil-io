@@ -41,7 +41,7 @@ Listen to the recordings of Hasan Bukhari. He is widely read in usul al-fiqh, ha
 
 - *Raf’ al-Malam* by Taqi al-Din b. Taymiyyah
 
-This book provides a solid foundation for the asbab of khilaf. It must be accompanied with the commentary of Yusuf al-Ghafis, which provides invaluable advice on dealing with khilaf and how to approach one’s studies. 
+This book provides an introduction to the asbab of khilaf. It must be accompanied with the commentary of Yusuf al-Ghafis, which provides invaluable advice on dealing with khilaf and how to approach one’s studies. 
 
 # Intermediate Level
 - *Al-Rawd Al-Murbi’* by Mansur b. Yunus al-Buhuti
@@ -60,7 +60,7 @@ Supplement this with *Sharh Tanqih al-Fusul* by al-Qarafi and *Huli al-Taraqi* b
 
 - *Zad al-Musafir* by Ghulam al-Khallal
 
-In this book, the author summarized the narrations of Imam Ahmad from *al-Jami’* by Abu Bakr al-Khallal. Al-Khallal can be considered the founder of the madhab due to his efforts in collecting Ahmad’s opinions from his students and performing tarjih between them. Reading Zad al-Musafir will introduce one to the direct statements of the imam, and how the madhab’s opinions developed from them. Make sure to read the surviving sections of *al-Jami’* as well, where al-Khallal often makes tarjih or adds explanatory statements to the nusus of the imam.
+In this book, the author summarized the narrations of Imam Ahmad from *al-Jami’* by Abu Bakr al-Khallal. Al-Khallal can be considered the founder of the madhab due to his efforts in collecting Ahmad’s opinions from his students and performing tarjih between them. Reading *Zad al-Musafir* will introduce one to the direct statements of the imam, and how the madhab’s opinions developed from them. Make sure to read the surviving sections of *al-Jami’* as well, where al-Khallal often makes tarjih or adds explanatory statements to the nusus of the imam.
 
 Following this, collect and pursue all the other *masa'il* works. The most important them are the *masa'il* of'Abdullah and Abu Dawud. These are the most well-arranged and reliable. Al-Kawsaj's masa'il is also very good for the extensive tahqiq in the University of Madinah edition. It will also introduce the positions of Ibn Rahawayh, one of Imam Ahmad's closest peers. 
 
@@ -80,11 +80,11 @@ In this book, the author combined al-Muqni’ with *al-Tanqih al-Mushbi’* to p
 
 - *Al-Iqna’* by Musa b. Ahmad al-Hajjawi
 
-It must be read with its commentary Kashaf al-Qina’ by al-Buhuti. This book, along with Daqa’iq Uli al-Nuha, are the reference points for finding the madhab’s relied-upon opinion. When they disagree, the latter is usually given precedence since it was written later, and if one of these two texts is unclear on an issue, the other is used to explain it. One should also reference *Hashiyat al-Khalwati*. 
+It must be read with its commentary *Kashaf al-Qina’* by al-Buhuti. This book, along with *Daqa’iq Uli al-Nuha*, are the reference points for finding the madhab’s relied-upon opinion. When they disagree, the latter is usually given precedence since it was written later, and if one of these two texts is unclear on an issue, the other is used to explain it. One should also reference *Hashiyat al-Khalwati*. 
 
 - *Al-Kafi* by Ibn Qudamah al-Maqdisi
 
-In this book, the author focuses on presenting the ta’til of the madhhab’s positions, in contrast to al-Muqni’ which mentions several opinions without giving tarjih. The objective of this text is to prepare the reader for ijtihad within the madhab. 
+In this book, the author focuses on presenting the ta’lil of the madhhab’s positions, in contrast to *al-Muqni’* which mentions several opinions without giving tarjih. The objective of this text is to prepare the reader for ijtihad within the madhab. 
 
 - *Al-Mufradat* by ‘Ali b. ‘Ubaydullah al-Zaghuni
 
@@ -92,7 +92,13 @@ This work is the one of the most extensive books in the madhhab for elaborating 
 
 - *Jam’ al-Jawami’* by Taj al-Din al-Subki
 
-Listen to the recorded lessons of Hasan Bukhari and read his published edition with Amir Bahjat titled al-Haqibah al-Ta'limiyyah. This book should also be accompanied with its commentary Tashnif al-Masami’ by Badr al-Din al-Zarkashi. He was a talented compiler, knowing how to sift through opinions and engage with the tradition.
+Listen to the recorded lessons of Hasan Bukhari and read his published edition with Amir Bahjat titled *al-Haqibah al-Ta'limiyyah*. This book should also be accompanied with its commentary *Tashnif al-Masami’* by Badr al-Din al-Zarkashi. He was a talented compiler who knew how to sift through opinions and engage with the written tradition.
+
+- *Al-Tahbir* by ‘Ala al-Din al-Mardawi
+
+- *Al-Bahr Al-Muhit* by Badr al-Din al-Zarkashi
+
+Similar to *al-Tahbir*, this book is an encyclopedia and the last truly great work written on usul al-fiqh. Nothing after comes close to its scope and depth. Also read al-Zarkashi’s *Salasil al-Dhahab*, which presents issues not typically found in books of usul al-fiqh.
 
 - *Dawabit Sarf al-Amr wa’l-Nahy* by Khalid al-Otaybi
 
@@ -106,15 +112,13 @@ This work is important for understanding the relationship between ‘aqidah and 
 
 This text deals with all the asbab of ‘umum.
 
-- *Al-Tahbir* by ‘Ala al-Din al-Mardawi
+- *Al-Ghiyathi* by Abu'l-Ma'ali al-Juwayni
 
-- *Al-Bahr Al-Muhit* by Badr al-Din al-Zarkashi
-
-Similar to al-Tahbir, this book is an encyclopedia and the last truly great work written on usul al-fiqh. Nothing after comes close to its scope and depth. Also read al-Zarkashi’s Salasil al-Dhahab, which presents issues not typically found in books of usul al-fiqh.
+This book by al-Juwayni is one the most comprehensive works on imamah and siyasah shar'iyyah ever written. Supplement it with *al-Ihkam* by al-Qarafi, which was written to clarify the difference between the legal opinions of a mufti, the rulings of a qadi, and the decisions of a ruler. 
 
 - *Al-Qawa’id* by ‘Ala al-Din Ibn al-Lahham
 
-At this juncture, one should begin the study of takhrij al-furu’ ‘ala al-usul, which demonstrates how usul al-fiqh is practically applied to furu’. Ibn al-Lahham mentions al-qawa’id al-usuliyyah and demonstrates how furu’ are built upon them. Supplement this with Takhrij al-Furu’ ‘ala al-Usul by Uthman Shushan. Shushan relies on many different sources and brings examples from Ibn Qudamah’s al-Mughni, making it one of the most comprehensive works on the subject. 
+At this juncture, one should begin the study of takhrij al-furu’ ‘ala al-usul, which demonstrates how usul al-fiqh is practically applied to furu’. Ibn al-Lahham mentions al-qawa’id al-usuliyyah and demonstrates how furu’ are built upon them. Supplement this with *Takhrij al-Furu’ ‘ala al-Usul* by Uthman Shushan. Shushan relies on many different sources and brings examples from Ibn Qudamah’s *al-Mughni*, making it one of the most comprehensive works on the subject. 
 
 - *Idah al-Dala’il* by Sharaf al-Din al-Zarirani
 
