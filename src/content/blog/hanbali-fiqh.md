@@ -54,13 +54,17 @@ There is a large amount of masa’il in this book, and it requires a long time t
 
 This book must be read with its commentary *Sharh Mukhtasar al-Rawdah*, which is widely regarded as one of the best works in usul al-fiqh ever written. It is the author’s commentary on his abridgement of Ibn Qudamah’s *Rawdat al-Nadhir*, itself based on al-Mustasfa by al-Ghazali. Ibn Qudamah’s *Rawdat al-Nadhir* should not be studied independently, as it was likely his personal draft of notes from *al-Mustasfa*. Al-Tufi had a unique, accessible style, and consistently shows humility in his writing. While reading, reference *al-Mustasfa*, listen to the recorded lessons of Hasan Bukhari and for revision, use *Taysir Fahm Rawdat al-Nadhir* by Majid al-’Askari, which presents the content in question-answer format. 
 
-Supplement this by reading *Sharh Tanqih al-Fusul* by al-Qarafi and *Huli al-Taraqi* by Muhammad Fal al-Shintiqi, which is one of the best commentaries on *Maraqi al-Su'ud*. For understanding ta'lil and qiyas, read *Shifa al-'Alil* by al-Ghazali, which deals with determining the legal cause (*masalik al-'illah*).
+Supplement this by reading *Sharh Tanqih al-Fusul* by al-Qarafi and *Huli al-Taraqi* by Muhammad Fal al-Shintiqi, which is one of the best commentaries on *Maraqi al-Su'ud*. For understanding ta'lil and qiyas, read *Shifa al-Ghalil* by al-Ghazali, which deals with determining the legal cause (*masalik al-'illah*).
 
 - *Qawa'id al-Ahkam* by Izz al-Din b. 'Abd al-Salam
 
 Ibn 'Abd al-Salam was among the first to author an independent work on maqasid. This book is important for understanding the purpose of the law and its internal rationality. Shaykh Hatim al-'Awni considers it the most important book on the topic, even more so than al-Shatibi's *al-Muwafaqat*, and suggests reading it more than once. In *al-Muwafaqat*, Al-Shatibi gives a descriptive, retrospective view of the Shari'ah and its overarching themes, from which maqasid have a prominent role. For him, it is an a posteriori exercise, and he doesn't see it having a role in application to any considerable extent. By contrast, Ibn 'Abd al-Salam is more concerned with going through masa'il fiqhiyyah, explaining their dimensions, and going into tafri'at and matters which are clearly contestable ijtihad. 
 
 Keep in mind that maqasid can only be understood in practice only after understanding how usul works, especially qiyas. It is simply the further study of ta'lil and its application, rather than comprising a seperate fann. Also read *Mahasin al-Shari'ah* by al-Qaffal al-Shashi, an important work where he identifies deeper meanings behind furu' in every area of the law, including 'ibadah.
+
+- *Al-Risalah* by Muhammad b. Idris al-Shafi’i
+
+This text the earliest treatise on usul al-fiqh and hadith methodology, written by al-Shafi'i at the request of 'Abdurrahman b. al-Mahdi. All of later works on usul al-fiqh are simply footnotes to *al-Risalah*. It was also incredibly influential in the development of ‘ulum al-hadith, in the sense that later hadith scholars took up al-Shafi’i’s arguments and further developed them. Before studying the text, listen to the recordings of ‘Abdullah al-Daghistani for a thematic overview and read Ahmad El-Shamsy’s The Canonization of Islamic Law, which describes the historical background of al-Shafi’i and the impact of his work. Tariq b. ‘Awad Allah’s *al-Naqd al-Banna* further clarifies al-Shafi’i’s conditions for accepting marasil reports from tabi’in.
 
 - *Sifat al-Mufti* by Ibn Hamdan al-Harrani
 
@@ -104,7 +108,7 @@ Listen to the recorded lessons of Hasan Bukhari and read his published edition w
 
 - *Al-Bahr Al-Muhit* by Badr al-Din al-Zarkashi
 
-Similar to *al-Tahbir*, this book is an encyclopedia and the last truly great work written on usul al-fiqh. Nothing after comes close to its scope and depth. Also read al-Zarkashi’s *Salasil al-Dhahab*, which presents issues not typically found in books of usul al-fiqh.
+Similar to *al-Tahbir*, this book is an encyclopedia and the last truly great work written on usul al-fiqh. Nothing after comes close to its scope and depth, and Shaykh Ahmad Ma'bad 'Abd al-Karim recommends studying it due to the amount of usul al-hadith it has. Also read al-Zarkashi’s *Salasil al-Dhahab*, which presents issues not typically found in books of usul al-fiqh.
 
 - *Dawabit Sarf al-Amr wa’l-Nahy* by Khalid al-Otaybi
 
@@ -173,7 +177,7 @@ For more detail in the madhhab, reference the works of al-Rafi'i and al-Nawawi: 
 
 Imam Ahmad often redirected questioners towards the circles of the Medinans. Before commencing with the Maliki madhab, read *Tasmiyat wa’l-Hikayat* by al-Saraqusti. This early book on tabaqat sheds light on how a madhab is built and evolves, politics and issues between scholars, along with how and why certain books become relied upon in the madhab. Then read *al-Mudawwanah* by Shanun, which gathers the statements of Malik and his students, along with *al-Dhakhirah* by al-Qarafi. One must also study *Sharh al-Talqin* by al-Mazari, his outstanding commentary on *al-Talqin* by Qadi 'Abd al-Wahhab. This book will expose the legal reasoning of 'Iraqi Malikis, who often had to justify the madhhab's positions in the light of hadith. 
 
-The encyclopedic commentaries of Maliki scholars on the Qur'an and hadith are also important: *al-Jami' li-Ahkam al-Qur'an* by al-Qurtubi and *al-Istidhkar* by Ibn 'Abd al-Barr. *Al-Mu'lim* by al-Maziri is a brilliant and concise commentary on *Sahih Muslim*. *Sharh al-Zarqani* can be used as a quick reference for the relied-upon opinions of each madhhab. To gain perspective on the reasonings behind the furu'i furuq in ahkam, read *al-Furuq* by al-Qarafi.
+The encyclopedic commentaries of Maliki scholars on the Qur'an and hadith are also important: *al-Jami' li-Ahkam al-Qur'an* by al-Qurtubi, *al-Istidhkar* by Ibn 'Abd al-Barr, where focuses on fiqh and the opinions of the salaf, and *al-Muntaqa* by al-Baji, which is the best commentary on the Muwatta' for fiqh and istinbat. *Al-Mu'lim* by al-Maziri should be consulted as brilliant and concise commentary on *Sahih Muslim*, while *Sharh al-Zarqani* can be used as a quick reference for the relied-upon opinions of each madhhab. To gain perspective on the reasonings behind the furu'i furuq in ahkam, read *al-Furuq* by al-Qarafi.
 
 ## Hanafi Madhhab
 
