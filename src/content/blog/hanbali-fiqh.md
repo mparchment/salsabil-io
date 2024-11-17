@@ -37,7 +37,7 @@ This is a series of texts written by the author to prepare a student for the stu
 
 - *Mukhtasar al-Tahrir* by Ibn al-Najjar al-Futuhi
 
-Listen to the recordings of Hasan Bukhari. He is widely read in usul al-fiqh, has a deep grasp of the underlying reason for differences, and has a unique talent in explaining mutun. One should also read its commentary, *al-Dhukhr al-Harir* by Ahmad b. ‘Abdullah al-Ba’li, for more detail. Supplement this with *Taqrib al-Wusul* by Ibn Juzayy, which also covers the asbab of khilaf in fiqh. 
+Listen to the recordings of Hasan Bukhari. He is widely read in usul al-fiqh, has a deep grasp of the underlying reason for differences, and has a unique talent in explaining mutun. For more detail at this level, read its commentary *al-Dhukhr al-Harir* by Ahmad b. ‘Abdullah al-Ba’li. Supplement this with *Taqrib al-Wusul* by Ibn Juzayy, which also covers the asbab of khilaf in fiqh. 
 
 - *Raf’ al-Malam* by Taqi al-Din b. Taymiyyah
 
@@ -60,7 +60,7 @@ Supplement this by reading *Sharh Tanqih al-Fusul* by al-Qarafi and *Huli al-Tar
 
 Ibn 'Abd al-Salam was among the first to author an independent work on maqasid. This book is important for understanding the purpose of the law and its internal rationality. Shaykh Hatim al-'Awni considers it the most important book on the topic, even more so than al-Shatibi's *al-Muwafaqat*, and suggests reading it more than once. In *al-Muwafaqat*, Al-Shatibi gives a descriptive, retrospective view of the Shari'ah and its overarching themes, from which maqasid have a prominent role. For him, it is an a posteriori exercise, and he doesn't see it having a role in application to any considerable extent. By contrast, Ibn 'Abd al-Salam is more concerned with application: going through masa'il fiqhiyyah, explaining their dimensions, and going into tafri'at and matters which are clearly contestable ijtihad. 
 
-Keep in mind that maqasid can only be understood in practice after understanding how usul works, especially qiyas. It is simply the further study of ta'lil and its application, rather than comprising a seperate fann. Accompany this by reading *Mahasin al-Shari'ah* by al-Qaffal al-Shashi, an important work where he identifies deeper meanings behind furu' in every area of the law, including 'ibadah.
+Keep in mind that maqasid can only be understood in practice only after understanding how usul works, especially qiyas. It is simply the further study of ta'lil and its application, rather than comprising a seperate fann. Also read *Mahasin al-Shari'ah* by al-Qaffal al-Shashi, an important work where he identifies deeper meanings behind furu' in every area of the law, including 'ibadah.
 
 - *Sifat al-Mufti* by Ibn Hamdan al-Harrani
 
