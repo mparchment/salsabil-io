@@ -54,7 +54,7 @@ There is a large amount of masa’il in this book, and it requires a long time t
 
 This book must be read with its commentary *Sharh Mukhtasar al-Rawdah*, which is widely regarded as one of the best works in usul al-fiqh ever written. It is the author’s commentary on his abridgement of Ibn Qudamah’s *Rawdat al-Nadhir*, itself based on al-Mustasfa by al-Ghazali. Ibn Qudamah’s *Rawdat al-Nadhir* should not be studied independently, as it was likely his personal draft of notes from *al-Mustasfa*. Al-Tufi had a unique, accessible style, and consistently shows humility in his writing. While reading, reference *al-Mustasfa*, listen to the recorded lessons of Hasan Bukhari and for revision, use *Taysir Fahm Rawdat al-Nadhir* by Majid al-’Askari, which presents the content in question-answer format. 
 
-Supplement this with *Sharh Tanqih al-Fusul* by al-Qarafi and *Huli al-Taraqi* by Muhammad Fal al-Shintiqi; the latter is the best commentary on *Maraqi al-Su'ud*, preferred by Mukhtar al-Usuli and many of the Shanatiqa.  
+Supplement this with *Sharh Tanqih al-Fusul* by al-Qarafi and *Huli al-Taraqi* by Muhammad Fal al-Shintiqi, which is one of the best commentaries on *Maraqi al-Su'ud*, preferred by Mukhtar al-Usuli and many of the Shanatiqa.
 
 - *Sifat al-Mufti* by Ibn Hamdan al-Harrani
 
@@ -76,7 +76,8 @@ Ibn Qudamah originally authored this book as a primer in his curriculum, consist
 
 - *Muntaha al-Iradat* by Ibn al-Najjar al-Futuhi
 
-In this book, the author combined al-Muqni’ with *al-Tanqih al-Mushbi’* to produce a summary of the madhab’s relied-upon opinions. It must be accompanied by its commentary *Daqa’iq Uli al-Nuha* by al-Buhuti, which is one of the most authoritative books in the madhhab. One should also consult *Hashiyat Ibn Qa’id*. 
+In this book, the author combined al-Muqni’ with *al-Tanqih al-Mushbi’* to produce a summary of the madhab’s relied-upon opinions. It must be accompanied by its commentary *Daqa’iq Uli al-Nuha* by al-Buhuti, which is one of the most authoritative books in the madhhab. One should also consult *Hashiyat Ibn Qa’id*. Begin referencing *Ghayat al-Muntaha* by Al-Karmi along with its commentaries: *Bughyat Uli al-Nuha* by Ibn al-Imad and *Matalib Uli al-Nuha* by al-Ruhaybani with *Minhat Muli al-Nuha* by Hasan al-Shatti.
+
 
 - *Al-Iqna’* by Musa b. Ahmad al-Hajjawi
 
@@ -92,7 +93,7 @@ This work is the one of the most extensive books in the madhhab for elaborating 
 
 - *Jam’ al-Jawami’* by Taj al-Din al-Subki
 
-Listen to the recorded lessons of Hasan Bukhari and read his published edition with Amir Bahjat titled *al-Haqibah al-Ta'limiyyah*. This book should also be accompanied with its commentary *Tashnif al-Masami’* by Badr al-Din al-Zarkashi. He was a talented compiler who knew how to sift through opinions and engage with the written tradition.
+Listen to the recorded lessons of Hasan Bukhari and read his published edition with Amir Bahjat titled *al-Haqibah al-Ta'limiyyah*. This book should also be accompanied with its commentary *Tashnif al-Masami’* by Badr al-Din al-Zarkashi. He was a talented compiler who knew how to sift through opinions and engage with the written tradition. FOr understanding ta'lil and qiyas, read *Shifa al-'Alil* by al-Ghazali, which deals with determining the legal cause (*masalik al-'illah*).
 
 - *Al-Tahbir* by ‘Ala al-Din al-Mardawi
 
@@ -112,9 +113,13 @@ This work is important for understanding the relationship between ‘aqidah and 
 
 This text deals with all the asbab of ‘umum.
 
+- *Qawa'id al-Ahkam* by Izz al-Din b. 'Abd al-Salam
+
+Ibn 'Abd al-Salam was one of the first to author an independent work on maslahah. His work is important for understanding the purpose of the Shari'ah and its internal rationality.
+
 - *Al-Ghiyathi* by Abu'l-Ma'ali al-Juwayni
 
-This book by al-Juwayni is one the most comprehensive works on imamah and siyasah shar'iyyah ever written. Supplement it with *al-Ihkam* by al-Qarafi, which was written to clarify the difference between the legal opinions of a mufti, the rulings of a qadi, and the decisions of a ruler. 
+This book by al-Juwayni is one the most comprehensive works on imamah and siyasah shar'iyyah. Supplement it with *al-Ihkam* by al-Qarafi, which was written to clarify the difference between the legal opinions of a mufti, the rulings of a qadi, and the decisions of a ruler. 
 
 - *Al-Qawa’id* by ‘Ala al-Din Ibn al-Lahham
 
@@ -147,6 +152,12 @@ Read it with *Al-Nukat wa'l-Fawa'id* by Ibn Muflih, *Hashiyat Ibn Qundus*, *Hash
 
 It should be read with *Tashih al-Furu* by 'Ala al-Din al-Mardawi, *Hashiyat Ibn Qundus*, and *Hashiyat Ibn Nasrullah*.
 
+- *Tahsin al-Ma'akhidh* by Abu Hamid al-Ghazali
+
+- *Al-Burhan* by Abu'l-Ma'ali al-Juwayni
+
+This book the most in-depth work written on usul al-fiqh, but also difficult to understand. The author had the best grip on the ma'akhidh and madakhil of the funun of any scholar from his era. It should be read with al-Abyari's commentary *al-Tahqiq wa'l-Bayan*, accompanied by the surviving portions of al-Maziri's commentary *Idah al-Mahsul*.
+
 ## Shafi'i Madhhab
 
 Imam Ahmad lauded al-Shafi’i for canonizing the framework ahl al-hadith employed to extract rulings from the nusus and often recommended studying his works. Read *al-Umm* by Imam al-Shafi’i and *Nihayat al-Matlab* by al-Juwayni. *Nihayat al-Matlab* is one of the greatest works in fiqh ever written, where the author clearly explains the ta’lilat and shows how the furu’ of a bab tie back to the ta’lil of its usul. Al-Shafi'i similarly begins each chapter with evidence and branches out from there. His reasoning is of higher quality and more transparent than what later fiqh texts tend to provide.
@@ -159,7 +170,7 @@ For more detail in the madhhab, reference the works of al-Rafi'i and al-Nawawi: 
 
 Imam Ahmad often redirected questioners towards the circles of the Medinans. Before commencing with the Maliki madhab, read *Tasmiyat wa’l-Hikayat* by al-Saraqusti. This early book on tabaqat sheds light on how a madhab is built and evolves, politics and issues between scholars, along with how and why certain books become relied upon in the madhab. Then read *al-Mudawwanah* by Shanun, in which he narrates the statements of Malik and his students, along with *al-Dhakhirah* by al-Qarafi. One must also study *Sharh al-Talqin* by al-Mazari, his outstanding commentary on *al-Talqin* by Qadi 'Abd al-Wahhab. This book will expose the legal reasoning of 'Iraqi Malikis, who often had to justify the madhhab's positions in the light of hadith. 
 
-The encyclopedic commentaries of Maliki scholars on the Qur'an and hadith are also important, most notably *al-Jami' li-Ahkam al-Qur'an* by al-Qurtubi, *al-Mufhim* by al-Maziri, *al-Istidhkar* by Ibn 'Abd al-Barr. *Sharh al-Zarqani* can be used as a quick reference for the relied-upon opinions of each madhhab. To gain perspective on the reasonings behind the furu'i furuq in ahkam, read *al-Furuq* by al-Qarafi.
+The encyclopedic commentaries of Maliki scholars on the Qur'an and hadith are also important: *al-Jami' li-Ahkam al-Qur'an* by al-Qurtubi and *al-Istidhkar* by Ibn 'Abd al-Barr. *Al-Mu'lim* by al-Maziri is a brilliant and concise commentary on *Sahih Muslim*. *Sharh al-Zarqani* can be used as a quick reference for the relied-upon opinions of each madhhab. To gain perspective on the reasonings behind the furu'i furuq in ahkam, read *al-Furuq* by al-Qarafi.
 
 ## Hanafi Madhhab
 

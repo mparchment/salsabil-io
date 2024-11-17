@@ -43,7 +43,7 @@ In this work, the author comments on ayat relevant to aqa’id and usul. This wo
 
 - *Majaz al-Qur’an* by Izz al-Din b. ‘Abd al-Salam
 
-To get familiar with the usage of majaz in the Qur’an, study this work and reference Asas al-Balaghah of al-Zamakhshari, where he brings examples of majaz for each root and explains them as well. To understand the claim of those who reject the haqiqah-majaz taqsim as useful, listen to *Majaz ‘inda Ibn Taymiyyah* by Muhammad Yunus ‘Ali, who is one of the most foremost linguists to explain this issue. 
+To get familiar with the usage of majaz in the Qur’an, study this work and reference *Asas al-Balaghah* of al-Zamakhshari, where he brings examples of majaz for each root and explains them as well. To understand the claim of those who reject the haqiqah-majaz taqsim as useful, listen to *Majaz ‘inda Ibn Taymiyyah* by Muhammad Yunus ‘Ali, who is one of the most foremost linguists to explain this issue. 
 
 - *Al-Burhan* by Badr al-Din al-Zarkashi
 
