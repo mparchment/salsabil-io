@@ -118,6 +118,8 @@ This work is important for understanding the relationship between ‘aqidah and 
 
 This text deals with all the asbab of ‘umum.
 
+- *Ikhtilaf al-Muftin* by Hatim al-'Awni
+
 - *Al-Ghiyathi* by Abu'l-Ma'ali al-Juwayni
 
 This book by al-Juwayni is one the most comprehensive works on imamah and siyasah shar'iyyah. Supplement it with *al-Ihkam* by al-Qarafi, which was written to clarify the difference between the legal opinions of a mufti, the rulings of a qadi, and the decisions of a ruler. 
