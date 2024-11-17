@@ -1,6 +1,6 @@
 ---
 title: 'Studying Hanbali Fiqh'
-description: "This is a comprehensive guide to studying the Hanbali madhhab and fiqh in a broader sense. It follows the traditional progression of study texts, with supplementary readings to deepen one's understanding of the madhhab and how it developed. I compiled this from the traditional curriculum of Hanbali texts in tandem with readings recommended by Sh. Salman Nasir and Sh. Amr Abu Ayyub, among others."
+description: "This is a comprehensive guide to studying the Hanbali madhhab and fiqh in a broader sense. It follows the traditional progression of study texts, with supplementary readings to deepen one's understanding of the madhhab and how it developed. I compiled this from the traditional curriculum of Hanbali texts in tandem with readings recommended by Sh. Salman Nasir, Sh. Amr Abu Ayyub, and Sh. Walid Patel among others."
 pubDate: 'Nov 5 2024'
 heroImage: '/dhikr.jpg'
 ---
@@ -58,7 +58,9 @@ Supplement this by reading *Sharh Tanqih al-Fusul* by al-Qarafi and *Huli al-Tar
 
 - *Qawa'id al-Ahkam* by Izz al-Din b. 'Abd al-Salam
 
-Ibn 'Abd al-Salam was among the first to author an independent work on maqasid. This book is important for understanding the purpose of the law and its internal rationality. Accompany this by reading *Mahasin al-Shari'ah* by al-Qaffal al-Shashi, an important work where he identifies deeper meanings behind furu' in every area of the law.
+Ibn 'Abd al-Salam was among the first to author an independent work on maqasid. This book is important for understanding the purpose of the law and its internal rationality. Shaykh Hatim al-'Awni considers it the most important book on the topic, even more so than al-Shatibi's *al-Muwafaqat*, and suggests reading it more than once. In *al-Muwafaqat*, Al-Shatibi gives a descriptive, retrospective view of the Shari'ah and its overarching themes, from which maqasid have a prominent role. For him, it is an a posteriori exercise, and he doesn't see it having a role in application to any considerable extent. By contrast, Ibn 'Abd al-Salam is more concerned with application: going through masa'il fiqhiyyah, explaining their dimensions, and going into tafri'at and matters which are clearly contestable ijtihad. 
+
+Keep in mind that maqasid can only be understood in practice after understanding how usul works, especially qiyas. It is simply the further study of ta'lil and its application, rather than comprising a seperate fann. Accompany this by reading *Mahasin al-Shari'ah* by al-Qaffal al-Shashi, an important work where he identifies deeper meanings behind furu' in every area of the law, including 'ibadah.
 
 - *Sifat al-Mufti* by Ibn Hamdan al-Harrani
 
@@ -81,7 +83,6 @@ Ibn Qudamah originally authored this book as a primer in his curriculum, consist
 - *Muntaha al-Iradat* by Ibn al-Najjar al-Futuhi
 
 In this book, the author combined al-Muqni’ with *al-Tanqih al-Mushbi’* to produce a summary of the madhab’s relied-upon opinions. It must be accompanied by its commentary *Daqa’iq Uli al-Nuha* by al-Buhuti, which is one of the most authoritative books in the madhhab. One should also consult *Hashiyat Ibn Qa’id*. Begin referencing *Ghayat al-Muntaha* by Al-Karmi along with its commentaries: *Bughyat Uli al-Nuha* by Ibn al-Imad and *Matalib Uli al-Nuha* by al-Ruhaybani with *Minhat Muli al-Nuha* by Hasan al-Shatti.
-
 
 - *Al-Iqna’* by Musa b. Ahmad al-Hajjawi
 
@@ -156,7 +157,7 @@ It should be read with *Tashih al-Furu* by 'Ala al-Din al-Mardawi, *Hashiyat Ibn
 
 - *Al-Burhan* by Abu'l-Ma'ali al-Juwayni
 
-This book the most in-depth work written on usul al-fiqh, but also difficult to understand. The author had the best grip on the ma'akhidh and madakhil of the funun of any scholar from his era. It should be read with al-Abyari's commentary *al-Tahqiq wa'l-Bayan*, accompanied by the surviving portions of al-Maziri's commentary *Idah al-Mahsul*.
+This book the most in-depth work written on usul al-fiqh, but also difficult to understand. The author had the best grip on the ma'akhidh and madakhil of the funun of any scholar from his era. It should be read with al-Abyari's commentary *al-Tahqiq wa'l-Bayan*, accompanied by the surviving portions of al-Maziri's commentary *Idah al-Mahsul*. Also read *al-Taqrib wa'l-Irshad* by al-Baqillani, who was influential on both al-Juwayni and al-Ghazali after him. 
 
 ## Shafi'i Madhhab
 
