@@ -54,7 +54,7 @@ There is a large amount of masa’il in this book, and it requires a long time t
 
 This book must be read with its commentary *Sharh Mukhtasar al-Rawdah*, which is widely regarded as one of the best works in usul al-fiqh ever written. It is the author’s commentary on his abridgement of Ibn Qudamah’s *Rawdat al-Nadhir*, itself based on al-Mustasfa by al-Ghazali. Ibn Qudamah’s *Rawdat al-Nadhir* should not be studied independently, as it was likely his personal draft of notes from *al-Mustasfa*. Al-Tufi had a unique, accessible style, and consistently shows humility in his writing. While reading, reference *al-Mustasfa*, listen to the recorded lessons of Hasan Bukhari and for revision, use *Taysir Fahm Rawdat al-Nadhir* by Majid al-’Askari, which presents the content in question-answer format. 
 
-Supplement this by reading *Sharh Tanqih al-Fusul* by al-Qarafi and *Huli al-Taraqi* by Muhammad Fal al-Shintiqi, which is one of the best commentaries on *Maraqi al-Su'ud*, preferred by Mukhtar al-Usuli and many of the Shanatiqa.
+Supplement this by reading *Sharh Tanqih al-Fusul* by al-Qarafi and *Huli al-Taraqi* by Muhammad Fal al-Shintiqi, which is one of the best commentaries on *Maraqi al-Su'ud*. For understanding ta'lil and qiyas, read *Shifa al-'Alil* by al-Ghazali, which deals with determining the legal cause (*masalik al-'illah*).
 
 - *Qawa'id al-Ahkam* by Izz al-Din b. 'Abd al-Salam
 
@@ -98,7 +98,7 @@ This work is the one of the most extensive books in the madhhab for elaborating 
 
 - *Jam’ al-Jawami’* by Taj al-Din al-Subki
 
-Listen to the recorded lessons of Hasan Bukhari and read his published edition with Amir Bahjat titled *al-Haqibah al-Ta'limiyyah*. This book should also be accompanied with its commentary *Tashnif al-Masami’* by Badr al-Din al-Zarkashi. He was a talented compiler who knew how to sift through opinions and engage with the written tradition. FOr understanding ta'lil and qiyas, read *Shifa al-'Alil* by al-Ghazali, which deals with determining the legal cause (*masalik al-'illah*).
+Listen to the recorded lessons of Hasan Bukhari and read his published edition with Amir Bahjat titled *al-Haqibah al-Ta'limiyyah*. This book should also be accompanied with its commentary *Tashnif al-Masami’* by Badr al-Din al-Zarkashi. He was a talented compiler who knew how to sift through opinions and engage with the written tradition. 
 
 - *Al-Tahbir* by ‘Ala al-Din al-Mardawi
 
