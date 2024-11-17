@@ -65,10 +65,12 @@ This book is al-Saffarini's commentary on Ibn Abi Dawud's *Ha'iyyah*.
 
 - *Al-Sunnah* by Abu Bakr al-Khallal
 
+Abu Bakr al-Khallal can be considered the true founder of the Hanbali madhhab, as he was responsible for gathering the statements of Ahmad's students in both fiqh and creed.
+
 # Relied-Upon Texts
 
 In his introduction to his edition of *Nihayat al-Mubtadi'in*, Shaykh Muhammad 'Abd al-Wahid said that, "the books relied upon by the Hanabilah in studying 'aqidah, which represent the predominant approach among them, are:
-W
+
 - *Mukhtasar al-Mu'tamad* by Al-Qadi Abu Ya'la
 - *Lum'at al-I'tiqad* by Muwaffaq [al-Din Ibn Qudamah]
 - *Nihayat al-Mubtadi'in* by Ibn Hamdan
