@@ -12,8 +12,6 @@ Read the transcribed commentary of ‘Abdullah al-’Abdullah.
 
 - *Mukhtasar al-Aqa’id* by Mubarak b. Rashid al-Hathlan
 
-- *Al-Nur Al-Mubin* by Ibn Juzayy al-Kalbi
-
 # Intermediate Level
 - *Qala’id al-Iqyan* by Ibn Balban al-Ba’li
 
