@@ -27,7 +27,7 @@ At this point, listen to *Tarikh Nushu' Musannafat al-Sunnah* by Sheikh Hatim al
 
 - *‘Umdat al-Ahkam* by ‘Abd al-Ghani al-Maqdisi
 
-Now one can move onto studying and memorizing famous narrations in this book, alongside reading its outstanding commentary *Ihkam al-Ahkam* by Ibn Daqiq al-‘Id, which is the greatest book ever written on applied usul al-fiqh. This will introduce fiqh al-hadith, as masterfully Ibn Daqiq al-‘Id deduces the rulings from each hadith.  Listen to the recorded commentary of Hasan Bukhari. 
+Now one can move onto studying and memorizing famous narrations in this book, alongside reading its outstanding commentary *Ihkam al-Ahkam* by Ibn Daqiq al-‘Id, which is the greatest book ever written on applied usul al-fiqh. This will introduce fiqh al-hadith, as masterfully Ibn Daqiq al-‘Id deduces the rulings from each hadith. Listen to the recorded commentary of Hasan Bukhari. 
 
 - *Al-Muwatta* by Malik b. Anas al-Madani
 
@@ -93,11 +93,11 @@ This must be studied as an excellent and practical book that builds on the previ
 
 - *Al-Muharrar* by Shams al-Din b. ‘Abd al-Hadi
 
-Although this book is primarily on ahadith al-ahkam, it should also be studied for ‘ilal, tashih, and tadh’if. Ibn ‘Abd al-Hadi was a master in hadith at a very young age. In this work he took al-Ilmam by Ibn Daqiq al-‘Id and summarized it with a focus on judging the hadith and mentioning their ‘ilal. Listen to the recorded lessons of ‘Abdulaziz al-Tarifi. 
+Although this book is primarily on ahadith al-ahkam, it should also be studied for ‘ilal, tashih, and tadh’if. Ibn ‘Abd al-Hadi was a master in hadith at a very young age. In this work he took *al-Ilmam* by Ibn Daqiq al-‘Id and summarized it with a focus on judging the hadith and mentioning their ‘ilal. Listen to the recorded lessons of ‘Abdulaziz al-Tarifi. 
 
 - *Nuzhat al-Nazar* by Ibn Hajar
 
-This work is only beneficial after a thorough understanding of mustalah. It organizes categories and connects juz' to the universals. Its most comprehensive commentary to read is al-Laqqani's Qada' al-Watar, which compiles key points and relevant sections from Muqaddimah Ibn Salah, while also quoting from the three important hawashi of Nuzhah, verbatim with references.
+This work is only beneficial after a thorough understanding of mustalah. It organizes categories and connects juz' to the universals. Its most comprehensive commentary to read is al-Laqqani's *Qada' al-Watar*, which compiles key points and relevant sections from *Muqaddimah Ibn Salah* alongside quoting from the three important hawashi of *Nuzhah* verbatim with references.
 
 - *Al-Manhaj Al-Muqtarah* by Hatim al-’Awni
 
@@ -105,7 +105,7 @@ This study will help you develop a nuanced understanding of hadith terminology a
 
 - *Ida’at Bahthiyyah fi-‘Ulum al-Hadith al-Nabawiyyah* by Hatim al-’Awni
 
-This book compiles some of Hatim al-‘Awni’s most important lectures on hadith sciences, serving as an advanced resource to consolidate and expand on what you’ve learned.
+This book compiles some of Hatim al-‘Awni’s most important lectures on hadith sciences, serving as an advanced resource to consolidate and expand what has been covered so far.
 
 # Advanced Level 
 
@@ -121,25 +121,19 @@ Study this seminal work on hadith sciences, along with the 112 tapes of Hatim al
 
 After completing Muqaddimah Ibn al-Salah, study this book and listen to *al-Ta'liq 'ala Sharh 'Ilal al-Tirmidhi* by Hatim al-’Awni, a 30-tape series where Sh. Hatim critiques some of Ibn Rajab's choices and covers issues not addressed in earlier works. This wonderful book helps to understand al-Tirmidhi’s use of tahsin later on.
 
-- *Al-Risalah* by Muhammad b. Idris al-Shafi’i
-
-This text the earliest treatise on usul al-fiqh and hadith methodology. It was incredibly influential in the development of ‘ulum al-hadith in the sense that later hadith scholars took up al-Shafi’i’s arguments and further developed them. 
-
-Before studying the text, listen to the recordings of ‘Abdullah al-Daghistani for a thematic overview and read Ahmad El-Shamsy’s The Canonization of Islamic Law, which describes the historical background of al-Shafi’i and the impact of his work. Tariq b. ‘Awad Allah’s al-Naqd al-Banna further clarifies al-Shafi’i’s conditions for accepting marasil reports from tabi’in.
-
 - *Tanqih al-Tahqiq* by Shams al-Din b. ‘Abd al-Hadi
 
 Read through this book by Ibn 'Abd al-Hadi to see how takhrij is practically applied. At some point, also read *Al-Sarim Al-Munki*, his refutation of al-Subki on visiting graves. Putting the fiqh of the issue aside, this is a masterclass in terms of hadith criticism. 
 
 - *Al-Jami’ Al-Musnad Al-Sahih* by Muhammad b. Isma’il al-Bukhari
 
-Sahih al-Bukhari takes precedence over other collections due to the extreme care the Imam al-Bukhari took in extrapolating rulings, the greatest objective in studying hadith, and its superiority over other collections in authenticity. 
+Sahih al-Bukhari takes precedence over other collections due to the extreme care the Imam al-Bukhari took in extrapolating rulings, the greatest objective in studying hadith, and its superiority over other collections in authenticity. Before beginning, read Nur al-Din ‘Itr’s book on al-Bukhari headings, *Al-Imam al-Bukhari wa’l-Fiqh al-Tarajim*.
 
 The commentary to use as one's foundation is *al-Talqih li-Fahm Qari al-Sahih* by Sibt b. al-Ajami. All other commentaries on Sahih al-Bukhari seem to miss something. As for this book, the sanad of each hadith is explained well, with some points mentioned here and there. The author never misses mentioning the name when the kunyah is mentioned, and always makes tamyiz. Nusakh are discussed properly, as well as dhabt, and then gharib. A basic explanation follows where appropriate. 
 
-Reference Ibn Rajab’s commentary *Fath al-Bari*, as well as Ibn Hajar’s famed commentary named after it. Ibn Hajar’s introduction, *Hady al-Sari*, contains many fine points of detail and criticism. He also addresses some of al-Daraqutni's objections in *al-Ilzimat*, which should also be studied with its audio commentary by Abdullah al-Sa’d. This will further introduce one to ‘ilal al-hadith, which is the most difficult aspect of ‘ulum al-hadith.
+Reference Ibn Rajab’s commentary *Fath al-Bari*, as well as Ibn Hajar’s famed commentary named after Ibn RAjab's original. Ibn Hajar’s introduction, *Hady al-Sari*, contains many fine points of detail and criticism. He also addresses some of al-Daraqutni's objections in *al-Ilzimat*, which should also be studied with its audio commentary by Abdullah al-Sa’d. This will further introduce one to ‘ilal al-hadith, which is the most difficult aspect of ‘ulum al-hadith.
 
-Supplement this with Anwar Shah al-Kashmiri’s Fayd al-Bari. Al-Kashmiri continuously shows how the imams differed in istinbat for a particular hadith based on differences in tanqih. The more one learns how to apply it, the more one realizes this bahth is central to all of usul. He also frequently highlights the difference between dalalah of the text and qiyas. Nur al-Din ‘Itr’s book on al-Bukhari’s headings, Al-Imam al-Bukhari wa’l-Fiqh al-Tarajim, should also be consulted. 
+Supplement this with Anwar Shah al-Kashmiri’s *Fayd al-Bari*, where he continuously shows how the imams differed in istinbat for a particular hadith based on differences in tanqih. The more one learns how to apply this, the more one realizes how central this matter is to all of usul. He also frequently highlights the difference between dalalah of the text and qiyas. 
 
 - *Al-Musnad Al-Sahih* by Muslim b. al-Hajjaj
 
@@ -151,7 +145,7 @@ Another key point to note is that Imam Muslim never wrote chapter headings or ti
 
 - *Al-Musnad Al-Sahih* by Ibn Hibban
 
-Shaykh Ahmad Ma'bad recommends studying how Ibn Hibban categorizes ahadith according to the various categories of ahkam based on the wording of the narration. Note that Ibn Hibban's original organization of the book should be used, and not the later rearrangement by Ibn Balalan according to the abwab of fiqh. Ibn Hibban's Sahih is a masterpiece of riwayah and dirayah, demonstrating that he was truly an Imam. By understanding his method here, and knowing usul al-fiqh, one will be able to independently determine whether a hadith indicates obligation, permissibility, dislike, or prohibition.
+Shaykh Ahmad Ma'bad recommends studying how Ibn Hibban categorizes ahadith according to the various categories of ahkam based on the wording of the narration. Note that Ibn Hibban's original organization of the book should be used, and not Ibn Balalan's later rearrangement according to the abwab of fiqh. Ibn Hibban's Sahih is a masterpiece of riwayah and dirayah, demonstrating that he was truly an Imam. By understanding his method here, and knowing usul al-fiqh, one will be able to independently determine whether a hadith indicates obligation, permissibility, dislike, or prohibition.
 
 -  *Al-Sunan* by Abu Dawud al-Sijistani
 
