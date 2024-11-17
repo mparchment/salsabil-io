@@ -159,7 +159,7 @@ For more detail in the madhhab, reference the works of al-Rafi'i and al-Nawawi: 
 
 Imam Ahmad often redirected questioners towards the circles of the Medinans. Before commencing with the Maliki madhab, read *Tasmiyat wa’l-Hikayat* by al-Saraqusti. This early book on tabaqat sheds light on how a madhab is built and evolves, politics and issues between scholars, along with how and why certain books become relied upon in the madhab. Then read *al-Mudawwanah* by Shanun, in which he narrates the statements of Malik and his students, along with *al-Dhakhirah* by al-Qarafi. One must also study *Sharh al-Talqin* by al-Mazari, his outstanding commentary on *al-Talqin* by Qadi 'Abd al-Wahhab. This book will expose the legal reasoning of 'Iraqi Malikis, who often had to justify the madhhab's positions in the light of hadith. 
 
-The encyclopedic commentaries of Maliki scholars on the Qur'an and hadith are also important, most notably *al-Jami' li-Ahkam al-Qur'an* by al-Qurtubi, *al-Mufhim* by al-Maziri, *al-Istidhkar* by Ibn 'Abd al-Barr. *Sharh al-Zarqani* should be used as a quick reference for the relied-upon opinions of each madhhab. To gain perspective on the reasonings behind the furu'i furuq in ahkam, read *al-Furuq* by al-Qarafi.
+The encyclopedic commentaries of Maliki scholars on the Qur'an and hadith are also important, most notably *al-Jami' li-Ahkam al-Qur'an* by al-Qurtubi, *al-Mufhim* by al-Maziri, *al-Istidhkar* by Ibn 'Abd al-Barr. *Sharh al-Zarqani* can be used as a quick reference for the relied-upon opinions of each madhhab. To gain perspective on the reasonings behind the furu'i furuq in ahkam, read *al-Furuq* by al-Qarafi.
 
 ## Hanafi Madhhab
 
