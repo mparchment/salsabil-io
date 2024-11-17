@@ -27,7 +27,7 @@ At this point, listen to *Tarikh Nushu' Musannafat al-Sunnah* by Sheikh Hatim al
 
 - *‘Umdat al-Ahkam* by ‘Abd al-Ghani al-Maqdisi
 
-Now one can move onto studying and memorizing famous narrations in this book, alongside reading its outstanding commentary *Ihkam al-Ahkam* by Ibn Daqiq al-‘Id, which is the greatest book ever written on applying usul al-fiqh. Listen to the recorded commentary of Hasan Bukhari. This will introduce fiqh al-hadith, as Ibn Daqiq al-‘Id deduces the rulings from each hadith in a masterful way. 
+Now one can move onto studying and memorizing famous narrations in this book, alongside reading its outstanding commentary *Ihkam al-Ahkam* by Ibn Daqiq al-‘Id, which is the greatest book ever written on applied usul al-fiqh. This will introduce fiqh al-hadith, as masterfully Ibn Daqiq al-‘Id deduces the rulings from each hadith.  Listen to the recorded commentary of Hasan Bukhari. 
 
 - *Al-Muwatta* by Malik b. Anas al-Madani
 
