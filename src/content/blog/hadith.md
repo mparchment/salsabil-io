@@ -25,27 +25,31 @@ Al-Dhahabi's work is unique because it introduces the applied aspect of mustalah
 
 At this point, listen to *Tarikh Nushu' Musannafat al-Sunnah* by Sheikh Hatim al-’Awni, which consists of six lectures which offer an unparalleled understanding of the development of hadith as a field. Follow this up with *Min al-Nabi ila al-Bukhari* by Snobar, which covers the transmission and compilation of hadith from the Prophet, peace be upon him, to Imam al-Bukhari, providing important historical context.
 
-- *‘Umdat al-Ahkam* by ‘Abd al-Ghani al-Maqdisi
-
-Now one can move onto studying and memorizing famous narrations in this book, alongside reading its outstanding commentary *Ihkam al-Ahkam* by Ibn Daqiq al-‘Id, which is the greatest book ever written on applied usul al-fiqh. This will introduce fiqh al-hadith, as masterfully Ibn Daqiq al-‘Id deduces the rulings from each hadith. Listen to the recorded commentary of Hasan Bukhari. 
-
 - *Al-Muwatta* by Malik b. Anas al-Madani
 
-Study of the major hadith books should begin with those written during the age of codification and compilation, chief of which is Malik’s Muwatta. It is the briefest in length, shortest in chains, and has an excellent selection of hadith. Memorize its common chains, such as: 
+Study of the major hadith books should begin with those written during the age of codification and compilation, chief of which is Malik’s Muwatta. It is the briefest in length, shortest in chains, and has an excellent selection of hadith. It contains sahih, hasan, mursal, and balaghat narrations from Malik, which makes it the ideal collection for learning how to apply what one has learned in mustalah so far. Memorize its common chains, such as: 
 
 - Malik – Nafi – Ibn Umar
 - Hisham b. Urwa – His father – Aisha
 - Zuhri – Abi Salamah b. Abd al-Rahman – Abu Hurayrah
 - Abu Zinad – al-A’raj – Abu Hurayrah
 
-Imam Malik used to revise his Muwatta’ year after year, carefully selecting which hadith were included. Due to this, there is variation between the different riwayat. Study the riwayah of al-Qa’nabi, which was preferred by most of the muhaddithin, including Imam Ahmad. 
+Imam Malik used to revise his Muwatta’ year after year, carefully selecting which hadith were included. Due to this, there is variation between the different riwayat. Study the riwayah of al-Qa’nabi, which was preferred by most of the muhaddithin, including Imam Ahmad. Hatim al-’Awni recommends reading *al-Qabas* by Ibn al-’Arabi: a brief, thematic commentary, in contrast to *al-Masalik* by the same author. Supplement this with Ahmad Nur Sayf’s *Amal Ahl al-Madinah*, which explains the terminology used by Imam Malik throughout *al-Muwatta'*. 
 
-Hatim al-’Awni recommends reading *al-Qabas* by Ibn al-’Arabi: a brief, thematic commentary on al-Muwatta in contrast to *al-Masalik* by the same author. Supplement this with Ahmad Nur Sayf’s *Amal Ahl al-Madinah*, which explains the terminology used by Imam Malik throughout al-Muwatta. Al-Shafi’i’s *Ikhtilaf Malik* is also an essential read regarding claims of Medinan consensus. 
+- *‘Umdat al-Ahkam* by ‘Abd al-Ghani al-Maqdisi
+
+Now one can move onto studying and memorizing famous narrations in this book, alongside reading its outstanding commentary *Ihkam al-Ahkam* by Ibn Daqiq al-‘Id, which is the greatest book ever written on applied usul al-fiqh. This will introduce fiqh al-hadith, as masterfully Ibn Daqiq al-‘Id shows how rulings are deduced from each narration. Listen to the recorded commentary of Hasan Bukhari on *Ihkam al-Ahkam*.
 
 # Intermediate Level 
-The objective of this stage is to begin preparing for the thorough and exhaustive study of the major hadith literature. Throughout this stage, one should begin reading through the various sunan works to gain familiarity of their contents, while also checking and researching the veracity of their narrations. The most important sunan works are those of al-Nasa'i, which contains important benefits regarding hidden defects, and al-Tirmidhi, who had unique terminology that is often quoted by later scholars.
+The objective of this stage is to begin preparing for the thorough and exhaustive study of the major hadith literature. Throughout this stage, one should begin reading through the various sunan works to gain familiarity of their contents, while also checking and researching the veracity of their narrations. The most important sunan works are those of al-Nasa'i, which contains important benefits regarding hidden defects, and al-Tirmidhi, which includes unique terminology often quoted by later scholars.
 
-- *Ma’alim al-Sunnat al-Nabawiyyah* by Salih b. Ahmad al-Shami
+- *Ma’alim al-Sunnah al-Nabawiyyah* by Salih b. Ahmad al-Shami
+
+This book is the culmination of the author's life work in compiling various zawa'id collections, which gather hadith of certain books not available in others. It focuses on the sahih and hasan narrations of the 14 major collections, totaling 3,921 hadith. He only included 33 slightly weak hadith, which either clarify the meaning of a sahih or hasan hadith or pertain to virtues and good deeds. The purpose of studying this work is to gain comprehensive exposure to the mutun of hadith.
+
+- *Sharh al-Sunnah* by Abu’l-Qasim al-Baghawi
+
+This book must be read to expand one's understanding of fiqh al-hadith. It is highly regarded by senior editors such as Shu'ayb al-Arna'ut and 'Abdullah al-Turki due to its balance between hadith and fiqh. It contains over 4,400 hadith which were widely circulated among the scholars of hadith, with comprehensive commentary by the author. Studying this before the major works will place one at a massive advantage over those who neglect it.
 
 - *Tahrir 'Ulum al-Hadith* by Abdullah b. Yusuf al-Judai'
 
@@ -55,11 +59,9 @@ This comprehensive work expands on what has been learned so far. Use it to compa
 
 This book is al-Bayhaqi's introduction to his magisterial *al-Sunan al-Kubra*, recommended by Ahmad Ma'bad 'Abd al-Karim and Hatim al-'Awni. It consists of three parts: the first consits of central and peripheral discussions in hadith including the veracity of isolated transmission, paraphrased transmission, tadlis, the traits of a reliable narrator, and the use of mursal reports. The second part comprises discussions on legal theory including consensus, ijtihad, mafhum al-mukhalafah, and hadith which apparently contradict each other. The third part mentions the virtues of acquiring knowledge, the rank of scholars, and the etiquettes of students. 
 
-- *Sharh al-Sunnah* by Abu’l-Qasim al-Baghawi
-
 - *Khulasat al-Ta'sil* by Hatim al-’Awni
 
-This book must be accompanied by the author’s recorded commentary. It is a concise treatise on the principles of criticizing and praising narrators is essential for understanding hadith evaluation. At this point, begin reading through various su'alat works:
+This book must be accompanied by the author’s recorded commentary. It is a concise treatise on the principles of criticizing and praising narrators is essential for understanding hadith evaluation. Also listen to three excellent recorded series on narrator criticism by Abdullah al-Sa’d: *al-Qawa’id*, *al-Dawabit*, and *al-Mubahith fi'l-Jarh wa al-Ta’dil*. At this point, begin reading through various su'alat works:
 
 - *Al-'Ilal wa-Ma'rifat al-Rijal li-Ahmad* by 'Abdullah b. Ahmad
 - *Al-'Ilal wa-Ma'rifat al-Rijal 'an al-Imam Ahmad* by al-Marrudhi
@@ -112,6 +114,8 @@ This book compiles some of Hatim al-‘Awni’s most important lectures on hadit
 The objective of this stage is to begin studying the major books of hadith with comprehensive commentary and takhrij.
 
 - *Tarh al-Tathrib* by Wali al-Din al-’Iraqi
+
+This is an outstanding work on ahkam al-hadith. It is a completion of the commentary of the author's father on his own work, *Taqrib al-Asanid*. They comment on the hadith of the strongest narrators according to the structure of a sunan compilation. 
 
 - *‘Ulum al-Hadith* by Ibn al-Salah
 
