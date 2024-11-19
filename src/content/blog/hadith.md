@@ -27,7 +27,7 @@ At this point, listen to *Tarikh Nushu' Musannafat al-Sunnah* by Sheikh Hatim al
 
 - *Al-Muwatta* by Malik b. Anas al-Madani
 
-Study of the major hadith books should begin with those written during the age of codification and compilation, chief of which is Malik’s Muwatta. It is the briefest in length, shortest in chains, and has an excellent selection of hadith. It contains sahih, hasan, mursal, and balaghat narrations from Malik, which makes it the ideal collection for learning how to apply what one has learned in mustalah so far. Memorize its common chains, such as: 
+Study of the major hadith books should begin with those written during the age of codification and compilation, chief of which is Malik’s Muwatta. It is the briefest in length, shortest in chains, and has an excellent selection of hadith. It also contains mursal and balaghat narrations, which makes it the ideal collection for learning how to apply what one has learned in mustalah so far. Memorize its frequent chains, such as: 
 
 - Malik – Nafi – Ibn Umar
 - Hisham b. Urwa – His father – Aisha
@@ -41,7 +41,7 @@ Imam Malik used to revise his Muwatta’ year after year, carefully selecting wh
 Now one can move onto studying and memorizing famous narrations in this book, alongside reading its outstanding commentary *Ihkam al-Ahkam* by Ibn Daqiq al-‘Id, which is the greatest book ever written on applied usul al-fiqh. This will introduce fiqh al-hadith, as masterfully Ibn Daqiq al-‘Id shows how rulings are deduced from each narration. Listen to the recorded commentary of Hasan Bukhari on *Ihkam al-Ahkam*.
 
 # Intermediate Level 
-The objective of this stage is to begin preparing for the thorough and exhaustive study of the major hadith literature. Throughout this stage, one should begin reading through the various sunan works to gain familiarity of their contents, while also checking and researching the veracity of their narrations. The most important sunan works are those of al-Nasa'i, which contains important benefits regarding hidden defects, and al-Tirmidhi, which includes unique terminology often quoted by later scholars.
+The objective of this stage is to begin preparing for the thorough and exhaustive study of the major hadith literature. Throughout this stage, one should begin reading through the various sunan works to gain familiarity of their contents, while also checking and researching the veracity of their narrations. The most important sunan are *Sunan al-Tirmidhi*, which includes unique terminology often quoted by later scholars, *al-Mujtaba* by al-Nasa'i, which contains important benefits regarding hidden defects, and 
 
 - *Ma’alim al-Sunnah al-Nabawiyyah* by Salih b. Ahmad al-Shami
 
@@ -88,6 +88,10 @@ In this work, al-Sulaymi performs detailed takhrij and isnad analysis, focusing 
 - *Al-Hadith Al-Mu'all* and by Ali al-Sayyah
 
 Read this along with al-Manhaj al-Ilmi, by the same author, to explore practical examples of detecting hidden defects in hadith.
+
+- *Taqrib al-Usul al-Sunnah* by Ibrahim b. 'Abd al-Karim al-Anqari
+
+In this book, the author gathers the hadith of the Sahihayn with their chains. For each hadith, he indicates the rawi narrating from the madar, along with other ruwat of the hadith from the Sahihayn, and the differences in wording associated with each chain. The first three volumes covers Sahih al-Bukhari using its tartib, while the fourth volume covers the zawa'id of Sahih Muslim.
 
 - *Al-Irshadat* by Tariq Awadallah
 
