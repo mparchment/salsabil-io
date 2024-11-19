@@ -165,7 +165,7 @@ It should be read with *Tashih al-Furu* by 'Ala al-Din al-Mardawi, *Hashiyat Ibn
 
 This book the most in-depth work written on usul al-fiqh, but also difficult to understand. The author had the best grip on the ma'akhidh and madakhil of the funun of any scholar from his era. It should be read with al-Abyari's commentary *al-Tahqiq wa'l-Bayan*, accompanied by the surviving portions of al-Maziri's commentary *Idah al-Mahsul*. 
 
-The various madhahib are essentially smaller niches in an overarching umbrella that are compartmentalized based on juristic propensities, inclinations, and proclivities, as well as scholars tending to agree with a large part of their body of furu', which usually stems from being in line with said imam's juristic proclivities, more than they are separated by black-and-white differences in their methodologies. Once one has mastered one madhhab, the next step is to study the original sources and major works of the other madhahib.
+The various madhahib are essentially smaller niches in an overarching umbrella that are compartmentalized based on juristic propensities, inclinations, and proclivities, as well as scholars tending to agree with a large part of their body of furu', which usually stems from being in line with said imam's juristic proclivities, more than they are separated by black-and-white differences in their methodologies. The various madhhabs should not be understood as self-contained and sealed off from each other. Once one has mastered one madhhab, the next step is to study the original sources and major works of the others.
 
 ## Shafi'i Madhhab
 
