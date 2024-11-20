@@ -6,11 +6,12 @@ heroImage: '/azhar.jpeg'
 ---
 
 # Elementary Level
-At this stage, Shaykh Hatim al-'Awni recommends obsessively reading the *Sahihayn*, devoting a period each day for their study so that one completes reading them in a year. One should aim to do this over four years, such as over the course of high school or university one graduates having read them several times. Once the time comes to study these books in depth, one will have a strong foundation to build upon.
+At this stage, Shaykh Hatim al-'Awni recommends obsessively reading the *Sahihayn*, devoting a period each day for their study so that one completes reading them in a year. Use *Jam' bayna al-Sahihayn* by Yahya al-Yahya, and listen to the recordings of Hamzah Elhabashy for hifdh. Alternatively, use the *Jam'* of 'Abd al-Haqq al-Ishbili, Aim to do this over four years, such as over the course of high school or university one graduates having read them several times. Once the time comes to study these books in depth, one will have a strong foundation to build upon.
 
 - *Ma'rifat Ulum al-Hadith* by Hatim al-’Awni
 
 Begin with this introductory text to build a solid foundation in hadith sciences. It provides a comprehensive overview of mustalah, which will prepare you for more advanced studies.
+
 - *Al-Usus al-'Aqliyyah* by Hatim al-’Awni
 
 This book offers insight into the rational foundations of the methodology employed by hadith scholars.
