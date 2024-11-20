@@ -11,6 +11,7 @@ At this stage, Shaykh Hatim al-'Awni recommends obsessively reading the *Sahihay
 - *Ma'rifat Ulum al-Hadith* by Hatim al-’Awni
 
 Begin with this introductory text to build a solid foundation in hadith sciences. It provides a comprehensive overview of mustalah, which will prepare you for more advanced studies.
+
 - *Al-Usus al-'Aqliyyah* by Hatim al-’Awni
 
 This book offers insight into the rational foundations of the methodology employed by hadith scholars.
@@ -41,7 +42,8 @@ Imam Malik used to revise his Muwatta’ year after year, carefully selecting wh
 Now one can move onto studying and memorizing famous narrations in this book, alongside reading its outstanding commentary *Ihkam al-Ahkam* by Ibn Daqiq al-‘Id, which is the greatest book ever written on applied usul al-fiqh. This will introduce fiqh al-hadith, as masterfully Ibn Daqiq al-‘Id shows how rulings are deduced from each narration. Listen to the recorded commentary of Hasan Bukhari on *Ihkam al-Ahkam*.
 
 # Intermediate Level 
-The objective of this stage is to begin preparing for the thorough and exhaustive study of the major hadith literature. Throughout this stage, one should begin reading through the various sunan works to gain familiarity of their contents, while also checking and researching the veracity of their narrations. The most important sunan are *Sunan al-Tirmidhi*, which includes unique terminology often quoted by later scholars, *al-Mujtaba* by al-Nasa'i, which contains important benefits regarding hidden defects, and 
+
+The objective of this stage is to begin preparing for the thorough and exhaustive study of the major hadith literature. Throughout this stage, one should begin regularly reading through the various sunan works to gain familiarity of their contents, while also checking and researching the veracity of their narrations. The most important sunan are *Sunan al-Tirmidhi*, which includes unique terminology often quoted by later scholars, *al-Mujtaba* by al-Nasa'i, which contains important benefits regarding hidden defects, and *Sunan Abi Dawud*, one of the most authentic collections following the Sahihayn.
 
 - *Ma’alim al-Sunnah al-Nabawiyyah* by Salih b. Ahmad al-Shami
 
