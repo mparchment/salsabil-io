@@ -80,7 +80,7 @@ This indispensable work must be read in order to understand how the ashab interp
 
 - *Al-’Umdah* by Ibn Qudamah al-Maqdisi
 
-Ibn Qudamah originally authored this book as a primer in his curriculum, consisting of his ikhtiyarat from opinions within the madhhab. At this stage, it should be read with *Sharh al-’Umdah* by Ibn Taymiyyah. This commentary only covers the sections of ‘ibadah, yet it remains one of the most comprehensive works on adillah in the madhab. Ibn Taymiyyah makes it a point to mention all of the recorded positions within the madhab, along with explaining whether a position is from the riwayat, wujuh, or aqwal from the students of Ahmad. Complete this with the recorded lessons of Yusuf al-Ghafis on *al-’Umdah*. For contemporary issues, listen to the recordings of Hatem al-Haj and read his published commentary on *al-'Umdah*. 
+Ibn Qudamah originally authored this book as a primer in his curriculum, consisting of his ikhtiyarat from opinions within the madhhab. At this stage, it should be read with *Sharh al-’Umdah* by Ibn Taymiyyah. This commentary only covers the sections of ‘ibadah, yet it remains one of the most comprehensive works on adillah in the madhab. Ibn Taymiyyah makes it a point to mention all of the recorded positions within the madhab, along with explaining whether a position is from the riwayat, wujuh, or aqwal from the students of Ahmad. Complete this with *al-'Uddah* by Baha al-Din al-Maqdisi, a student of the author and *al-'Umdah*'s most authoritative commentator. Complete this with the recorded lessons of Yusuf al-Ghafis on *al-’Umdah*. For contemporary issues, listen to the recordings of Hatem al-Haj and read his published commentary on *al-'Umdah*. 
 
 # Advanced Level
 
