@@ -10,13 +10,17 @@ heroImage: '/quran-lesson.jpg'
 
 This must be accompanied by i'rab practice of the Qur'an to apply what one has learned.
 
-- *Al-'Irab* by Ibn Hisham al-Ansari
+- *Musil al-Tullab* by Khalid b. 'Abdullah al-Azhari
 
 - *Al-Kafaf* by al-Saydawi
 
 In this book, the author does an excellent job at simplifying the grammar of classical Arabic.
 
 - *Al-Sarf Al-’Arabi* by Muhammad b. Fadil al-Samarra’i
+
+- *Durus al-Balaghah* by Hifni Nasif
+
+Complement this with *Al-Balaghat al-Wadihah*, which is important for a practical understanding of balaghah.
 
 # Intermediate Level
 
@@ -28,11 +32,21 @@ Also known as *Afliyyat Ibn Malik*, this poem is commonly studied in schools thr
 
 - *Shudhur al-Dhahab* by Ibn Hisham al-Ansari
 
+- *Mukhtasar al-Ma'ani* by Sa'd al-Din al-Taftazani
+
+This is an important text that will draw the connection between logic and balaghah, as well as opening up advanced texts on balaghah for study.
+
 - *Al-'Umdah* by Ibn Rashiq al-Qayrawani
+
+- *Sharh al-Mu'allaqat Al-Sab'* by al-Husayn b. Ahmad al-Zuzani
+
+At this point, begin memorizing shi'r. Jahili poetry is used as murajjihat in both tafsir and lughah, where it is known as shawahid. Memorizing and knowing them helps understand the Qur'an and its i'jaz. This is evident if one checks any book of tafsir that has 'inayah with lughah, such as al-Tabari, al-Wahidi, Ibn 'Ashur, and Ibn 'Atiyyah among others. Some poetry is memorized and learned for the beautiful meanings they have, even if others are of a higher caliber in the formation of shi'r. Poets like al-Mutanabbi fall under this category. Memorizing poetry also helps develop a pattern of eloquent tarakib and styles. Some say that the best way to achieve eloquence is to memorize an entire anthology and then forget it.
 
 - *Maqamat al-Hariri* by al-Hariri
 
-At this point, begin memorizing shi'r. Jahili poetry is used as murajjihat in both tafsir and lughah, where it is known as shawahid. Memorizing and knowing them helps understand the Qur'an and its i'jaz. This is evident if one checks any book of tafsir that has 'inayah with lughah, such as al-Tabari, al-Wahidi, Ibn 'Ashur, and Ibn 'Atiyyah among others. Some poetry is memorized and learned for the beautiful meanings they have, even if others are of a higher caliber in the formation of shi'r. Poets like al-Mutanabbi fall under this category. Memorizing poetry also helps develop a pattern of eloquent tarakib and styles. Some say that the best way to achieve eloquence is to memorize an entire anthology and then forget it.
+Maqamat al-Hariri is extremely important for building vocabulary.
+
+Complement this with *Diwan al-Hudhaliyin*, beginning with Abu Dhuwayb. Shaykh Hatim al-'Awni recommends *Mawsu'at al-Shi'r al-Arabi*, which covers select qawa'id from major shu'ara up to the modern era. The first four volumes are on jahili shi'r, consisting of selections from each poet, along with discussions and commentary.
 
 # Advanced Level
 
