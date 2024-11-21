@@ -8,7 +8,9 @@ heroImage: '/quran-lesson.jpg'
 # Elementary Level
 - *Qatr al-Nada* by Ibn Hisham al-Ansari
 
-- *Al-'Irab 'an Qawa'id al-'Irab* by Ibn Hisham al-Ansari
+This must be accompanied by i'rab practice of the Qur'an to apply what one has learned.
+
+- *Al-'Irab* by Ibn Hisham al-Ansari
 
 - *Al-Kafaf* by al-Saydawi
 
