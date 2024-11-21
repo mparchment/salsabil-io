@@ -1,6 +1,6 @@
 ---
-title: 'Studying Tafsir'
-description: "The following is a guide to studying tafsir and its various sciences. It is is drawn from the suggestions of Sh. Salman Nasir and Sh. Waqar Abbas, among others. It is also based on the original curriculum by al-Asiri."
+title: 'Studying Qur'an'
+description: "The following is a guide to studying Ulum al-Qur'an and its various sciences. It is is drawn from the suggestions of Sh. Salman Nasir and Sh. Waqar Abbas, among others. It is also based on the original curriculum by al-Asiri."
 pubDate: 'Nov 5 2024'
 heroImage: '/quran-lesson.jpg'
 ---
@@ -62,6 +62,8 @@ At this stage one begins to address the issue of tarjih and knowing which view i
 
 Ibn Attiyah’s tafsir pays great attention to establishing tarjih from the sayings of the Salaf, and also trains one for tarjih between different opinions. It was highly regarded by Ibn Khaldun and Ibn Taymiyyah due to its extensive and meticulous research, summarizing the formative tradition with the most accurate narrations, and was influential on later mufassirin such as al-Qurtubi, Abu Hayyan, and Ibn Kathir.
 
+- *Al-Nashr fi'l-Qira'at al-'Ashr* by Ibn al-Jazari
+
 - *Al-Ibanah ‘an Ma’ani al-Qira’at* by Ibn Abi Talib al-Makki
 
 This book is concerned with the history of ahruf and qira'at. It is one of the most important works to read in order to understand the topic. Supplement it by reading *Ma’ani al-Ahruf al-Sab’ah* by ‘Abd al-Rahman al-Razi and *Al-Murshid Al-Wajiz* by Abu Shamah to gain different perspectives. Also read the sections relevant to the seven ahruf from *Fath al-Bari by Ibn Hajar*, *Sharh Mushkil al-Athar* by al-Tahawi, *al-Tamhid* by Ibn 'Abd al-Barr. *Masa'il al-Qira'at by al-Qijati is another important work to cover.
@@ -82,7 +84,7 @@ All knowledge of tafsir has its foundation in the tafsir of al-Tabari. It shows 
 
 The author of this tafsir, a notable Mu’tazili, set the foundation for all linguistic tafsir after him. It should be read with Futuh al-Ghuyub, al-Tibi’s highly regarded commentary. 
 
-# Mastery (الإتقان)
+# Mastery
 
 - *Ruh al-Ma’ani* by Mahmud al-Alusi
 
