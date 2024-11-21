@@ -1,5 +1,5 @@
 ---
-title: 'Studying Qur'an'
+title: 'Studying Quran'
 description: "The following is a guide to studying Ulum al-Qur'an and its various sciences. It is is drawn from the suggestions of Sh. Salman Nasir and Sh. Waqar Abbas, among others. It is also based on the original curriculum by al-Asiri."
 pubDate: 'Nov 5 2024'
 heroImage: '/quran-lesson.jpg'
