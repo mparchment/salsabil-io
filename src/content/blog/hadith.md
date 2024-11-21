@@ -72,7 +72,7 @@ This book must be accompanied by the author’s recorded commentary. It is a con
 - *Su'alat Abi 'Ubayd al-Ajurri li-Abi Dawud* by Abu Bakr al-Ajurri
 - *Su'alat al-Sulami lil-Daraqutni* by Abu Abdurrahman al-Sulami
 
-*Su'alat al-Sulami* is the most beneficial *su'alat* work. In contrast to others who shorten their expressions and omit mentioning the reason, al-Sulami often provides full details and beautifully crafted phrases for naqd, in addition to his skillful selection of narrators. He reached a very high level of knowledge concerning the conditions of narrators, which is reflected in his questions to al-Daraqutni. 
+*Su'alat al-Sulami* is the most beneficial *su'alat* work. In contrast to others who often shorten their expressions and omit mentioning the reason, al-Sulami provides full details and beautifully crafted phrases for naqd, in addition to his skillful selection of narrators. As stated by al-Dhahabi, he reached a high level of knowledge concerning the conditions of narrators, which is reflected in his questions to al-Daraqutni.
 
 Reading through these books will allow one gain more familiarity with the language used by the muhaddithin to describe narrators. At this stage, one should begin analyzing chains of transmission independently. Each chain needs to be analyzed individually and in context, understanding the approach of the early hadith masters. Continue referring to al-Mizzi's *Tahdhib al-Kamal* and al-Dhahabi's *Mizan al-I'tidal* for this purpose. One should be very careful in grading hadith and should strive to understand rather than innovate.  The final word on a narrator is with the master critics: Yahya b. Ma'in, Ahmad b. Hanbal, and Al-Bukhari.
 
