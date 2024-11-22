@@ -1,11 +1,13 @@
 ---
-title: 'Studying Lugha'
+title: 'Studying Lughah'
 description: "The following is a guide to studying the Arabic language. It is is drawn from the reccomendations of Sh. Salman Nasir, Sh. Waqar Abbas, Sh. Ismail Patel, Sh. 'Amr Abu Ayyub, and Sh. Samir Hussein."
 pubDate: 'Nov 21 2024'
 heroImage: '/reading.jpg'
 ---
 
 # Elementary Level
+Before commencing with the following texts, a basic level of comprehension is required. Study *Navigating the Arabic Text* and *Forming the Arabic Word* by Taha Karaan, or their equivalent. Following this, read through *Qasas al-Nabiyyin* by Abu'l-Hasan Ali al-Nadwi and practice placing tashkil on passages without harakat based on what one has learned.
+
 - *Qatr al-Nada* by Ibn Hisham al-Ansari
 
 This must be accompanied by i'rab practice of the Qur'an to apply what one has learned.
