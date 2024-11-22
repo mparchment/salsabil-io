@@ -2,7 +2,7 @@
 title: 'Studying Lugha'
 description: "The following is a guide to studying the Arabic language. It is is drawn from the reccomendations of Sh. Salman Nasir, Sh. Waqar Abbas, Sh. Ismail Patel, Sh. 'Amr Abu Ayyub, and Sh. Samir Hussein."
 pubDate: 'Nov 21 2024'
-heroImage: '/quran-lesson.jpg'
+heroImage: '/reading.jpg'
 ---
 
 # Elementary Level
@@ -64,7 +64,7 @@ This work is one of the best books ever written on nahw. He relied heavily on *a
 
 - *Tashil al-Fawa’id* by Abu Abdullah b. Malik
 
-Studying this book and its commentaries is very beneficial. The most important of these is Abu Hayyan’s al-Tadhyil wa’l-Takmil, as he often disagrees with Ibn Malik. This should be coupled with al-Damamini’s excellent commentary, who was also very independent and made many i’tiradhat on many before him, including Abu Hayyan. When it comes to Ibn Malik, he refines and critiques his opinions, even his choice of words.
+Studying this book and its commentaries is very beneficial, the most of which is Abu Hayyan’s *al-Tadhyil wa’l-Takmil*, as he often disagrees with Ibn Malik. This should be coupled with al-Damamini’s excellent commentary, who was also very independent and made many i’tiradhat on many before him, including Abu Hayyan. When it comes to Ibn Malik, he refines and critiques his opinions, even his choice of words.
 
 - *Al-Kafiyah* by Abu 'Amr b. al-Hajib 
 
