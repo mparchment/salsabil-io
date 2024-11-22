@@ -1,6 +1,6 @@
 ---
 title: 'Studying Lugha'
-description: "The following is a guide to studying the Arabic language. It is is drawn from the reccomendations of Sh. Salman Nasir, Sh. Waqar Abbas, Sh. 'Amr Abu Ayyub, and Sh. Samir Hussein."
+description: "The following is a guide to studying the Arabic language. It is is drawn from the reccomendations of Sh. Salman Nasir, Sh. Waqar Abbas, Sh. Ismail Patel, Sh. 'Amr Abu Ayyub, and Sh. Samir Hussein."
 pubDate: 'Nov 21 2024'
 heroImage: '/quran-lesson.jpg'
 ---
