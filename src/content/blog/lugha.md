@@ -40,7 +40,7 @@ This is an important text that will draw the connection between logic and balagh
 
 - *Sharh al-Mu'allaqat Al-Sab'* by al-Husayn b. Ahmad al-Zuzani
 
-Read the critical edition of Muhyi al-Din 'Abd al-Hamid, which also contains his hashiyah. Complement this with the remaining three mu'allaqat. Once one has understood the words, the next step is to live through the poet, his words, his life, his asaleeb, his word choice, and his topic choice. Listen to the commentaries of Abu Qays Muhammad Rashid on Zuhayr, Imru'l-Qays, al-Nabighah. He consumed all of the classical commentaries and produced something far above what they offer.
+Read the critical edition of Muhyi al-Din 'Abd al-Hamid, which also contains his hashiyah. Complement this by becoming familiar with the other three mu'allaqat. Once one has understood the words, the next step is to live through the poet, his words, his life, his asaleeb, his word choice, and his topic choice. Listen to the commentaries of Abu Qays Muhammad Rashid on Zuhayr, Imru'l-Qays, al-Nabighah. He consumed all of the classical commentaries and produced something far above what they offer.
 
 At this point, begin memorizing shi'r. Jahili poetry is used as murajjihat in both tafsir and lughah, where it is known as shawahid. Memorizing and knowing them helps understand the Qur'an and its i'jaz. This is evident if one checks any book of tafsir that has 'inayah with lughah, such as al-Tabari, al-Wahidi, Ibn 'Ashur, and Ibn 'Atiyyah among others. 
 
