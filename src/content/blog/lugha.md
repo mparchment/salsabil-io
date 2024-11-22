@@ -28,7 +28,7 @@ Complement this with *Al-Balaghat al-Wadihah*, which is important for a practica
 
 - *Al-Khulasah Al-Alfiyyah* by Abu Abdullah b. Malik
 
-Also known as *Afliyyat Ibn Malik*, this poem is commonly studied in schools throughout the Arab world. All the manahij of studying nahw go back to the Afilyyah, and one should memorize given the time. It must be studied with the well-known commentary of Ibn Aqil.
+Also known as *Afliyyat Ibn Malik*, this poem is commonly studied in schools throughout the Arab world. All the manahij of studying nahw go back to the Afilyyah, and one should memorize it given the time. It must be studied with the well-known commentary of Ibn Aqil.
 
 - *Shudhur al-Dhahab* by Ibn Hisham al-Ansari
 
