@@ -33,7 +33,7 @@ Supplement this by reading the introductions to *al-Insaf*, *al-Furu'*, and *Tas
 
 - *Al-Mukhtasarat Al-Usuliyyah* by Muhammad b. 'Abd al-Wahid al-Azhari
 
-This is a series of texts written by the Muhammad 'Abd al-Wahid to prepare a student for the study of usul al-fiqh. After studying this, one will be prepared to study *Mukhtasar al-Tahrir* by Ibn al-Najjar. Listen to the recorded lessons of the author on the texts in this series.
+This is a series of texts written by the Muhammad 'Abd al-Wahid to prepare a student for the study of usul al-fiqh. After studying this, one will be prepared to study *Mukhtasar al-Tahrir* by Ibn al-Najjar. Listen to the recorded lessons of the author. Supplement it with *Taysir Usul al-Fiqh* by 'Abdullah al-Juday'. 
 
 - *Mukhtasar al-Tahrir* by Ibn al-Najjar al-Futuhi
 
@@ -147,7 +147,7 @@ One should commence the study of furuq with this work by al-Zarirani, the shaykh
 # Mastery 
 - *Al-Muqni’* by Ibn Qudamah al-Maqdisi
 
-One should aim for mastery, which entails being able to independently arrive at the same conclusions the imams of the madhab have reached. Read the following commentaries simultaneously: 
+This book was often memorized by the Mutawasit scholars of the madhhab. One should aim for mastery, which entails being able to independently arrive at the same conclusions the imams of the madhab have reached. Read the following commentaries simultaneously: 
 
 - *Al-Mutli’* by Shams al-Din b. Abi al-Fath
 - *Al-Mumti’* by Abu’l-Barkat b. al-Munajja
@@ -189,4 +189,4 @@ The encyclopedic commentaries of Maliki scholars on the Qur'an and hadith are al
 
 ## Hanafi Madhhab
 
-Imam Ahmad’s first teacher was Qadi Abu Yusuf, under whom he began seeking fiqh and hadith. Read *Al-Asl* and *Kitab al-Hujjah* by Muhammad b. Hasan al-Shaybani. *Al-Asl* is arguably the most important work in the history of fiqh due to the impact it had on those who came after it, especially al-Shafi'i. Then read *Sharh Mukhtasar al-Tahawi* by al-Jassas, *Sharh Mukhtasar al-Karkhi* by al-Quduri, which contains beneficial furu'i fawa'id, and *Fath al-Qadir* by Ibn al-Hummam. Reference *Bada’i al-Sana’i* by al-Kasani for fiqh al-khilaf, along with al-Tahawi's *Sharh Ma'ani al-Athar* and *Sharh Mushkil al-Athar* for commentary on hadith.
+Imam Ahmad’s first teacher was Qadi Abu Yusuf, under whom he began seeking fiqh and hadith. Read *Al-Asl* and *Kitab al-Hujjah* by Muhammad b. Hasan al-Shaybani. *Al-Asl* is arguably the most important work in the history of fiqh due to the impact it had on those who came after. Then read *Sharh Mukhtasar al-Tahawi* by al-Jassas, *Sharh Mukhtasar al-Karkhi* by al-Quduri, which contains beneficial furu'i fawa'id, and *Fath al-Qadir* by Ibn al-Hummam. Reference *Bada’i al-Sana’i* by al-Kasani for fiqh al-khilaf, along with al-Tahawi's *Sharh Ma'ani al-Athar* and *Sharh Mushkil al-Athar* for commentary on hadith. 
