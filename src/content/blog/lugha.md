@@ -6,7 +6,7 @@ heroImage: '/reading.jpg'
 ---
 
 # Elementary Level
-Before commencing with the following texts, a basic level of comprehension is required. Study *Navigating the Arabic Text* and *Forming the Arabic Word* by Taha Karaan, or their equivalent. Following this, read through *Qasas al-Nabiyyin* by Abu'l-Hasan Ali al-Nadwi and practice placing tashkil on passages without harakat based on what one has learned.
+Before commencing with the following texts, a basic level of comprehension is required. Study *Navigating the Arabic Text* and *Forming the Arabic Word* by Taha Karaan, or their equivalent. Following this, read through *Qasas al-Nabiyyin* by Abu'l-Hasan Ali al-Nadwi and practice placing tashkil on passages without harakat based on what one has learned. At this point, constant reading is the most important activity to pick up vocabulary and comprehension.
 
 - *Qatr al-Nada* by Ibn Hisham al-Ansari
 
