@@ -40,7 +40,7 @@ This is an important text that will draw the connection between logic and balagh
 
 - *Sharh al-Mu'allaqat Al-Sab'* by al-Husayn b. Ahmad al-Zuzani
 
-Read the critical edition of Muhyi al-Din 'Abd al-Hamid, which also contains his hashiyah. Also become familiar with the other three mu'allaqat. 
+Read the critical edition of Muhyi al-Din 'Abd al-Hamid, which also contains his hashiyah, and become familiar with the other three mu'allaqat. Complement this with *Dawanin al-Shu'ara' al-Sittah* with commentary by Atah al-Yadali and Muhammad al-Khadim. This diwan consists of 2000 abyat, a good choice to do hifdh of.
 
 Once one has understood the words, the next step is to live through the poet, his words, his life, his asaleeb, his word choice, and his topic choice. Listen to the recordings of Abu Qays Muhammad Rashid on Zuhayr, Imru'l-Qays, al-Nabighah; he consumed all of the classical commentaries and produced something far above what they offer.
 
