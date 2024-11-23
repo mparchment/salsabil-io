@@ -22,7 +22,7 @@ Complement this with *al-Balaghat al-Wadihah* by Mustafa Amin, which is importan
 
 - *Qatr al-Nada* by Ibn Hisham al-Ansari
 
-Read it with the author's commentary, *Sharh Qatr al-Nada*, with the footnotes of Muhyi al-Din 'Abd al-Hamid. This will be the one's first introduction to grammar in a logical and systematic manner. Ibn Hisham's commentary contains complex discussions and introduces differences of opinion between the grammarians. Complement it by reading *Sharh Shadharat al-Dhahab* also by Ibn Hisham, after which one can move on to the intermediate level.
+Read it with the author's commentary, *Sharh Qatr al-Nada*, with the footnotes of Muhyi al-Din 'Abd al-Hamid. This will be the one's first introduction to grammar in a logical and systematic manner. Ibn Hisham's commentary contains complex discussions and introduces differences of opinion between the grammarians. Complement it by reading *Sharh Shadharat al-Dhahab* also by Ibn Hisham, after which one can move on to the intermediate level. For learning how to traditionally present i'rab, read *Expressing I'rab* by David Jalajel.
 
 # Intermediate Level
 
@@ -50,9 +50,7 @@ Some poetry is memorized and learned for the beautiful meanings they have, even 
 
 - *Maqamat al-Hariri* by al-Hariri
 
-Maqamat al-Hariri is extremely important for building vocabulary.
-
-Complement this with *Diwan al-Hudhaliyin*, beginning with Abu Dhuwayb. Shaykh Hatim al-'Awni recommends *Mawsu'at al-Shi'r al-Arabi*, which covers select qawa'id from major shu'ara up to the modern era. The first four volumes are on jahili shi'r, consisting of selections from each poet, along with discussions and commentary.
+Maqamat al-Hariri is extremely important for building vocabulary. Complement this with *Diwan al-Hudhaliyin*, beginning with Abu Dhuwayb. Shaykh Hatim al-'Awni recommends *Mawsu'at al-Shi'r al-Arabi*, which covers select qawa'id from major shu'ara up to the modern era. The first four volumes are on jahili shi'r, consisting of selections from each poet, along with discussions and commentary.
 
 # Advanced Level
 
