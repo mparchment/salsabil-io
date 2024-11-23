@@ -1,6 +1,6 @@
 ---
 title: 'Studying Quran'
-description: "The following is a guide to studying 'Ulum al-Qur'an and its various sciences. It is is drawn from the suggestions of Sh. Salman Nasir and Sh. Waqar Abbas, among others. It is also based on the original curriculum by al-Asiri."
+description: "The following is a guide to studying Ulum al-Qur'an and its various sciences. It is is drawn from the suggestions of Sh. Salman Nasir and Sh. Waqar Abbas, among others. It is also based on the original curriculum by al-Asiri."
 pubDate: 'Nov 5 2024'
 heroImage: '/quran-lesson.jpg'
 ---
@@ -16,9 +16,13 @@ At this stage, one should set a dedicated time to study each week, sticking to a
 
 At this point, also listen to Ali Hani’s series *Al-Tariqat Al-Muthla*, which is a brief introduction on how tafsir is performed. Also read *Akhlaq Hamalat al-Qur'an* by Abu Bakr al-Ajurri, a short book and one of the earliest sources to gather to required manners and characters bearers of the Qur'an.
 
+- *Madarik al-Tanzil* by Abu'l-Barakat al-Nasafi
+
+Shaykh Ali Hani recommends this work for beginners. It surpasses other introductory tafasir in both clarity and ease of expression, without sacrificing technical accuracy. This book is from a classical scholar, yet accessible to contemporary readers. Al-Nasafi offers a digestible summary of al-Zamakhshari and al-Baydawi, who can be cryptic and hard to understand. Begin reading it as soon as one has gained a basic understanding of grammar and morphology. Watch the recordings of 'Ali Hani on this tafsir.
+
 - *Tashil al-'Ulum al-Tanzil* by Ibn Juzayy al-Kalbi
 
-Shaykh Ali Hani recommends this work for beginners. It surpasses other introductory tafasir in both clarity and ease of expression, without sacrificing technical accuracy. This book is from a classical scholar, yet accessible to contemporary readers. Al-Nasafi offers a digestible summary of al-Zamakhshari and al-Baydawi, who can be cryptic and hard to understand. Begin reading it as soon as one has gained a basic understanding of grammar and morphology. Watch the recordings of 'Ali Hani and supplement it with readings from Muhammad al-Sabuni's *Safwat al-Tafasir*.
+Another excellent choice for this level is *Tafsir Ibn Juzayy*, which largely relies on *al-Muharrar al-Wajiz* by Ibn 'Attiyah and *al-Kashshaf* by al-Zamakhshari. Ibn Juzayy was an excellent writer and his tafsir is preferred in North and West Africa. He does not comment on everything, so a teacher should fill in the gaps. Ensure the edition you are reading uses the qira'ah of Nafi', which is what Ibn Juzayy based this work on. His muqaddimat are also important; Musa'id al-Tayyar has a commentary on them which should also be read. 
 
 # Intermediate Level
 The objective at this stage is to familiarize oneself with multiple aspects of tafsir, especially concerning the explanation of words and the various narrations regarding each ayah, without striving to find which is the strongest nor being too concerned when different statements are attributed the same authorities, such as Ibn ‘Abbas. 
@@ -89,6 +93,8 @@ The author of this tafsir, a notable Mu’tazili, set the foundation for all lin
 - *Ruh al-Ma’ani* by Mahmud al-Alusi
 
 This work is the culmination of Ottoman scholarship on balagha. His tafsir is primarily based on Irshad al-’Aql al-Salim by Abu al-Sa’ud, which was itself drawn from the commentaries of Al-Kashshaf by al-Zamkhshari and Anwar al-Tanzil by al-Baydawi. Al-Alusi builds on Abu al-Sa’ud’s work, making it the backbone of his tafsir and similar to what Abu al-Sa’ud did before him, he synthesizes all the commentaries on al-Zamakhshari and al-Baydawi written up until his time. 
+
+- *Al-Basit* by Abu'l-Hasan al-Wahidi
 
 - *Al-Tahrir wa’l-Tanwir* by Ibn ‘Ashur
 

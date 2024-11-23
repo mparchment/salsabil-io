@@ -24,6 +24,8 @@ Read it with the author's commentary and Muhyi al-Din 'Abd al-Hamid's footnotes.
 
 - *Durus al-Balaghah* by Hifni Nasif
 
+Complement this with *al-Balaghat al-Wadhihah* by Mustafa Amin and 'Ali al-Jarim. It is very well-organized; every lesson begins with examples from which the principle being presented is deduced, followed by practice exercises. Use the Hasan al-Samahi's edition, which is split into bayan, badi', and ma'ani. Another excellent introductory work to read is *al-Balaghah: Fununuha wa-Afnanuha* by Fadl Hasan Abbas, which provides a comprehensive overview of the subject and its discussions.
+
 # Intermediate Level
 
 - *Al-Khulasah Al-Alfiyyah* by Abu Abdullah b. Malik
@@ -34,9 +36,13 @@ Also known as *Afliyyat Ibn Malik*, this poem is commonly studied in schools thr
 
 Read it with al-Taftazani's well-known commentary. Complement this with *Taysir al-I'lal wa'l-Ibdal* by 'Abd al-'Alim Ibrahim.
 
+- *Al-Minhaj Al-Wadih* by Hamid 'Awni
+
+This book is an excellent stepping stone between introductory books on balaghah and more advanced texts. Listen to the recordings of 'Ali Hani on this text.
+
 - *Mukhtasar al-Ma'ani* by Sa'd al-Din al-Taftazani
 
-This is an important text that will draw the connection between logic and balaghah, as well as opening up advanced texts on balaghah for study. Complement this by reading *al-Minhaj al-Wadih by Hamid 'Awni.
+This is an important text that will draw the connection between logic and balaghah, as well as opening up advanced texts on balaghah for study. Complement this with 'Abddurahman Habannaka's two-volume *al-Balaghah al-'Arabiyyah*.
 
 - *Al-'Umdah* by Ibn Rashiq al-Qayrawani
 
@@ -62,7 +68,6 @@ Studying this book and its commentaries is very beneficial. Read Ibn Aqil's *Al-
 
 - *Mughni al-Labib* by Ibn Hisham al-Ansari
 
-
 - *Ham’ al-Hawami’* by Jalal al-Din al-Suyuti
 
 This work is one of the best books ever written on nahw. He relied heavily on *al-Tadhyil* by Abu Hayyan in this work. Supplement it by reading *al-Muzhil* by the same author, an encycleopedic work that gathers various discussions in an accessible manner such that it can be used as a starting point for further research and exploration. 
@@ -71,9 +76,19 @@ This work is one of the best books ever written on nahw. He relied heavily on *a
 
 - *Al-Shafiyah* by Abu 'Amr b. al-Hajib 
 
-Supplement this with *al-Mustasqa* by 'Abd al-Latif al-Khatib
+Supplement this with *al-Mustasqa* by 'Abd al-Latif al-Khatib.
 
 - *Al-Mumti* by Ibn Usfur
+
+- *Al-Taswir Al-Bayan* by Muhammad Abu Musa
+
+- *Khasa'is al-Tarakib* by Muhammad Abu Musa
+
+- *Dalalat al-Tarkib* by Muhammad Abu Musa
+
+- *'Ilm al-Badi'* by Muhammad Tawfiq Sa'd
+
+This work was is based on a mudhakkirah on badi' by Muhammad Abu Musa, which his closest student then developed into a textbook.
 
 # Mastery
 
@@ -84,6 +99,14 @@ Read it with Sulayman al-'Uyuni's collection of important commentaries.
 - *Al-Mufassal* by al-Zamakhshari
 
 - *Al-Munsif* by Abu'l-Fath b. Jinni
+
+- *Asrar al-Balaghah* by 'Abd al-Qadir al-Jurjani*
+
+Preface reading this by covering *Madkhal ila Kitabi 'Abd al-Qadir al-Jurjani* by Muhammad Abu Musa, an introductory study to *Asrar al-Balaghah* and *Dala'il al-I'jaz*. Read the commentary of Muhammad Ibrahim Shadee. 
+
+- *Dala'il al-I'jaz* by 'Abd al-Qadir al-Jurjani
+
+Read the commentary of Muhammad Ibrahim Shadee on this book, along with Ibn 'Ashur's ta'liq.
 
 - *Bayan wa'l-Tabyin* by al-Jahidh
 
