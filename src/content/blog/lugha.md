@@ -6,7 +6,7 @@ heroImage: '/reading.jpg'
 ---
 
 # Elementary Level
-Before commencing with the following texts, a basic level of comprehension is required. Study *Navigating the Arabic Text* and *Forming the Arabic Word* by Taha Karaan, or their equivalent. Following this, read through *Qasas al-Nabiyyin* by Abu'l-Hasan Ali al-Nadwi and practice placing tashkil on passages without harakat based on what one has learned. At this point, constant reading is the most important activity to pick up vocabulary and comprehension. A good anthology is *Mukhtarat min Adab al-Arab*, also by Abu'l-Hasan Ali al-Nadwi. Constantly write down and memorize the meaning, form, and root of unfamiliar words using a trusted dictionary.
+Before commencing with the following works, a basic level of comprehension is required. Study *Navigating the Arabic Text* and *Forming the Arabic Word* by Taha Karaan, or their equivalent. Following this, read through *Qasas al-Nabiyyin* by Abu'l-Hasan Ali al-Nadwi and practice placing tashkil on passages without harakat based on what one has learned. At this point, constant reading is the most important activity to pick up vocabulary and comprehension. A good anthology is *Mukhtarat min Adab al-Arab*, also by Abu'l-Hasan Ali al-Nadwi. Constantly write down and memorize the meaning, form, and root of unfamiliar words using a trusted dictionary.
 
 - *Al-Kafaf* by al-Saydawi
 
