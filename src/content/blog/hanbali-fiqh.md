@@ -37,7 +37,7 @@ This is a series of texts written by the Muhammad 'Abd al-Wahid to prepare a stu
 
 - *Mukhtasar al-Tahrir* by Ibn al-Najjar al-Futuhi
 
-Listen to the recordings of Hasan Bukhari. He is widely read in usul al-fiqh, has a deep grasp of the underlying reason for differences, and has a unique talent in explaining mutun. For more detail at this level, read its commentary *al-Dhukhr al-Harir* by Ahmad b. ‘Abdullah al-Ba’li. Supplement this with *Taqrib al-Wusul* by Ibn Juzayy, which also covers the asbab of khilaf in fiqh. 
+The author wrote this text as an abridgement *Tahrir al-Manqul* by al-Mardawi, with similar coverage to *Jam al-Jawami’*. Listen to the recordings of Hasan Bukhari. He is widely read in usul al-fiqh, has a deep grasp of the underlying reason for differences, and has a unique talent in explaining mutun. For more detail at this level, read its commentary *al-Dhukhr al-Harir* by Ahmad b. ‘Abdullah al-Ba’li. Supplement this with *Taqrib al-Wusul* by Ibn Juzayy, which also covers the asbab of khilaf in fiqh. 
 
 - *Raf’ al-Malam* by Taqi al-Din b. Taymiyyah
 
@@ -60,7 +60,7 @@ This book must be read with its commentary *Sharh Mukhtasar al-Rawdah*, which is
 
 Supplement this by reading *Sharh Tanqih al-Fusul* by al-Qarafi and *Huli al-Taraqi* by Muhammad Fal al-Shintiqi, which is one of the best commentaries on *Maraqi al-Su'ud*. For understanding ta'lil and qiyas, read *Shifa al-Ghalil* by al-Ghazali, which deals with determining the legal cause (*masalik al-'illah*).
 
-- *Qawa'id al-Ahkam* by Izz al-Din b. 'Abd al-Salam
+- *Al-Qawa'id Al-Ahkam* by Izz al-Din b. 'Abd al-Salam
 
 Ibn 'Abd al-Salam was among the first to author an independent work on maqasid. This book is important for understanding the purpose of the law and its internal rationality. Shaykh Hatim al-'Awni considers it the most important book on the topic, even more so than al-Shatibi's *al-Muwafaqat*, and suggests reading it more than once. In *al-Muwafaqat*, Al-Shatibi gives a descriptive, retrospective view of the Shari'ah and its overarching themes, from which maqasid have a prominent role. For him, it is an a posteriori exercise, and he doesn't see it having a role in application to any considerable extent. By contrast, Ibn 'Abd al-Salam is more concerned with going through masa'il fiqhiyyah, explaining their dimensions, and going into tafri'at and matters which are clearly contestable ijtihad. 
 
@@ -161,7 +161,7 @@ This book was often memorized by the Mutawasit scholars of the madhhab. One shou
 
 Read it with *Al-Nukat wa'l-Fawa'id* by Ibn Muflih, *Hashiyat Ibn Qundus*, *Hashiyat Ibn Nasrullah*, and *Sharh al-Muharrar* by Ibn 'Abd al-Haqq.
 
-- *Al-Furu* by Shams al-Din b. Muflih
+- *Al-Furu'* by Shams al-Din b. Muflih
 
 It should be read with *Tashih al-Furu* by 'Ala al-Din al-Mardawi, *Hashiyat Ibn Qundus*, and *Hashiyat Ibn Nasrullah*.
 
@@ -169,7 +169,7 @@ It should be read with *Tashih al-Furu* by 'Ala al-Din al-Mardawi, *Hashiyat Ibn
 
 - *Al-Burhan* by Abu'l-Ma'ali al-Juwayni
 
-This book the most in-depth work written on usul al-fiqh, but also difficult to understand. The author had the best grip on the ma'akhidh and madakhil of the funun of any scholar from his era. It should be read with al-Abyari's commentary *al-Tahqiq wa'l-Bayan*, accompanied by the surviving portions of al-Maziri's commentary *Idah al-Mahsul*. 
+This book the most in-depth work written on usul al-fiqh, but also difficult to understand. The author had the best grip on the ma'akhidh and madakhil of the funun of any scholar from his era. Preface it by reading *Kitab al-Talkhis*, al-Juwayni's abridgement of *al-Taqrib wa'l-Irshad* by al-Baqillani, who was al-Juywani's teacher and a major influence on him. Study *al-Burhan* with with al-Abyari's commentary *al-Tahqiq wa'l-Bayan*, along with the surviving portion of al-Maziri's commentary *Idah al-Mahsul*. 
 
 The various madhahib are essentially smaller niches in an overarching umbrella that are compartmentalized based on juristic propensities, inclinations, and proclivities, as well as scholars tending to agree with a large part of their body of furu', which usually stems from being in line with said imam's juristic proclivities, more than they are separated by black-and-white differences in their methodologies. The various madhhabs should not be understood as self-contained and sealed off from each other. Once one has mastered one madhhab, the next step is to study the original sources and major works of the others.
 

@@ -1,6 +1,6 @@
 ---
 title: 'Studying Lughah'
-description: "The following is a guide to studying the Arabic language. It is is drawn from the recommendations of Sh. Salman Nasir, Sh. Waqar Abbas, Sh. Ismail Patel, Sh. 'Amr Abu Ayyub, and Sh. Samir Hussein."
+description: "The following is a guide to studying the Arabic language. It is is drawn from the recommendations of Sh. Salman Nasir, Sh. Waqar Abbas, Sh. Ismail Patel, Sh. 'Amr Abu Ayyub, Sh. Ali Hani and Sh. Samir Hussein."
 pubDate: 'Nov 21 2024'
 heroImage: '/reading.jpg'
 ---
@@ -16,7 +16,7 @@ Supplement this with *al-Kafaf* by al-Saydawi. The author does an excellent job 
 
 - *Qatr al-Nada* by Ibn Hisham al-Ansari
 
-Read it with the author's commentary and Muhyi al-Din 'Abd al-Hamid's footnotes. This will be the one's first introduction to grammar in a logical and systematic manner. Ibn Hisham's commentary contains complex discussions and introduces differences of opinion between the grammarians. Complement this book by reading *Sharh Shadharat al-Dhahab*, which is also by Ibn Hisham and using *al-Nahw al-Wadhifi* by 'Abd al-Alim Ibrahim for practice. After this, one can move on to the intermediate level.
+Read it with the author's commentary and Muhyi al-Din 'Abd al-Hamid's footnotes. This will be one's first introduction to grammar in a logical and systematic manner. Ibn Hisham's commentary contains complex discussions and introduces differences of opinion between the grammarians. Follow this up by reading the author's *Sharh Shadharat al-Dhahab* and use *al-Nahw al-Wadhifi* by 'Abd al-Alim Ibrahim for practice.
 
 - *Musil al-Tullab* by Khalid b. 'Abdullah al-Azhari
 
@@ -30,9 +30,9 @@ Complement this with *al-Balaghat al-Wadhihah* by Mustafa Amin and 'Ali al-Jarim
 
 - *Al-Khulasah Al-Alfiyyah* by Abu Abdullah b. Malik
 
-Also known as *Afliyyat Ibn Malik*, this poem is commonly studied in schools throughout the Arab world. All the manahij of studying nahw go back to the Afilyyah, and one should memorize it given the time. It must be studied with the well-known commentary of Ibn Aqil, then follow it up by reading the commentary of al-Ushmuni. Complement this by reading *Ma’ani al-Nahw* by Fadil al-Samarra’i
+Also known as *Afliyyat Ibn Malik*, this poem is commonly studied in schools throughout the Arab world. All the manahij of studying nahw go back to Ibn Malik's *Afilyyah*, and one should memorize it given the time. Study it with the well-known commentary of Ibn Aqil, then follow that up by reading the commentary of al-Ushmuni. Complement this by reading *Ma’ani al-Nahw* by Fadil al-Samarra’i.
 
-- *Tasrif al-'Izzi* by 'Abd al-Wahhab al-Zajani
+- *Tasrif al-'Izzi* by 'Abd al-Wahhab al-Zanjani
 
 Read it with al-Taftazani's well-known commentary. Complement this with *Taysir al-I'lal wa'l-Ibdal* by 'Abd al-'Alim Ibrahim.
 
@@ -70,7 +70,7 @@ Studying this book and its commentaries is very beneficial. Read Ibn Aqil's *Al-
 
 - *Ham’ al-Hawami’* by Jalal al-Din al-Suyuti
 
-This work is one of the best books ever written on nahw. He relied heavily on *al-Tadhyil* by Abu Hayyan in this work. Supplement it by reading *al-Muzhil* by the same author, an encycleopedic work that gathers various discussions in an accessible manner such that it can be used as a starting point for further research and exploration. 
+This work is one of the best books ever written on nahw. He relied heavily on *al-Tadhyil* by Abu Hayyan in this work. Supplement it by reading *al-Muzhir* by the same author, an encycleopedic work that gathers various discussions in an accessible manner such that it can be used as a starting point for further research and exploration. 
 
 - *Al-Kafiyah* by Abu 'Amr b. al-Hajib 
 
@@ -94,19 +94,19 @@ This work was is based on a mudhakkirah on badi' by Muhammad Abu Musa, which his
 
 - *Al-Kitab* by Amr b. Uthman Sibawayh
 
-Read it with Sulayman al-'Uyuni's collection of important commentaries.  
+Read it with Sulayman al-'Uyuni's collection of important hawashi.  
 
 - *Al-Mufassal* by al-Zamakhshari
 
 - *Al-Munsif* by Abu'l-Fath b. Jinni
 
-- *Asrar al-Balaghah* by 'Abd al-Qadir al-Jurjani*
+- *Asrar al-Balaghah* by 'Abd al-Qadir al-Jurjani
 
 Preface reading this by covering *Madkhal ila Kitabi 'Abd al-Qadir al-Jurjani* by Muhammad Abu Musa, an introductory study to *Asrar al-Balaghah* and *Dala'il al-I'jaz*. Read the commentary of Muhammad Ibrahim Shadee. 
 
 - *Dala'il al-I'jaz* by 'Abd al-Qadir al-Jurjani
 
-Read the commentary of Muhammad Ibrahim Shadee on this book, along with Ibn 'Ashur's ta'liq.
+Read Muhammad Ibrahim Shadee's commentary, along with Ibn 'Ashur's ta'liq.
 
 - *Bayan wa'l-Tabyin* by al-Jahidh
 
