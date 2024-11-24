@@ -67,7 +67,7 @@ To get familiar with the usage of majaz in the Qur’an, study this work and ref
 
 - *Hirz al-Ma'ani* by Abu'l-Qasim al-Shatibi
 
-Well-known as *al-Shatibiyyah*, this poem presents the usul of the seven major qira'at. Become familiar with its lines and memorize it if given the time. Read its commentaries *Fath al-Wasid* by Abu'l-Hasan al-Sakhawi, one of al-Shatibi's most distinguished students, and *Ibraz al-Ma'ani* by Abu Shamah. 
+Well-known as *al-Shatibiyyah*, this poem presents the usul of the seven major qira'at. Memorize it given the time and read its commentaries: *Fath al-Wasid* by Abu'l-Hasan al-Sakhawi, one of al-Shatibi's most distinguished students, and *Ibraz al-Ma'ani* by Abu Shamah. 
 
 - *Husn al-Madad* by Burhan al-Din al-Ja'bari
 
