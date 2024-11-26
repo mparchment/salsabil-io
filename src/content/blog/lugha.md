@@ -1,16 +1,22 @@
 ---
 title: 'Studying Lughah'
-description: "The following is a guide to studying the Arabic language. It is is drawn from the reccomendations of Sh. Salman Nasir, Sh. Waqar Abbas, Sh. Ismail Patel, Sh. 'Amr Abu Ayyub, and Sh. Samir Hussein."
+description: "The following is a guide to studying the Arabic language. It is is drawn from the recommendations of Sh. Salman Nasir, Sh. Waqar Abbas, Sh. Ismail Patel, Sh. 'Amr Abu Ayyub, Sh. Ali Hani and Sh. Samir Hussein."
 pubDate: 'Nov 21 2024'
 heroImage: '/reading.jpg'
 ---
 
 # Elementary Level
-Before commencing with the following texts, a basic level of comprehension is required. Study *Navigating the Arabic Text* and *Forming the Arabic Word* by Taha Karaan, or their equivalent. Following this, read through *Qasas al-Nabiyyin* by Abu'l-Hasan Ali al-Nadwi and practice placing tashkil on passages without harakat based on what one has learned. At this point, constant reading is the most important activity to pick up vocabulary and comprehension. A good anthology is *Mukhtarat min Adab al-Arab*, also by Abu'l-Hasan Ali al-Nadwi. Constantly write down and memorize the meaning, form, and root of unfamiliar words using a trusted dictionary.
+Before commencing with the following texts, a basic level of comprehension is required. Study *Navigating the Arabic Text* and *Forming the Arabic Word* by Taha Karaan, or their equivalent. Following this, read through *Qasas al-Nabiyyin* by Abu'l-Hasan Ali al-Nadwi and practice placing tashkil on passages without harakat based on what one has learned. At this point, constant reading is the most important activity to pick up vocabulary and comprehension. A good anthology is *Mukhtarat min Adab al-Arab*, also by Abu'l-Hasan Ali al-Nadwi. Write down and memorize the meaning, form, and root of unfamiliar words using a trusted dictionary.
 
-- *Al-Kafaf* by al-Saydawi
+- *Al-Ajrumiyyah* by Ibn Ajrum
 
-In this book, the author does an excellent job at simplifying the rules of grammar. He presents abundant examples from Qur'an and shi'r to illustrate the rules of each chapter. Complement this with *al-Nahw al-Wadhih* by Mustafa Amin. This must be accompanied by i'rab practice with the Qur'an to apply what has been learned so far, while checking one's answers with i'rab tafasir on the Qur'an.
+Read it with its commentary *al-Tawdih* by Ali Hani, which includes practice problems from Mustafa Amin's *al-Nahw al-Wadhih*. Sulayman al-Uyuni suggests covering *al-Ajrumiyyah* cover-to-cover multiple times over a short period to get a good tasawwur of the 'ilm as a whole. This can be accomplished by reading Ali Hani's remaining commentaries with increasing detail: *al-Tashil* and *al-Sharh al-Mutawwal*. This must also be accompanied by extensive i'rab of practice with the Qur'an to apply what has been learned. 
+
+Supplement this with *al-Kafaf* by al-Saydawi. The author does an excellent job at simplifying the rules of grammar and presents abundant examples from Qur'an and shi'r to illustrate them. For learning how to traditionally present i'rab, read *Expressing I'rab* by David Jalajel. 
+
+- *Qatr al-Nada* by Ibn Hisham al-Ansari
+
+Read it with the author's commentary and Muhyi al-Din 'Abd al-Hamid's footnotes. This will be one's first introduction to grammar in a logical and systematic manner. Ibn Hisham's commentary contains complex discussions and introduces differences of opinion between the grammarians. Follow this up by reading the author's *Sharh Shadharat al-Dhahab* and use *al-Nahw al-Wadhifi* by 'Abd al-Alim Ibrahim for practice.
 
 - *Musil al-Tullab* by Khalid b. 'Abdullah al-Azhari
 
@@ -18,23 +24,25 @@ In this book, the author does an excellent job at simplifying the rules of gramm
 
 - *Durus al-Balaghah* by Hifni Nasif
 
-Complement this with *al-Balaghat al-Wadihah* by Mustafa Amin, which is important for a practical understanding of balaghah.
-
-- *Qatr al-Nada* by Ibn Hisham al-Ansari
-
-Read it with the author's commentary, *Sharh Qatr al-Nada*, with the footnotes of Muhyi al-Din 'Abd al-Hamid. This will be the one's first introduction to grammar in a logical and systematic manner. Ibn Hisham's commentary contains complex discussions and introduces differences of opinion between the grammarians. Complement it by reading *Sharh Shadharat al-Dhahab* also by Ibn Hisham, after which one can move on to the intermediate level. For learning how to traditionally present i'rab, read *Expressing I'rab* by David Jalajel.
+Complement this with *al-Balaghat al-Wadhihah* by Mustafa Amin and 'Ali al-Jarim. It is very well-organized; every lesson begins with examples from which the principle being presented is deduced, followed by practice exercises. Use the Hasan al-Samahi's edition, which is split into bayan, badi', and ma'ani. Another excellent introductory work to read is *al-Balaghah: Fununuha wa-Afnanuha* by Fadl Hasan Abbas, which provides a comprehensive overview of the subject and its discussions.
 
 # Intermediate Level
 
-- *Ma’ani al-Nahw* by Fadil al-Samarra’i
-
 - *Al-Khulasah Al-Alfiyyah* by Abu Abdullah b. Malik
 
-Also known as *Afliyyat Ibn Malik*, this poem is commonly studied in schools throughout the Arab world. All the manahij of studying nahw go back to the Afilyyah, and one should memorize it given the time. It must be studied with the well-known commentary of Ibn Aqil.
+Also known as *Afliyyat Ibn Malik*, this poem is commonly studied in schools throughout the Arab world. All the manahij of studying nahw go back to Ibn Malik's *Afilyyah*, and one should memorize it given the time. Study it with the well-known commentary of Ibn Aqil, then follow that up by reading the commentary of al-Ushmuni. Complement this by reading *Ma’ani al-Nahw* by Fadil al-Samarra’i.
+
+- *Tasrif al-'Izzi* by 'Abd al-Wahhab al-Zanjani
+
+Read it with al-Taftazani's well-known commentary. Complement this with *Taysir al-I'lal wa'l-Ibdal* by 'Abd al-'Alim Ibrahim.
+
+- *Al-Minhaj Al-Wadih* by Hamid 'Awni
+
+This book is an excellent stepping stone between introductory books on balaghah and more advanced texts. Listen to the recordings of 'Ali Hani on this text.
 
 - *Mukhtasar al-Ma'ani* by Sa'd al-Din al-Taftazani
 
-This is an important text that will draw the connection between logic and balaghah, as well as opening up advanced texts on balaghah for study.
+This is an important text that will draw the connection between logic and balaghah, as well as opening up advanced texts on balaghah for study. Complement this with 'Abddurahman Habannaka's two-volume *al-Balaghah al-'Arabiyyah*.
 
 - *Al-'Umdah* by Ibn Rashiq al-Qayrawani
 
@@ -54,29 +62,51 @@ Maqamat al-Hariri is extremely important for building vocabulary. Complement thi
 
 # Advanced Level
 
-- *Ham’ al-Hawami’* by Jalal al-Din al-Suyuti
-
-This work is one of the best books ever written on nahw. He relied heavily on *al-Tadhyil* by Abu Hayyan in this work. Supplement it by reading *al-Muzhil* by the same author, an encycleopedic work that gathers various discussions in an accessible manner such that it can be used as a starting point for further research and exploration. 
-
 - *Tashil al-Fawa’id* by Abu Abdullah b. Malik
 
-Studying this book and its commentaries is very beneficial, the most of which is Abu Hayyan’s *al-Tadhyil wa’l-Takmil*, as he often disagrees with Ibn Malik. This should be coupled with al-Damamini’s excellent commentary, who was also very independent and made many i’tiradhat on many before him, including Abu Hayyan. When it comes to Ibn Malik, he refines and critiques his opinions, even his choice of words.
+Studying this book and its commentaries is very beneficial. Read Ibn Aqil's *Al-Musa'id* first, then move on to Hayyan’s *al-Tadhyil wa’l-Takmil*, where he often disagrees with Ibn Malik, and al-Damamini’s excellent commentary. Al-Damamini was also very independent and made many i’tiradhat on grammarians before him, including Abu Hayyan and Ibn Malik. 
 
 - *Mughni al-Labib* by Ibn Hisham al-Ansari
 
+- *Ham’ al-Hawami’* by Jalal al-Din al-Suyuti
+
+This work is one of the best books ever written on nahw. He relied heavily on *al-Tadhyil* by Abu Hayyan in this work. Supplement it by reading *al-Muzhir* by the same author, an encycleopedic work that gathers various discussions in an accessible manner such that it can be used as a starting point for further research and exploration. 
+
 - *Al-Kafiyah* by Abu 'Amr b. al-Hajib 
+
+- *Al-Shafiyah* by Abu 'Amr b. al-Hajib 
+
+Supplement this with *al-Mustasqa* by 'Abd al-Latif al-Khatib.
 
 - *Al-Mumti* by Ibn Usfur
 
-- *Al-Mustasqa* by 'Abd al-Latif al-Khatib
+- *Al-Taswir Al-Bayan* by Muhammad Abu Musa
+
+- *Khasa'is al-Tarakib* by Muhammad Abu Musa
+
+- *Dalalat al-Tarkib* by Muhammad Abu Musa
+
+- *'Ilm al-Badi'* by Muhammad Tawfiq Sa'd
+
+This work was is based on a mudhakkirah on badi' by Muhammad Abu Musa, which his closest student then developed into a textbook.
 
 # Mastery
 
 - *Al-Kitab* by Amr b. Uthman Sibawayh
 
+Read it with Sulayman al-'Uyuni's collection of important hawashi.  
+
 - *Al-Mufassal* by al-Zamakhshari
 
 - *Al-Munsif* by Abu'l-Fath b. Jinni
+
+- *Asrar al-Balaghah* by 'Abd al-Qadir al-Jurjani
+
+Preface reading this by covering *Madkhal ila Kitabi 'Abd al-Qadir al-Jurjani* by Muhammad Abu Musa, an introductory study to *Asrar al-Balaghah* and *Dala'il al-I'jaz*. Read the commentary of Muhammad Ibrahim Shadee. 
+
+- *Dala'il al-I'jaz* by 'Abd al-Qadir al-Jurjani
+
+Read Muhammad Ibrahim Shadee's commentary, along with Ibn 'Ashur's ta'liq.
 
 - *Bayan wa'l-Tabyin* by al-Jahidh
 

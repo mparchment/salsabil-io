@@ -18,7 +18,7 @@ This book offers insight into the rational foundations of the methodology employ
 
 - *Al-Arba’in* by Yahya b. Sharaf al-Nawawi
 
-This must be read with Ibn Rajab’s commentary, *Jami al-’Ulum wa’l-Hikam*. He has a clear style and often brings different variations of a narration or the statements of earlier scholars to establish the meaning of a hadith. This can be supplemented with *al-Ta’yin* by al-Tufi, who extracts important principles from the text. Hatim al-’Awni says that if someone reads these two books, he will emerge with fawa’id not found elsewhere.
+This must be read with Ibn Rajab’s commentary, *Jami al-’Ulum wa’l-Hikam*. He has a clear style and often brings different variations of a narration or the statements of earlier scholars to establish the meaning of a hadith. This can be supplemented with *al-Ta’yin* by al-Tufi, who extracts important principles from the text. Hatim al-’Awni says that if someone reads these two books, he will emerge with fawa’id not found elsewhere. 
 
 - *Al-Muqidhah* by Shams al-Din al-Dhahabi
 
