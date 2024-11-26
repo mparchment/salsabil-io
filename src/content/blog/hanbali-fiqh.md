@@ -21,7 +21,7 @@ This is the best introduction to the madhhab; it covers the sections of ‘ibada
 
 - *‘Umdat al-Talib* by Mansur b. Yunus al-Buhuti
 
-This is often the first text studied with a teacher covering each bab in fiqh. It should be read with its commentary, *Hidayat al-Raghib* by Ibn Qa’id al-Najdi. He mentions qawa’id, conditions, exceptions, and basic reasoning underlying each mas'alah. These are the most important things to learn for a student before moving onto the intermediate level. 
+This is often the first text studied with a teacher covering each bab in fiqh. It should be read with its commentary, *Hidayat al-Raghib* by Ibn Qa’id al-Najdi. He mentions qawa’id, conditions, exceptions, and basic reasoning underlying each mas'alah. These are the most important things to learn for a student before moving onto the intermediate level. Use *al-Qawa'id al-Kulliyyah* by Ibn al-Mibrad to memorize the conditions, pillars, and categorizations of each bab. 
 
 - *Dalil al-Talib li-Nayl al-Marib* by Mar’i b. Yusuf al-Karmi
 
