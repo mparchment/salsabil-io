@@ -17,7 +17,7 @@ Muwaffaq al-Din Ibn Qudamah al-Maqdisi (620 AH) wrote in the introduction to *al
 # Elementary Level
 - *Al-Aqwal Al-Mardiyyah* by Muhammad b. Sabu’ al-Dhahabi
 
-This is the best introduction to the madhhab; it covers the sections of ‘ibadah based upon the madhhab’s relied-upon opinions, mentions basic evidence for each issue, and avoids the terse language found in other primers. 
+This is the best introduction to the madhhab; it covers the sections of ‘ibadah based upon the madhhab’s relied-upon opinions, mentions basic evidence for each issue, and avoids the terse language found in other primers.
 
 - *‘Umdat al-Talib* by Mansur b. Yunus al-Buhuti
 
@@ -190,3 +190,7 @@ The encyclopedic commentaries of Maliki scholars on the Qur'an and hadith are al
 ## Hanafi Madhhab
 
 Imam Ahmad’s first teacher was Qadi Abu Yusuf, under whom he began seeking fiqh and hadith. Read *Al-Asl* and *Kitab al-Hujjah* by Muhammad b. Hasan al-Shaybani. *Al-Asl* is arguably the most important work in the history of fiqh due to the impact it had on those who came after. Then read *Sharh Mukhtasar al-Tahawi* by al-Jassas, *Sharh Mukhtasar al-Karkhi* by al-Quduri, which contains beneficial furu'i fawa'id, and *Fath al-Qadir* by Ibn al-Hummam. Reference *Bada’i al-Sana’i* by al-Kasani for fiqh al-khilaf, along with al-Tahawi's *Sharh Ma'ani al-Athar* and *Sharh Mushkil al-Athar* for commentary on hadith. 
+
+## Contemporary Works
+
+For finance, Taha Karaan also Taqi Usmani's *Fiqh al-Buyu'*. It is one of the few books on the topic written from a fiqhi perspeective, although one may disagree with his conclusions. Al-Dubyan has composed two encyclopedic books, *al-Mu'amalat al-Maliyah* and *Ahkam al-Taharah*, while 'Ali al-Qaradaghi has written *Haqibat Talib al-'Ilm*. All of these should be used for research on matters in this topic.
