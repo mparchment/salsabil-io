@@ -15,13 +15,15 @@ Muwaffaq al-Din Ibn Qudamah al-Maqdisi (620 AH) wrote in the introduction to *al
 
 
 # Elementary Level
+The purpose of this level is to gain sound conceptualization of the masa'il in each chapter of fiqh.
+
 - *Al-Aqwal Al-Mardiyyah* by Muhammad b. Sabu’ al-Dhahabi
 
 This is the best introduction to the madhhab; it covers the sections of ‘ibadah based upon the madhhab’s relied-upon opinions, mentions basic evidence for each issue, and avoids the terse language found in other primers. 
 
 - *‘Umdat al-Talib* by Mansur b. Yunus al-Buhuti
 
-This is often the first text studied with a teacher covering each bab in fiqh. It should be read with its commentary, *Hidayat al-Raghib* by Ibn Qa’id al-Najdi. He mentions qawa’id, conditions, exceptions, and basic reasoning underlying each mas'alah. These are the most important things to learn for a student before moving onto the intermediate level. 
+This is often the first text studied with a teacher that covers every bab in fiqh. Read with its excellent commentary, *Hidayat al-Raghib* by Ibn Qa’id al-Najdi and use *Ihkam al-Dhari'ah* by al-Surramari to become familiar with the ayat and hadith that form the underlying basis of the masa'il. The teacher should read *Fath Mawla al-Mawahib*, Ibn Iwad's hashiyah on *Hidayat al-Raghib*, for more detail. 
 
 - *Dalil al-Talib li-Nayl al-Marib* by Mar’i b. Yusuf al-Karmi
 
@@ -43,16 +45,22 @@ The author wrote this text as an abridgement *Tahrir al-Manqul* by al-Mardawi, w
 
 This book provides an introduction to the asbab of khilaf. It must be accompanied with the commentary of Yusuf al-Ghafis, which provides invaluable advice on dealing with khilaf and how to approach one’s studies. 
 
+- *Mukhtasar Tabaqat al-Hanabilah* by Jamil al-Shatti
+
 # Intermediate Level
+The purpose of this level is to understand masa'il in the context of usul al-fiqh and qawa'id. 
+
 - *Al-Rawd Al-Murbi’* by Mansur b. Yunus al-Buhuti
 
 This book is a brilliant commentary on *Zad al-Mustaqni’* by Musa al-Hajjawi. *Zad al-Mustaqni’* was itself abridged from *al-Muqni’* by Ibn Qudamah, which was written to introduce differences of opinion within the madhab. Al-Hajjawi restricted it to the madhhab’s official positions, removing rarely occurring issues and adding some of the more common ones. In contrast to *Dalil al-Talib*, which was widely studied in Sham, *Zad al-Mustaqni’* became the main text studied among Hanbalis in the Arabian Peninsula. *Zad al-Mustaqni’* is terse on its own and occasionally goes against the madhhab's relied-upon opinions, which is remedied by reading it with al-Buhuti's commentary.
 
-There is a large amount of masa’il in this book, and it requires a long time to explain correctly. Al-Buhuti's commentary includes details on the evidence, usul al-fiqh, and qawa'id. Due to the status of the original author, the abridger, and the commentator, *Al-Rawd Al-Murbi’* has become an extremely important work for the madhhab and relied upon for both teaching and delivering legal rulings. Complete listening to the recorded lessons of Muhammad ‘Abd al-Wahid on *Zad al-Mustaqni'* first, then watch his recordings on *Al-Rawd Al-Murbi'*. Use his published edition of the book titled *Jam al-Rahiq al-Mushbi’*. For major ishkal, begin referencing the commentaries of *al-Muqni'*: *al-Mumti'*, *al-Mubdi'*, *al-Sharh al-Kabir*, and *al-Insaf*. Doing this will build one's aptitude in fiqh and facilitate understanding the expressions in these longer books. 
+There is a large amount of masa’il in this book, and it requires a long time to explain correctly. It is typically the last book studied cover-to-cover with a teacher. Al-Buhuti's commentary includes details on the evidence, usul al-fiqh, and qawa'id. Due to the status of the original author, the abridger, and the commentator, *Al-Rawd Al-Murbi’* has become an extremely important work for the madhhab and relied upon for both teaching and delivering legal rulings. Complete listening to the recorded lessons of Muhammad ‘Abd al-Wahid on *Zad al-Mustaqni'* first, then watch his recordings on *Al-Rawd Al-Murbi'*. Use his published edition of the book titled *Jam al-Rahiq al-Mushbi’*. For major ishkal, begin referencing the commentaries of *al-Muqni'*: *al-Mumti'*, *al-Mubdi'*, *al-Sharh al-Kabir*, and *al-Insaf*. Doing this will build one's aptitude in fiqh and facilitate understanding the expressions in these longer books. 
 
 - *Al-’Umdah* by Ibn Qudamah al-Maqdisi
 
-Ibn Qudamah authored this book as a primer in his curriculum, consisting of his tarjih of the madhhab's positions. At this stage, it should be read with *Sharh al-’Umdah* by Ibn Taymiyyah. This commentary only covers the sections of ‘ibadah, yet it remains one of the most comprehensive works on adillah in the madhab. Ibn Taymiyyah makes it a point to mention all of the recorded positions within the madhab, along with explaining whether a position is from the riwayat, wujuh, or aqwal from the students of Ahmad. Complete this with the recorded lessons of Yusuf al-Ghafis on *al-’Umdah*. For contemporary issues, listen to the recordings of Hatem al-Haj and read his published commentary on *al-'Umdah*. 
+Ibn Qudamah originally authored this book as a primer in his curriculum, consisting of his own tarjih of the madhhab's opinions. At this stage, it should be read with *Sharh al-’Umdah* by Ibn Taymiyyah. This commentary only covers the chapters of ‘ibadah, yet it remains one of the most comprehensive works on adillah in the madhab. Ibn Taymiyyah makes it a point to mention all of the recorded positions within the madhab, along with explaining whether a position is from the riwayat, wujuh, or aqwal from the students of Ahmad. 
+
+Complete this with *al-'Uddah* by Baha al-Din al-Maqdisi, a student of the author and *al-'Umdah*'s most authoritative commentator. Listen to the recorded lessons of Yusuf al-Ghafis on *al-’Umdah*, who focuses on fiqh al-khilaf; for contemporary issues, listen to the recordings of Hatem al-Haj and read his published commentary on *al-'Umdah*.  
 
 - *Al-Bulbul* by Najm al-Din al-Tufi
 
@@ -82,11 +90,9 @@ Following this, collect and pursue all the other *masa'il* works. The most impor
 
 This indispensable work must be read in order to understand how the ashab interpreted the nusus of Imam Ahmad along with the terminology that frequently come up in his fatawa. 
 
-- *Al-’Umdah* by Ibn Qudamah al-Maqdisi
+- *Al-Maqsad Al-Arshad* by Burhan al-Din b. Muflih
 
-Ibn Qudamah originally authored this book as a primer in his curriculum, consisting of his own tarjih of the madhhab's opinions. At this stage, it should be read with *Sharh al-’Umdah* by Ibn Taymiyyah. This commentary only covers the chapters of ‘ibadah, yet it remains one of the most comprehensive works on adillah in the madhab. Ibn Taymiyyah makes it a point to mention all of the recorded positions within the madhab, along with explaining whether a position is from the riwayat, wujuh, or aqwal from the students of Ahmad. 
-
-Complete this with *al-'Uddah* by Baha al-Din al-Maqdisi, a student of the author and *al-'Umdah*'s most authoritative commentator. Listen to the recorded lessons of Yusuf al-Ghafis on *al-’Umdah*, who focuses on fiqh al-khilaf; for contemporary issues, listen to the recordings of Hatem al-Haj and read his published commentary on *al-'Umdah*. 
+Follow this up by reading *al-Suhub al-Wabilah* by Ibn Humayd. 
 
 # Advanced Level
 
@@ -143,6 +149,10 @@ At this juncture, one should begin the study of takhrij al-furu’ ‘ala al-usu
 One should commence the study of furuq with this work by al-Zarirani, the shaykh of al-Tufi and al-Dujayli. This book will serve as an excellent tool for understanding ta’lil and furuq.
 
 - *Taqrir al-Qawa’id* by Zayn al-Din Ibn Rajab
+
+- *Tabaqat al-Hanabilah* by Ibn Abi Ya'la 
+
+Follow this up with *Dhayl Tabaqat al-Hanabilah* by Ibn Rajab and *Dhayl Tabaqat Ibn Rajab* by Ibn al-Mibrad.
 
 # Mastery 
 - *Al-Muqni’* by Ibn Qudamah al-Maqdisi

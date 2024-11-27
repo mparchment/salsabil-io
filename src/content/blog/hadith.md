@@ -6,7 +6,7 @@ heroImage: '/azhar.jpeg'
 ---
 
 # Elementary Level
-At this stage, Shaykh Hatim al-'Awni recommends obsessively reading the *Sahihayn*, devoting a period each day for their study so that one completes reading them in a year. Aim to do this over four years, such as over the course of high school or university one graduates having read them several times. Once the time comes to study these books in depth, one will have a strong foundation to build upon. For memorization, one may also use *Jam' bayna al-Sahihayn* by Yahya al-Yahya. Listen to the recordings of Hamzah Elhabashy. The *Jam'* of 'Abd al-Haqq al-Ishbili is also excellent. It follows the tartib of *Sahih Muslim*, so one can quickly reference its commentaries when needed.
+At this stage, Shaykh Hatim al-'Awni recommends obsessively reading the *Sahihayn*, devoting a period each day for their study so that one completes reading them in a year. Aim to do this over four years, such as over the course of high school or university one graduates having read them several times. Once the time comes to study these books in depth, one will have a strong foundation to build upon. For memorization, one may also use *Jam' bayna al-Sahihayn* by Yahya al-Yahya. Listen to the recordings of Hamzah Elhabashy. The *Jam'* of 'Abd al-Haqq al-Ishbili is also excellent; it follows the tartib of *Sahih Muslim*, so one can quickly reference its commentaries when needed.
 
 - *Ma'rifat Ulum al-Hadith* by Hatim al-’Awni
 
@@ -56,6 +56,8 @@ This book must be read to expand one's understanding of fiqh al-hadith. It is hi
 - *Tahrir 'Ulum al-Hadith* by Abdullah b. Yusuf al-Judai'
 
 This comprehensive work expands on what has been learned so far. Use it to compare and synthesize knowledge from previous studies. Supplement this by reading Ibn ‘Abd al-Hadi’s rasa’il on hadith. Every work of his has fawa’id: not only ittila’, but also excellent ibarat that illustrate important points of naqd. Also read Tahir al-Jaza'iri's *Tawjih al-Nazar*, which is highly recommended by contemporary experts. The author was exceptionally skilled with manuscripts, and the relevant sections in his book are indispensable to learning how to deal with them.
+
+- *Tadhkirat al-Huffadh* by Shams al-Din al-Dhahabi
 
 - *Al-Madkhal ila-'Ilm al-Sunan* by Abu Bakr al-Bayhaqi
 

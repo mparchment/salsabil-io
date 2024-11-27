@@ -19,7 +19,7 @@ It must be accompanied with its outstanding commentary *Minhat al-Rahman* by ‘
 
 - *Durrat al-Madiyyah* by Muhamamd b. Ahmad al-Saffarini
 
-This is al-Saffarini’s famed poem on aqa’id. It must be accompanied with *Mukhtasar Lawami’ al-Anwar* by Hasan al-Shatti, his summary of al-Saffarini’s much longer commentary. Supplement this with ‘Abdullah al-’Abdullah's invaluable footnotes, titled *al-Taqrirat al-Hanbaliyyah*. 
+This is al-Saffarini’s famed poem on aqa’id. It must be accompanied with *Mukhtasar Lawami’ al-Anwar* by Hasan al-Shatti, his summary of al-Saffarini’s much longer commentary. Supplement this with ‘Abdullah al-’Abdullah's excellent commentary *al-Taqrirat al-Hanbaliyyah*. 
 
 - *Al-Tabsirah* by Abu Ya'la b. al-Farra'
 
