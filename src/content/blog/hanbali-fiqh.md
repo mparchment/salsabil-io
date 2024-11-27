@@ -19,11 +19,11 @@ The purpose of this level is to gain sound conceptualization of the masa'il in e
 
 - *Al-Aqwal Al-Mardiyyah* by Muhammad b. Sabu’ al-Dhahabi
 
-This is the best introduction to the madhhab; it covers the sections of ‘ibadah based upon the madhhab’s relied-upon opinions, mentions basic evidence for each issue, and avoids the terse language found in other primers. 
+This is the best introduction to the madhhab; it covers the sections of ‘ibadah based upon the madhhab’s relied-upon opinions, mentions basic evidence for each issue, and avoids the terse language found in other primers.
 
 - *‘Umdat al-Talib* by Mansur b. Yunus al-Buhuti
 
-This is often the first text studied with a teacher that covers every bab in fiqh. Read with its excellent commentary, *Hidayat al-Raghib* by Ibn Qa’id al-Najdi and use *Ihkam al-Dhari'ah* by al-Surramari to become familiar with the ayat and hadith that form the underlying basis of the masa'il. The teacher should read *Fath Mawla al-Mawahib*, Ibn Iwad's hashiyah on *Hidayat al-Raghib*, for more detail. 
+This is often the first text studied with a teacher that covers every bab in fiqh. Read with its excellent commentary, *Hidayat al-Raghib* by Ibn Qa’id al-Najdi and use *Ihkam al-Dhari'ah* by al-Surramari to become familiar with the ayat and hadith that form the underlying basis of the masa'il. The teacher should read *Fath Mawla al-Mawahib*, Ibn Iwad's hashiyah on *Hidayat al-Raghib*, for more detail. Use *al-Qawa'id al-Kulliyyah* by Ibn al-Mibrad to memorize the conditions, pillars, and categorizations of each bab. 
 
 - *Dalil al-Talib li-Nayl al-Marib* by Mar’i b. Yusuf al-Karmi
 
@@ -60,7 +60,7 @@ There is a large amount of masa’il in this book, and it requires a long time t
 
 Ibn Qudamah originally authored this book as a primer in his curriculum, consisting of his own tarjih of the madhhab's opinions. At this stage, it should be read with *Sharh al-’Umdah* by Ibn Taymiyyah. This commentary only covers the chapters of ‘ibadah, yet it remains one of the most comprehensive works on adillah in the madhab. Ibn Taymiyyah makes it a point to mention all of the recorded positions within the madhab, along with explaining whether a position is from the riwayat, wujuh, or aqwal from the students of Ahmad. 
 
-Complete this with *al-'Uddah* by Baha al-Din al-Maqdisi, a student of the author and *al-'Umdah*'s most authoritative commentator. Listen to the recorded lessons of Yusuf al-Ghafis on *al-’Umdah*, who focuses on fiqh al-khilaf; for contemporary issues, listen to the recordings of Hatem al-Haj and read his published commentary on *al-'Umdah*.  
+Complete this with *al-'Uddah* by Baha al-Din al-Maqdisi, a student of the author and *al-'Umdah*'s most authoritative commentator. Listen to the recorded lessons of Yusuf al-Ghafis on *al-’Umdah*, who focuses on fiqh al-khilaf; for contemporary issues, listen to the recordings of Hatem al-Haj and read his published commentary on *al-'Umdah*. 
 
 - *Al-Bulbul* by Najm al-Din al-Tufi
 
@@ -90,9 +90,11 @@ Following this, collect and pursue all the other *masa'il* works. The most impor
 
 This indispensable work must be read in order to understand how the ashab interpreted the nusus of Imam Ahmad along with the terminology that frequently come up in his fatawa. 
 
-- *Al-Maqsad Al-Arshad* by Burhan al-Din b. Muflih
+- *Al-’Umdah* by Ibn Qudamah al-Maqdisi
 
-Follow this up by reading *al-Suhub al-Wabilah* by Ibn Humayd. 
+Ibn Qudamah originally authored this book as a primer in his curriculum, consisting of his own tarjih of the madhhab's opinions. At this stage, it should be read with *Sharh al-’Umdah* by Ibn Taymiyyah. This commentary only covers the chapters of ‘ibadah, yet it remains one of the most comprehensive works on adillah in the madhab. Ibn Taymiyyah makes it a point to mention all of the recorded positions within the madhab, along with explaining whether a position is from the riwayat, wujuh, or aqwal from the students of Ahmad. 
+
+Complete this with *al-'Uddah* by Baha al-Din al-Maqdisi, a student of the author and *al-'Umdah*'s most authoritative commentator. Listen to the recorded lessons of Yusuf al-Ghafis on *al-’Umdah*, who focuses on fiqh al-khilaf; for contemporary issues, listen to the recordings of Hatem al-Haj and read his published commentary on *al-'Umdah*. 
 
 # Advanced Level
 
@@ -200,3 +202,7 @@ The encyclopedic commentaries of Maliki scholars on the Qur'an and hadith are al
 ## Hanafi Madhhab
 
 Imam Ahmad’s first teacher was Qadi Abu Yusuf, under whom he began seeking fiqh and hadith. Read *Al-Asl* and *Kitab al-Hujjah* by Muhammad b. Hasan al-Shaybani. *Al-Asl* is arguably the most important work in the history of fiqh due to the impact it had on those who came after. Then read *Sharh Mukhtasar al-Tahawi* by al-Jassas, *Sharh Mukhtasar al-Karkhi* by al-Quduri, which contains beneficial furu'i fawa'id, and *Fath al-Qadir* by Ibn al-Hummam. Reference *Bada’i al-Sana’i* by al-Kasani for fiqh al-khilaf, along with al-Tahawi's *Sharh Ma'ani al-Athar* and *Sharh Mushkil al-Athar* for commentary on hadith. 
+
+## Contemporary Works
+
+For finance, Taha Karaan also Taqi Usmani's *Fiqh al-Buyu'*. It is one of the few books on the topic written from a fiqhi perspeective, although one may disagree with his conclusions. Al-Dubyan has composed two encyclopedic books, *al-Mu'amalat al-Maliyah* and *Ahkam al-Taharah*, while 'Ali al-Qaradaghi has written *Haqibat Talib al-'Ilm*. All of these should be used for research on matters in this topic.

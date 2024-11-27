@@ -17,13 +17,13 @@ Read the transcribed commentary of ‘Abdullah al-’Abdullah.
 
 It must be accompanied with its outstanding commentary *Minhat al-Rahman* by ‘Abdullah al-’Abdullah. *Qala'id al-Iqyan* and its longer source text, *Nihayat al-Mubtadi'in*, was written using the methodology of the mutakallimin. In his commentary, Shaykh 'Abdullah brings details gathered from longer works across various ‘ulum, and explains terminology that requires additional context. 
 
-- *Durrat al-Madiyyah* by Muhamamd b. Ahmad al-Saffarini
+- *Mukhtasar Lawami' al-Anwar* by Hasan al-Shatti 
 
 This is al-Saffarini’s famed poem on aqa’id. It must be accompanied with *Mukhtasar Lawami’ al-Anwar* by Hasan al-Shatti, his summary of al-Saffarini’s much longer commentary. Supplement this with ‘Abdullah al-’Abdullah's excellent commentary *al-Taqrirat al-Hanbaliyyah*. 
 
 - *Al-Tabsirah* by Abu Ya'la b. al-Farra'
 
-This book is sometimes mistakenly attributed to Abu Ya'la's student, al-Shirazi. It was written by Abu Ya'la after all of his other credal books, and as such, it represents his final views. 
+This book is has been mistakenly attributed to Abu Ya'la's student, al-Shirazi. It was written by Abu Ya'la after all of his other credal books, and as such, it represents his final views. 
 
 - *Takfir Ahl al-Shahadatayn* by Hatim b. ‘Arif al-’Awni
 
@@ -49,7 +49,7 @@ This book was authored by Ibn Hamdan to write down the aqa’id of Imam Ahmad, a
 - *Al-Irshad fi’l-I’tiqad* by Abu’l-Wafa b. ‘Aqil
 - *Al-Idah* by ‘Ali b. ‘Ubaydullah al-Zaghuni
 
-Use the edition of Muhammad ‘Abd al-Wahid, which provides the reference for each position mentioned, and listen to the recorded commentary of ‘Abdurrahman al-Salti.
+Use the edition of Muhammad ‘Abd al-Wahid, which provides the reference for each position mentioned, and listen to the recordings of ‘Abdurrahman al-Salti.
 
 - *Lawami’ al-Anwar* by Ahmad b. Muhammad al-Saffarini
 
