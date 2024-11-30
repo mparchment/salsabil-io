@@ -12,44 +12,37 @@ Read the transcribed commentary of ‘Abdullah al-’Abdullah.
 
 - *Mukhtasar al-Aqa’id* by Mubarak b. Rashid al-Hathlan
 
+Supplement this by reading two important works by Hatim al-'Awni: *Takfir Ahl al-Shahadatayn* and *Mafhum Shirk al-'Ibadah*.
+
 # Intermediate Level
 - *Qala’id al-Iqyan* by Ibn Balban al-Ba’li
 
-It must be accompanied with its outstanding commentary *Minhat al-Rahman* by ‘Abdullah al-’Abdullah. *Qala'id al-Iqyan* and its longer source text, *Nihayat al-Mubtadi'in*, was written using the methodology of the mutakallimin. In his commentary, Shaykh 'Abdullah brings details gathered from longer works across various ‘ulum, and explains terminology that requires additional context. 
+It must be accompanied with 'Abdullah al-'Abdullah's transcribed commentary, followed by his outstanding hashiyah *Minhat al-Rahman*. *Qala'id al-Iqyan* and its longer source text, *Nihayat al-Mubtadi'in*, was written using the methodology of the mutakallimin. In his commentary, Shaykh 'Abdullah brings details gathered from longer works across various ‘ulum, and explains terminology that requires additional context. 
+
+Complement this by reading *Aqawil al-Thiqat* by al-Karmi, along with his short treatises on issues of 'aqidah: *Tawdih al-Burhan*, *Raf' al-Shubhah*, *Tawqif al-Firiqayn*, *Tahqiq al-Burhan*, *Raf al-Talbis*, *Arwah al-Ashbah*, *al-Rawd al-Nadr*, and *Fara'id Fawa'id al-Fikr*. 
 
 - *Mukhtasar Lawami' al-Anwar* by Hasan al-Shatti 
 
-This is al-Saffarini’s famed poem on aqa’id. It must be accompanied with *Mukhtasar Lawami’ al-Anwar* by Hasan al-Shatti, his summary of al-Saffarini’s much longer commentary. Supplement this with ‘Abdullah al-’Abdullah's excellent commentary *al-Taqrirat al-Hanbaliyyah*. 
+This is Hasan al-Shatti's summary of al-Saffarini's much longer commentary on his poem. Complement it with 'Abdullah al-'Abdullah's excellent commentary *al-Taqrirat al-Hanbaliyyah*. 
+
+Also read *Hallal al-'Uqad* by al-Tufi, a detailed commentary on Hadith Jibril. In this book, al-Tufi presents the views of other groups and assesses their evidence from an impartial perspective. Keep in mind that the author was very independent, and he does not always privilege the relied-upon opinions of the madhhab. 
 
 - *Al-Tabsirah* by Abu Ya'la b. al-Farra'
 
-This book is has been mistakenly attributed to Abu Ya'la's student, al-Shirazi. It was written by Abu Ya'la after all of his other credal books, and as such, it represents his final views. 
-
-- *Takfir Ahl al-Shahadatayn* by Hatim b. ‘Arif al-’Awni
-
-- *Mafhum Shirk al-’Ibadah* by Hatim b. ‘Arif al-’Awni
-
-- *Aqawil al-Thiqat* by Mar’i b. Yusuf al-Karmi
-
-- *Al-Ha'iyyah* by Ibn Abi Dawud
-
-At this stage, this poem should be read with its brief commentary *al-Usul al-Mujarradah* by Ibn al-Banna'.
-
-- *Hallal al-’Uqad* by Najm al-Din al-Tufi
-
-This work is structured as a detailed commentary on Hadith Jibril. In this book, al-Tufi presents the views of other groups and assesses their evidence from an impartial perspective. 
+This book is has been mistakenly attributed to Abu Ya'la's student, al-Shirazi. It was written by Abu Ya'la after all of his other credal books, and as such, it represents his final views. Complement this by reading *al-Usul al-Mujarradah* by Ibn al-Banna', his commentary on Ibn Abi Dawud's *Ha'iyyah*.
 
 # Advanced Level
 - *Nihayat al-Mubtadi’in* by Ibn Hamdan al-Harrani
 
-This book was authored by Ibn Hamdan to write down the aqa’id of Imam Ahmad, and it was heavily relied upon by both Ibn Muflih and al-Mardawi. Ibn Hamdan was also praised by Ibn Rajab as a master of the madhhab’s usul in fiqh and din. To understand the rationale of each qawl, it is important to read the passage it was taken from; typically from the following works:
+This book was authored by Ibn Hamdan to write down the aqa’id of Imam Ahmad, and it was heavily relied upon by both Ibn Muflih and al-Mardawi. Ibn Hamdan was also praised by Ibn Rajab as a master of the madhhab’s usul in fiqh and din. *Nihayat al-Mubtadi'in* itself is relatively brief, but while studying it, one should simultaneously read the original passage each position is taken from. They are typically from the following works:
 
 - *Mukhtasar al-Mu’tamad* by Abu Ya’la b. al-Farra’
+- *Ibtal al-Ta'wilat* by Abu Ya’la b. al-Farra’
 - *I’tiqad al-Imam al-Munabbal* by Abu’l-Fadl al-Tamimi
 - *Al-Irshad fi’l-I’tiqad* by Abu’l-Wafa b. ‘Aqil
 - *Al-Idah* by ‘Ali b. ‘Ubaydullah al-Zaghuni
 
-Use the edition of Muhammad ‘Abd al-Wahid, which provides the reference for each position mentioned, and listen to the recordings of ‘Abdurrahman al-Salti.
+Use the Muhammad ‘Abd al-Wahid's edition of *Nihayat al-Mubtadi'in*, which provides the reference for each position mentioned, and listen to the recordings of ‘Abdurrahman al-Sallti.
 
 - *Lawami’ al-Anwar* by Ahmad b. Muhammad al-Saffarini
 
@@ -61,28 +54,14 @@ This book is al-Saffarini's commentary on Ibn Abi Dawud's *Ha'iyyah*.
 
 # Mastery
 
+- *Al-Ibanah Al-Kubra* by Ibn Battah al-'Ukbari
+
 - *Al-Sunnah* by Abu Bakr al-Khallal
 
-Abu Bakr al-Khallal can be considered the true founder of the Hanbali madhhab, as he was responsible for gathering the statements of Ahmad's students in both fiqh and creed.
+Abu Bakr al-Khallal can be considered the founder of the Hanbali madhhab, as he was responsible for gathering the statements of Ahmad's students in both fiqh and creed.
 
-# Relied-Upon Texts
+## Ash'ari Madhhab
 
-In his introduction to his edition of *Nihayat al-Mubtadi'in*, Shaykh Muhammad 'Abd al-Wahid said that, "the books relied upon by the Hanabilah in studying 'aqidah, which represent the predominant approach among them, are:
+Truly mastering issues of 'aqidah and accurately conveying the positions of the madhhab across different frameworks requires a deep understanding of the Ash'ari school and their writings, especially due to their long-standing engagement with kalam and philosophy. Several major late Hanbali scholars formally studied Ash'ari works and wrote commentaries on them. Read through Imam al-Sanusi's series, *al-Silsilah al-'Aqdiyyah*, which takes the reader from the basics to an advanced level. For the last text, read *al-Rawd al-Anisi 'ala Kubra al-Sanusi* by Ibn 'Iwad.
 
-- *Mukhtasar al-Mu'tamad* by Al-Qadi Abu Ya'la
-- *Lum'at al-I'tiqad* by Muwaffaq [al-Din Ibn Qudamah]
-- *Nihayat al-Mubtadi'in* by Ibn Hamdan
-- *Al-'Ayn wa'l-Athar* by 'Abd al-Baqi al-Ba'li
-- *Mukhtasar Nihayat al-Mubtadi'in* by Ibn Balban
-- *Najat al-Khalaf* by Uthman al-Najdi
-- *Al-Durrat Al-Madiyyah* by Al-Saffarini, along with its commentary and its commentary's abridgements by the madhhab's scholars such as Ibn Salum and Hasan al-Shatti.
-
-Some of these books are summaries, and some do not cover every topic. However, they all align on the issues they discuss. None of them differ on the major points.
-
-There are also books which mention the internal difference of opinion among the Hanbalis, providing a more detailed presentation of views within the madhab. Examples of such works include *Nihayat al-Mubtadi'in* by Ibn Hamdan, *Tuhfat al-Wusul* by Ibn al-Mibrad, and *Al-Durrat al-Madiyyah* by Al-Saffarini.
-
-As for the books of Shaykh al-Islam Ibn Taymiyyah, may Allah have mercy upon him, they are not meant for methodically studying 'aqidah. They are either long treatises, answers to questions, discussions on specific topics, or refutations not restricted to theory. The scholars of the Hanbali madhhab have benefited from his books and transmit them, such as Ibn 'Atwah (948 AH), and as we see their transmission of *Minhaj al-Sunnah*, among other of his extensive books. 
-
-The theological positions of Shaykh al-Islam Ibn Taymiyyah are mentioned by the Hanbalis when they are within the madhhab, and they made sure to mention them, as seen with Ibn al-Mibrad, Mar'i [al-Karmi], and Al-Saffarini. They agreed with some of his views and disagreed with others.
-
-However, the madhhab is larger than Ibn Taymiyyah, and it is too broad to be confined to the views of a single scholar even in spite of the Hanbali's reverence for Ibn Taymiyyah, their appreciation of him, and their support of him. This is whether concerning his personal opinions in 'aqidah, fiqh, or usul."
+Following this, read *Sharh al-Arba'in* by al-Qarafi and al-Khalwati's hashiyah on *Sharh Aqa'id al-Nasafiyyah* by al-Taftazani. For more detail, read *al-Shamil* by al-Juwayni, along with *Sharh al-Irshad* and *al-Ghunyah* by al-Ansari, one of his closest students. Al-Juwayni was a brilliant and often better at pinpointing various issues than others.
