@@ -14,7 +14,7 @@ Begin with this introductory text to build a solid foundation in hadith sciences
 
 - *Al-Usus al-'Aqliyyah* by Hatim al-’Awni
 
-This book offers insight into the rational foundations of the methodology employed by hadith scholars.
+This book offers insight into the rational foundations of the methodology employed by hadith scholars. Follow this up by reading *Sharh al-Hadith al-Nabawi* also by Hatim al-'Awni. He dedicates separate chapters on how to accurately understand hadith, legal theory of hadith, apparent meanings of hadith, reconciling conflicting reports, and consensus among many other topics.
 
 - *Al-Arba’in* by Yahya b. Sharaf al-Nawawi
 
@@ -22,7 +22,7 @@ This must be read with Ibn Rajab’s commentary, *Jami al-’Ulum wa’l-Hikam*.
 
 - *Al-Muqidhah* by Shams al-Din al-Dhahabi
 
-Al-Dhahabi's work is unique because it introduces the applied aspect of mustalah early on. Research the narrators mentioned by al-Dhahabi in *Tahdhib al-Kamal* by al-Mizzi and *Mizan al-I'tidal* by al-Dhahabi, taking note of the language used to describe them. Study *al-Muqidhah* with its commentaries by Abdullah al-Sa'd and Hatim al-'Awni. Supplement this with *al-Muntakhab min ‘Ilal al-Khallal* by Ibn Qudamah, which introduces what many of the topics discussed in *al-Muqidhah* look like in practice.
+Al-Dhahabi's work is unique because it introduces the applied aspect of mustalah early on. Research the narrators mentioned by al-Dhahabi in *Tahdhib al-Kamal* by al-Mizzi and *Mizan al-I'tidal* by al-Dhahabi, taking note of the language used to describe them. Study *al-Muqidhah* with its commentaries by Abdullah al-Sa'd and Hatim al-'Awni. Supplement this with *al-Muntakhab min ‘Ilal al-Khallal* by Ibn Qudamah, which introduces what many of the topics discussed in *al-Muqidhah* look like in practice, and Imam Muslim's *Muqaddimah* to his *Sahih*, where he implicitly lays out the five conditions of authenticity.
 
 At this point, listen to *Tarikh Nushu' Musannafat al-Sunnah* by Sheikh Hatim al-’Awni, which consists of six lectures which offer an unparalleled understanding of the development of hadith as a field. Follow this up with *Min al-Nabi ila al-Bukhari* by Snobar, which covers the transmission and compilation of hadith from the Prophet, peace be upon him, to Imam al-Bukhari, providing important historical context.
 
@@ -82,7 +82,7 @@ Reading through these books will allow one gain more familiarity with the langua
 
 - *Kitab al-Tamyiz* by Imam Muslim
 
-In this work, Muslim clearly details his methodology of critiquing hadith. Listen to the commentary of Abdullah al-Sa'd. This will significantly deepen one’s understanding of hadith criticism and its application. Accompany this by reading Muslim's *Muqaddimah* to his *Sahih*, where he implicitly lays out the five conditions of authenticity.
+In this work, Muslim clearly details his methodology of critiquing hadith. Listen to the commentary of Abdullah al-Sa'd. This will significantly deepen one’s understanding of hadith criticism and its application. 
 
 - *Al-'Illat wa-Ajnasuha* by Mustafa Bahu
 
